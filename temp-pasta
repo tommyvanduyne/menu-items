@@ -1,0 +1,262 @@
+Array
+(
+    [american] => Array
+        (
+            [pasta] => 218
+            [pasta primavera] => 16
+            [pasta salad] => 13
+            [pasta bolognese] => 8
+            [pasta with meatballs] => 5
+            [pasta with shrimp] => 4
+            [pasta of the day] => 3
+            [pasta carbonara] => 3
+            [pasta alfredo] => 3
+            [pasta and sauce] => 3
+            [pasta ziti and linguini] => 3
+            [pasta with eggplant parmesan] => 3
+            [pasta with chicken parmesan] => 3
+            [pasta with butter and cheese] => 2
+            [pasta da vinci] => 2
+            [pasta cacio e pepe] => 2
+            [pasta your way] => 2
+            [pasta with sauce] => 2
+            [pastaandcomma; and broccoli] => 2
+            [pasta with housemade chorizo] => 2
+            [pasta new orleans] => 2
+            [pastaandcomma; pestoandcomma; and tomatoes] => 2
+            [pasta tinta de calamari] => 1
+            [pasta with shrimp and sausage] => 1
+            [pasta w meatballs] => 1
+        )
+
+    [all] => Array
+        (
+            [pasta] => 701
+            [with pasta] => 100
+            [chicken pasta] => 94
+            [pasta salad] => 62
+            [pasta primavera] => 55
+            [pesto pasta] => 50
+            [over pasta] => 40
+            [chicken pesto pasta] => 38
+            [style with pasta] => 36
+            [and pasta] => 34
+            [cheese pasta] => 34
+            [penne pasta] => 32
+            [kids pasta] => 30
+            [parmesan with pasta] => 30
+            [parm pasta] => 30
+            [orecchiette pasta] => 30
+            [vegetable pasta] => 28
+            [pasta with meatballs] => 24
+            [alfredo pasta] => 24
+            [vegetable orecchiette pasta] => 24
+            [shrimp scampi over pasta] => 22
+            [scampi over pasta] => 22
+            [four cheese pasta] => 20
+            [own pasta] => 20
+            [your own pasta] => 20
+        )
+
+    [italian] => Array
+        (
+            [pasta] => 270
+            [pasta primavera] => 18
+            [pasta e fagioli] => 15
+            [pasta salad] => 15
+            [pasta with meatballs] => 11
+            [pasta marinara] => 10
+            [pasta with chicken parmesan] => 7
+            [pasta with marinara sauce] => 7
+            [pasta and broccoli] => 7
+            [pasta alla bolognese] => 7
+            [pasta with sausage] => 7
+            [pasta fagioli] => 6
+            [pastas] => 6
+            [pasta scampi style] => 6
+            [pasta con pollo] => 5
+            [pasta and meatballs] => 4
+            [pasta with veal parmesan] => 4
+            [pasta alfredo style with a creamy sauce] => 4
+            [pasta all medici] => 4
+            [pasta with sauce] => 4
+            [pasta with chicken cutlet] => 4
+            [pasta with sauce and cheese] => 4
+            [pasta with marinara sauce and parmigiana cheese] => 4
+            [pasta with creamy vodka sauce] => 4
+            [pasta fagioli (crock)] => 4
+        )
+
+    [bar] => Array
+        (
+            [pasta] => 63
+            [pasta primavera] => 7
+            [pasta with pesto] => 3
+            [pasta and sauce] => 2
+            [pasta salad] => 2
+            [pasta bolognese] => 2
+            [pasta new orleans] => 2
+            [pasta in butter or red sauce] => 1
+            [pasta di casa] => 1
+            [pasta shells] => 1
+            [pasta with butter and cheese] => 1
+        )
+
+    [ethnic] => Array
+        (
+            [pasta] => 26
+            [pasta with pesto] => 3
+            [pasta platter] => 3
+            [pasta with eggplant] => 2
+            [pasta salad] => 2
+            [pasta primavera] => 2
+            [pasta with italian sauce and cheese] => 2
+            [pasta with meatballs] => 2
+            [pasta in butter or red sauce] => 1
+            [(pasta bolognese)] => 1
+            [pasta shells] => 1
+            [pasta mouchoir] => 1
+            [pasta veggie salad] => 1
+            [pasta with butter and cheese] => 1
+        )
+
+    [cafe] => Array
+        (
+            [pasta] => 88
+            [pasta salad] => 23
+            [pasta primavera] => 11
+            [pasta with meatballs] => 7
+            [pasta with chicken cutlet] => 5
+            [pastas] => 4
+            [pasta with italian sausage] => 4
+            [pasta sauce] => 4
+            [pasta and marinara] => 4
+            [pasta with grilled chicken] => 4
+            [pasta with sausage] => 4
+            [pasta with veal cutlet] => 4
+            [pasta bow ties] => 3
+            [pasta with marinara sauce] => 3
+            [pasta saladandcomma; potato salad or cole slaw] => 3
+            [pasta marinara] => 3
+            [pasta and meatballs] => 3
+            [pasta bolognese] => 3
+            [pasta saladandcomma; bowtie or couscous] => 3
+            [pasta and sausage] => 3
+            [pasta with meatball] => 3
+            [pasta and eggplant] => 3
+            [pasta with eggplant] => 3
+            [pasta with meatballs and sausage] => 2
+            [pasta al pesce] => 2
+        )
+
+    [grill] => Array
+        (
+            [pasta] => 10
+            [pasta with shrimp] => 2
+            [pasta salad] => 2
+            [pasta alfredo] => 2
+            [pasta special] => 1
+            [pasta salad (v)] => 1
+            [pasta or red bean rice] => 1
+            [(pasta bolognese)] => 1
+            [pasta of the day with 2 meatballs and salad] => 1
+            [pasta of the day with meatballs] => 1
+        )
+
+    [mexican or latin] => Array
+        (
+            [pasta] => 6
+            [pasta salad] => 5
+            [pasta margarita] => 2
+            [pasta with tuna] => 2
+            [pasta and broccoli] => 2
+            [pasta or red bean rice] => 2
+            [pasta salad (v)] => 1
+            [pasta special] => 1
+            [pasta sudado a la criolla] => 1
+            [pasta tuscan salad (v)] => 1
+        )
+
+    [deli] => Array
+        (
+            [pasta] => 79
+            [pasta salad] => 16
+            [pasta primavera] => 11
+            [pasta with meatballs] => 7
+            [pasta with chicken cutlet] => 5
+            [pastas] => 4
+            [pasta with grilled chicken] => 4
+            [pasta and marinara] => 4
+            [pasta with sausage] => 4
+            [pasta with italian sausage] => 4
+            [pasta with veal cutlet] => 4
+            [pasta sauce] => 4
+            [pasta and eggplant] => 3
+            [pasta marinara] => 3
+            [pasta and sausage] => 3
+            [pasta and meatballs] => 3
+            [pasta with marinara sauce] => 3
+            [pasta with meatball] => 3
+            [pasta with eggplant] => 3
+            [pasta bow ties] => 2
+            [pasta saladandcomma; potato salad or cole slaw] => 2
+            [pasta with 3 meatballs and marinara sauce] => 2
+            [pasta with 2 meatballs and marinara sauce] => 2
+            [pastaandcomma; and broccoli] => 2
+            [pasta with italian meatballs] => 2
+        )
+
+    [other] => Array
+        (
+            [pasta sauce] => 4
+        )
+
+    [healthy] => Array
+        (
+            [pasta] => 26
+            [pasta with pesto] => 3
+            [pasta bolognese] => 3
+            [pasta bowl] => 2
+            [pasta with creamy vodka sauce] => 2
+            [pasta primavera] => 2
+            [pasta salad] => 2
+            [pasta alfredo style with a creamy sauce] => 1
+            [pasta con pollo] => 1
+            [pasta diablo] => 1
+            [pasta all medici] => 1
+            [pasta alla bolognese] => 1
+            [pasta shells] => 1
+            [pasta scampi style] => 1
+            [pastas] => 1
+            [pasta marinara] => 1
+            [pasta and meatballs] => 1
+        )
+
+    [desserts] => Array
+        (
+            [pasta] => 22
+            [pasta carbonara] => 3
+            [pasta da vinci] => 2
+            [pasta robes] => 1
+            [pasta with shrimp and sausage] => 1
+            [pasta with meat sauce] => 1
+            [pasta and meatballs] => 1
+            [pasta ragu] => 1
+        )
+
+    [asian] => Array
+        (
+            [pasta] => 7
+            [pasta salad] => 1
+        )
+
+    [southern] => Array
+        (
+            [pasta or red bean rice] => 2
+            [pasta salad (v)] => 1
+            [pasta special] => 1
+            [pasta] => 1
+            [pasta tuscan salad (v)] => 1
+        )
+
+)

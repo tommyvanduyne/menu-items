@@ -1,0 +1,1546 @@
+Array
+(
+    [all] => Array
+        (
+            [salmon] => 1951
+            [smoked salmon] => 308
+            [salmon roll] => 178
+            [atlantic salmon] => 157
+            [grilled salmon] => 151
+            [salmon teriyaki] => 140
+            [salmon maki] => 131
+            [spicy salmon] => 98
+            [salmon burger] => 82
+            [salmon roe] => 81
+            [seared salmon] => 80
+            [glazed salmon] => 73
+            [spicy salmon roll] => 71
+            [salmon salad] => 70
+            [salmon fillet] => 66
+            [roasted salmon] => 56
+            [spicy salmon maki] => 54
+            [pan seared salmon] => 50
+            [island salmon] => 45
+            [teriyaki salmon] => 43
+            [faroe island salmon] => 43
+            [or salmon] => 41
+            [salmon skin maki] => 39
+            [salmon skin roll] => 39
+            [salmon choo chee] => 36
+        )
+
+    [american] => Array
+        (
+            [salmon] => 271
+            [atlantic salmon] => 37
+            [smoked salmon] => 34
+            [grilled salmon] => 33
+            [seared salmon] => 22
+            [glazed salmon] => 18
+            [salmon burger] => 17
+            [roasted salmon] => 12
+            [salmon salad] => 11
+            [faroe island salmon] => 10
+            [pan seared salmon] => 10
+            [salmon fillet] => 10
+            [island salmon] => 10
+            [salmon sandwich] => 7
+            [crusted salmon] => 7
+            [salmon filet] => 7
+            [smoked salmon benedict] => 6
+            [grilled atlantic salmon] => 6
+            [salmon benedict] => 6
+            [roasted atlantic salmon] => 6
+            [scottish salmon] => 5
+            [miso glazed salmon] => 5
+            [pan roasted atlantic salmon] => 5
+            [citrus glazed salmon] => 5
+            [plank salmon] => 4
+        )
+
+    [seafood] => Array
+        (
+            [salmon] => 91
+            [atlantic salmon] => 19
+            [island salmon] => 12
+            [faroe island salmon] => 12
+            [smoked salmon] => 12
+            [grilled salmon] => 10
+            [salmon fillet] => 8
+            [roasted atlantic salmon] => 4
+            [salmon burger] => 4
+            [grilled faroe island salmon] => 4
+            [salmon filet] => 4
+            [pan roasted atlantic salmon] => 4
+            [glazed salmon] => 4
+            [wild salmon] => 3
+            [hiddenfjord faroe island salmon] => 3
+            [mediterranean salmon] => 3
+            [grilled mediterranean salmon] => 3
+            [salmon salad] => 3
+            [salmon tartare] => 3
+            [wild columbia river salmon] => 2
+            [salmon blt] => 2
+            [bay of fundy salmon] => 2
+            [house smoked salmon] => 2
+            [nutty atlantic salmon] => 2
+            [of fundy salmon] => 2
+        )
+
+    [american (new)] => Array
+        (
+            [salmon] => 152
+            [smoked salmon] => 24
+            [atlantic salmon] => 23
+            [seared salmon] => 17
+            [roasted salmon] => 10
+            [grilled salmon] => 9
+            [glazed salmon] => 8
+            [island salmon] => 8
+            [faroe island salmon] => 8
+            [pan seared salmon] => 7
+            [salmon fillet] => 6
+            [salmon burger] => 6
+            [salmon filet] => 5
+            [crusted salmon] => 5
+            [salmon sandwich] => 4
+            [miso glazed salmon] => 4
+            [salmon benedict] => 3
+            [salmon cake] => 3
+            [seared atlantic salmon] => 3
+            [ora king salmon] => 3
+            [smoked salmon benedict] => 3
+            [king salmon] => 3
+            [house smoked salmon] => 3
+            [salmon salad] => 3
+            [grilled atlantic salmon] => 3
+        )
+
+    [cocktails] => Array
+        (
+            [salmon] => 95
+            [smoked salmon] => 17
+            [roasted salmon] => 9
+            [seared salmon] => 8
+            [atlantic salmon] => 8
+            [salmon roll] => 6
+            [salmon burger] => 6
+            [spicy salmon] => 5
+            [pan seared salmon] => 4
+            [glazed salmon] => 4
+            [grilled salmon] => 4
+            [spicy salmon roll] => 3
+            [scottish salmon] => 3
+            [house spicy salmon] => 3
+            [salmon salad] => 3
+            [grilled atlantic salmon] => 2
+            [king salmon] => 2
+            [salmon roe] => 2
+            [salmon sandwich] => 2
+            [salmon a la plancha] => 2
+            [house-smoked salmon] => 2
+            [atlantic salmon a la plancha] => 2
+            [cedar plank salmon] => 2
+            [plank salmon] => 2
+            [sake salmon] => 2
+        )
+
+    [mediterranean] => Array
+        (
+            [salmon] => 24
+            [smoked salmon] => 5
+            [salmon benedict] => 3
+            [crusted salmon] => 2
+            [salmon fillet] => 2
+            [rum and tobacco smoked salmon] => 2
+            [scottish salmon] => 2
+            [horseradish crusted salmon] => 2
+            [harissa glazed salmon] => 2
+            [and salmon] => 2
+            [glazed salmon] => 2
+            [2 eggsandcomma; salmon] => 2
+            [winter place rum and tobacco smoked salmon] => 2
+            [place rum and tobacco smoked salmon] => 2
+            [smoked salmon benedict] => 2
+            [tobacco smoked salmon] => 2
+            [eggsandcomma; salmon] => 2
+            [and tobacco smoked salmon] => 2
+            [scottish salmon on risotto of white asparagus] => 1
+            [salmon on risotto of white asparagus] => 1
+            [grilled white salmon] => 1
+            [charcoaled grilled white salmon] => 1
+            [white salmon] => 1
+            [white miso salmon] => 1
+            [salmon ahumado] => 1
+        )
+
+    [french] => Array
+        (
+            [salmon] => 39
+            [smoked salmon] => 14
+            [atlantic salmon] => 5
+            [salmon benedict] => 3
+            [house smoked salmon] => 3
+            [columbia river salmon] => 2
+            [wild columbia river salmon] => 2
+            [roasted salmon] => 2
+            [salmon salad] => 2
+            [fundy salmon] => 2
+            [salmon croissant] => 2
+            [smoked salmon croissant] => 2
+            [bay of fundy salmon] => 2
+            [of fundy salmon] => 2
+            [pan roasted salmon] => 2
+            [river salmon] => 2
+            [salmon and bagel] => 1
+            [smoked salmon crepe] => 1
+            [salmon crepe] => 1
+            [grilled salmon filet] => 1
+            [smoked salmon and bagel] => 1
+            [salmon rillettes] => 1
+            [cured salmon] => 1
+            [smoked salmon benedict] => 1
+            [grilled faroe island salmon] => 1
+        )
+
+    [bistro] => Array
+        (
+            [salmon] => 22
+            [smoked salmon] => 6
+            [pan seared salmon] => 3
+            [seared salmon] => 3
+            [roasted salmon] => 3
+            [farm salmon ^] => 2
+            [salmon ^] => 2
+            [salmon filet] => 2
+            [family farm salmon ^] => 2
+            [bay of fundy salmon] => 2
+            [pan roasted salmon] => 2
+            [fundy salmon] => 2
+            [of fundy salmon] => 2
+            [smoked salmon croissant] => 2
+            [foley family farm salmon ^] => 2
+            [salmon croissant] => 2
+            [salmon benedict] => 2
+            [grilled salmon] => 2
+            [kale salad and grilled salmon] => 1
+            [salad and grilled salmon] => 1
+            [ginger sake salmon] => 1
+            [smoked salmon frittata] => 1
+            [salmon frittata] => 1
+            [yum pan seared salmon] => 1
+            [grilled salmon filet] => 1
+        )
+
+    [pizza] => Array
+        (
+            [salmon] => 41
+            [grilled salmon] => 8
+            [smoked salmon] => 7
+            [cedar plank salmon] => 3
+            [scottish salmon] => 3
+            [glazed salmon] => 3
+            [plank salmon] => 3
+            [salmon or grilled shrimp] => 2
+            [grilled steak or grilled salmon or grilled shrimp] => 2
+            [steak or grilled salmon or grilled shrimp] => 2
+            [wild salmon] => 2
+            [or grilled salmon or grilled shrimp] => 2
+            [winter place rum and tobacco smoked salmon] => 2
+            [and tobacco smoked salmon] => 2
+            [grilled salmon caesar salad] => 2
+            [salmon burger] => 2
+            [salmon caesar salad] => 2
+            [tobacco smoked salmon] => 2
+            [rum and tobacco smoked salmon] => 2
+            [with grilled steak or grilled salmon or grilled shrimp] => 2
+            [place rum and tobacco smoked salmon] => 2
+            [grilled salmon or grilled shrimp] => 2
+            [salmon salad] => 2
+            [al salmone] => 2
+            [salmone] => 2
+        )
+
+    [bar food] => Array
+        (
+            [salmon] => 63
+            [grilled salmon] => 15
+            [atlantic salmon] => 9
+            [salmon burger] => 7
+            [glazed salmon] => 5
+            [roasted salmon] => 5
+            [seared salmon] => 4
+            [pan seared salmon] => 4
+            [with shrimp or salmon] => 3
+            [shrimp or salmon] => 3
+            [grilled atlantic salmon] => 3
+            [or salmon] => 3
+            [salmon salad] => 3
+            [grilled salmon salad] => 2
+            [salmon sandwich] => 2
+            [bourbon glazed salmon] => 2
+            [caesar salad with shrimp or salmon] => 2
+            [salad with shrimp or salmon] => 2
+            [salmon spinach] => 2
+            [smoked salmon] => 2
+            [teriyaki salmon] => 2
+            [irish salmon] => 2
+            [pan-roasted atlantic salmon] => 2
+            [salmon filet] => 2
+            [grilled salmon filet] => 1
+        )
+
+    [burgers] => Array
+        (
+            [salmon] => 20
+            [grilled salmon] => 6
+            [salmon burger] => 5
+            [roasted salmon] => 2
+            [smoked salmon] => 2
+            [glazed salmon] => 2
+            [baked salmon] => 2
+            [bourbon glazed salmon] => 2
+            [teriyaki salmon] => 1
+            [open smoked salmon sandwich] => 1
+            [cajun salmon] => 1
+            [caesar salad with grilled salmon] => 1
+            [teriyaki grilled salmon] => 1
+            [smoked salmon sandwich] => 1
+            [salad with grilled salmon] => 1
+            [with grilled salmon] => 1
+            [cedar plank salmon] => 1
+            [atlantic salmon] => 1
+            [balsamic-glazed salmon] => 1
+            [teriyaki salmon burger] => 1
+            [homemade salmon burger] => 1
+            [ale salmon] => 1
+            [and ale salmon] => 1
+            [smoked salmon bagel] => 1
+            [salmon bagel] => 1
+        )
+
+    [eclectic and international] => Array
+        (
+            [salmon] => 21
+            [smoked salmon] => 5
+            [atlantic salmon] => 3
+            [salmon roll] => 3
+            [cedar plank salmon] => 2
+            [wild salmon] => 2
+            [cured salmon] => 2
+            [plank salmon] => 2
+            [roasted scottish salmon fillet] => 1
+            [1. salmon and maki] => 1
+            [salmon and maki] => 1
+            [salmon and avocado roll] => 1
+            [slow roasted scottish salmon fillet] => 1
+            [salmon burger] => 1
+            [king salmon] => 1
+            [ora king salmon] => 1
+            [king salmon roll] => 1
+            [ora king salmon roll] => 1
+            [pecan crusted salmon] => 1
+            [crusted salmon] => 1
+            [smoked salmon scramble] => 1
+            [scottish salmon fillet] => 1
+            [salmon benedict] => 1
+            [salmon scramble] => 1
+            [whiskey cured salmon] => 1
+        )
+
+    [latin american] => Array
+        (
+            [salmon] => 3
+            [salmon qith quinoa] => 1
+            [salmon with mashed potatoes] => 1
+            [grilled salmon with mashed potatoes] => 1
+            [salmon with vegetables] => 1
+            [panela salmon] => 1
+            [grilled salmon] => 1
+            [salmon florentine] => 1
+            [salmon a la parrilla] => 1
+        )
+
+    [steak] => Array
+        (
+            [salmon] => 48
+            [atlantic salmon] => 11
+            [spicy salmon] => 6
+            [glazed salmon] => 6
+            [salmon fillet] => 6
+            [smoked salmon] => 4
+            [roasted atlantic salmon] => 4
+            [citrus glazed salmon] => 4
+            [seared citrus glazed salmon] => 4
+            [pan roasted atlantic salmon] => 4
+            [longhorn salmon] => 3
+            [seared atlantic salmon] => 3
+            [seared salmon] => 2
+            [fundy salmon] => 2
+            [bay of fundy salmon] => 2
+            [4. spicy salmon] => 2
+            [of fundy salmon] => 2
+            [salmon salad] => 2
+            [salmon sauté] => 2
+            [salmon rigatoni] => 2
+            [northwest salmon sauté] => 2
+            [salmon steak] => 2
+            [house spicy salmon] => 2
+            [salmon burger] => 2
+            [grilled salmon] => 2
+        )
+
+    [irish] => Array
+        (
+            [salmon] => 22
+            [grilled salmon] => 5
+            [salmon burger] => 3
+            [or salmon] => 3
+            [roasted salmon] => 3
+            [with shrimp or salmon] => 3
+            [shrimp or salmon] => 3
+            [pan seared salmon] => 3
+            [atlantic salmon] => 3
+            [seared salmon] => 3
+            [salmon omelette] => 2
+            [smoked salmon omelette] => 2
+            [salmon spinach] => 2
+            [caesar salad with shrimp or salmon] => 2
+            [salad with shrimp or salmon] => 2
+            [irish salmon] => 2
+            [herb roasted salmon] => 1
+            [- smoked wild irish salmon] => 1
+            [oak - smoked wild irish salmon] => 1
+            [grilled atlantic salmon] => 1
+            [salmon toastie] => 1
+            [salmon salad] => 1
+            [baked atlantic salmon] => 1
+            [salmon filet] => 1
+            [mixed greens with shrimp or salmon] => 1
+        )
+
+    [sandwiches] => Array
+        (
+            [salmon] => 36
+            [smoked salmon] => 7
+            [grilled salmon] => 6
+            [salmon burger] => 5
+            [smoked salmon sandwich] => 3
+            [poached salmon] => 3
+            [salmon sandwich] => 3
+            [salmon salad] => 3
+            [wild salmon] => 2
+            [smoked salmon plate] => 2
+            [grilled salmon salad] => 2
+            [salmon plate] => 2
+            [smoked salmon quesadilla] => 1
+            [salmon cakes] => 1
+            [salmon and roasted corn] => 1
+            [grilled salmon filet] => 1
+            [salmon filet] => 1
+            [salmon quesadilla] => 1
+            [grilled salmon cakes] => 1
+            [salmon and arugula salad] => 1
+            [grilled salmon with rice and salad] => 1
+            [salmon with rice and salad] => 1
+            [teriyaki grilled salmon] => 1
+            [roasted salmon] => 1
+            [roasted salmon salad] => 1
+        )
+
+    [deli food] => Array
+        (
+            [salmon] => 20
+            [smoked salmon] => 6
+            [salmon burger] => 2
+            [poached salmon] => 2
+            [6. smoked salmon] => 2
+            [and smoked salmon] => 2
+            [bagel and smoked salmon] => 2
+            [6. bagel and smoked salmon] => 2
+            [almond crusted salmon] => 1
+            [teriyaki salmon] => 1
+            [crusted salmon] => 1
+            [sesame salmon] => 1
+            [sesame teriyaki salmon] => 1
+            [salmon wrap] => 1
+            [grilled salmon wrap] => 1
+            [broiled salmon] => 1
+            [salmon club] => 1
+            [salmon hash] => 1
+            [roasted salmon hash] => 1
+            [salmon caesar] => 1
+            [salmon kabobs] => 1
+            [fire-roasted honey salmon] => 1
+            [smoked whitefish or salmon] => 1
+            [grilled salmon] => 1
+            [honey salmon] => 1
+        )
+
+    [hot dogs] => Array
+        (
+            [salmon] => 3
+            [with cream cheese and salmon] => 1
+            [bagel with cream cheese and salmon] => 1
+            [cream cheese and salmon] => 1
+            [cheese and salmon] => 1
+            [smoked salmon] => 1
+            [and salmon] => 1
+        )
+
+    [vegetarian] => Array
+        (
+            [salmon] => 54
+            [smoked salmon] => 7
+            [salmon roll] => 5
+            [atlantic salmon] => 5
+            [garlic salmon] => 4
+            [glazed salmon] => 4
+            [salmon choo chee] => 4
+            [or salmon] => 4
+            [spicy salmon] => 3
+            [grilled salmon shish kabob] => 3
+            [salmon shish kabob] => 3
+            [salmon cho che] => 2
+            [salmon don] => 2
+            [harissa glazed salmon] => 2
+            [bass or salmon] => 2
+            [pan-roasted soy glazed salmon] => 2
+            [grilled salmon] => 2
+            [salmon teriyaki] => 2
+            [- salmon] => 2
+            [and salmon roe don] => 2
+            [salmon roe don] => 2
+            [baked salmon] => 2
+            [soy glazed salmon] => 2
+            [chilli salmon] => 2
+            [atlantic salmon a la plancha] => 2
+        )
+
+    [gastropub] => Array
+        (
+            [salmon] => 30
+            [atlantic salmon] => 6
+            [maine salmon] => 3
+            [grilled maine salmon] => 3
+            [island salmon] => 2
+            [faroe island salmon] => 2
+            [atlantic salmon a la plancha] => 2
+            [salmon a la plancha] => 2
+            [cedar plank salmon] => 2
+            [pan seared salmon] => 2
+            [seared salmon] => 2
+            [plank salmon] => 2
+            [grilled atlantic salmon] => 2
+            [salmon burger] => 2
+            [scottish salmon] => 2
+            [king salmon] => 1
+            [salmon creekandcomma; pinot grigioandcomma; sonoma countyandcomma; ca 2009] => 1
+            [smoked salmon omelette] => 1
+            [crusted salmon burger] => 1
+            [coriander crusted salmon burger] => 1
+            [smoked salmon eggs benedict] => 1
+            [salmon eggs benedict] => 1
+            [king salmon roll] => 1
+            [ora king salmon roll] => 1
+            [house cured salmon pizza] => 1
+        )
+
+    [local/organic] => Array
+        (
+            [salmon] => 21
+            [smoked salmon] => 6
+            [salmon burger] => 5
+            [maine salmon] => 3
+            [atlantic salmon] => 3
+            [grilled maine salmon] => 3
+            [seared coho salmon fillet] => 2
+            [coho salmon fillet] => 2
+            [salmon fillet] => 2
+            [6. bagel and smoked salmon] => 2
+            [salmon maki] => 2
+            [grilled atlantic salmon] => 2
+            [6. smoked salmon] => 2
+            [bagel and smoked salmon] => 2
+            [and smoked salmon] => 2
+            [smoked pastrami salmon] => 1
+            [bay of fundy salmonq] => 1
+            [pastrami salmon] => 1
+            [crusted salmon burger] => 1
+            [coriander crusted salmon burger] => 1
+            [of fundy salmonq] => 1
+            [fundy salmonq] => 1
+            [fundy salmon] => 1
+            [of fundy salmon] => 1
+            [bay of fundy salmon] => 1
+        )
+
+    [wings] => Array
+        (
+            [salmon] => 11
+            [smoked salmon] => 3
+            [salmon maki^] => 2
+            [grilled salmon caesar salad] => 2
+            [salmon caesar salad] => 2
+            [salmon maki] => 2
+            [salmon salad] => 2
+            [glazed salmon] => 2
+            [crispy salmon maki] => 1
+            [spicy salmon maki] => 1
+            [grilled salmon filet dinner] => 1
+            [grilled salmon salad] => 1
+            [salmon with rice and salad] => 1
+            [grilled salmon with rice and salad] => 1
+            [grilled salmon fillet dinner] => 1
+            [salmon fillet dinner] => 1
+            [scottish salmon] => 1
+            [miso glazed salmon] => 1
+            [salmon filet dinner] => 1
+            [salmon ceviche] => 1
+            [cajun salmon] => 1
+            [salmon tartare] => 1
+            [teriyaki salmon] => 1
+            [ginger soy glazed salmon] => 1
+            [atlantic salmon] => 1
+        )
+
+    [south american] => Array
+        (
+            [salmon] => 2
+            [vegetables - salmon con vegetales] => 1
+            [- salmon con vegetales] => 1
+            [with vegetables - salmon con vegetales] => 1
+            [salmon with vegetables - salmon con vegetales] => 1
+            [salmon qith quinoa] => 1
+            [37. salmon with vegetables - salmon con vegetales] => 1
+            [salmon con vegetales] => 1
+            [panela salmon] => 1
+            [- grilled salmon] => 1
+            [grilled salmon] => 1
+            [plancha - grilled salmon] => 1
+            [la plancha - grilled salmon] => 1
+            [a la plancha - grilled salmon] => 1
+            [salmon a la plancha - grilled salmon] => 1
+        )
+
+    [barbecue] => Array
+        (
+            [salmon] => 12
+            [grilled salmon] => 4
+            [salmon teriyaki] => 3
+            [smoked salmon] => 3
+            [salmon roll] => 3
+            [salmon maki] => 3
+            [salmon skin maki] => 2
+            [spicy salmon roll] => 2
+            [salmon"""] => 2
+            [salmon roe] => 2
+            [seared salmon in citrus sauce] => 2
+            [oil seared salmon in citrus sauce] => 2
+            [salmon in citrus sauce] => 2
+            [hot oil seared salmon in citrus sauce] => 2
+            [roasted salmon hash] => 1
+            [salmon hash] => 1
+            [salmon sampler] => 1
+            [salmonandcomma; scrod or swordfish el paso] => 1
+            [39. salmon skin maki] => 1
+            ["pan seared "" atlantic salmon"""] => 1
+            [34. salmon avocado maki] => 1
+            [salmon skin roll] => 1
+            [seared ""atlantic salmon"""] => 1
+            [salmon avocado maki] => 1
+            [""atlantic salmon"""] => 1
+        )
+
+    [italian] => Array
+        (
+            [salmon] => 71
+            [smoked salmon] => 13
+            [salmone] => 12
+            [grilled salmon] => 8
+            [atlantic salmon] => 6
+            [salmone affumicato] => 6
+            [salmone alla griglia] => 5
+            [salmone al forno] => 4
+            [al salmone] => 4
+            [seared salmon] => 4
+            [salmon lemon and herb] => 3
+            [scottish salmon] => 3
+            [pan seared salmon] => 3
+            [glazed salmon] => 3
+            [grilled salmon lemon and herb] => 3
+            [with salmon] => 2
+            [e salmone] => 2
+            [grilled faroe island salmon] => 2
+            [salmon fillet] => 2
+            [faroe island salmon] => 2
+            [organic salmon] => 2
+            [salmon filet] => 2
+            [island salmon] => 2
+            [salmone asparagi] => 2
+            [balsamic-glazed salmon] => 2
+        )
+
+    [pub food] => Array
+        (
+            [seared salmon] => 1
+            [salmon] => 1
+        )
+
+    [soul food] => Array
+        (
+            [salmon] => 3
+            [salmon"""] => 2
+            [atlantic salmon"""] => 1
+            ["" atlantic salmon"""] => 1
+            [seared "" atlantic salmon"""] => 1
+            [roasted salmon hash] => 1
+            [salmon hash] => 1
+            ["pan seared "" atlantic salmon"""] => 1
+            ["pan seared ""atlantic salmon"""] => 1
+            [""atlantic salmon"""] => 1
+            [roasted salmon] => 1
+            [blackened salmon] => 1
+            [salmon burger] => 1
+            [salmon rueben] => 1
+            [crab and salmon] => 1
+            [and salmon] => 1
+            [seared ""atlantic salmon"""] => 1
+        )
+
+    [cuban] => Array
+        (
+            [grilled salmon with mashed potatoes] => 1
+            [salmon with mashed potatoes] => 1
+            [grilled salmon] => 1
+            [salmon] => 1
+        )
+
+    [puerto rican] => Array
+        (
+            [grilled salmon] => 1
+            [salmon] => 1
+        )
+
+    [alcohol] => Array
+        (
+            [salmon] => 6
+            [miso glazed salmon] => 2
+            [glazed salmon] => 2
+            [crusted salmon] => 1
+            [herb crusted salmon] => 1
+            [salmone alla giudia] => 1
+            [salmone al forno] => 1
+            [pizzetta con salmone affumicato] => 1
+            [con salmone affumicato] => 1
+            [salmone affumicato] => 1
+            [ginger sake salmon] => 1
+            [pan seared salmon fillet] => 1
+            [pan seared salmon] => 1
+            [seared salmon] => 1
+            [cured organic salmon] => 1
+            [organic salmon] => 1
+            [salmon cakes] => 1
+            [caper salmon cakes] => 1
+            [seared salmon fillet] => 1
+            [salmon fillet] => 1
+            [lemon caper salmon cakes] => 1
+            [sake salmon] => 1
+        )
+
+    [coffee and tea] => Array
+        (
+            [salmon] => 13
+            [smoked salmon] => 7
+            [grilled salmon] => 2
+            [salmon bagel] => 2
+            [salmon burger] => 2
+            [smoked salmon bagel] => 2
+            [salmon display] => 1
+            [smoked salmon display] => 1
+            [roasted salmon] => 1
+            [smoked salmon sandwich] => 1
+            [salmon sandwich] => 1
+            [pan seared faroe island salmon] => 1
+            [salmon and eggs] => 1
+            [smoked salmon and eggs] => 1
+            [salmon salad] => 1
+            [roasted salmon salad] => 1
+            [salmon on bagel] => 1
+            [smoked salmon on bagel] => 1
+            [topless smoked salmon] => 1
+            [salmon bagel sandwich] => 1
+            [smoked salmon scramble] => 1
+            [salmon crepe] => 1
+            [smoked salmon crepe] => 1
+            [salmon scramble] => 1
+            [seared faroe island salmon] => 1
+        )
+
+    [bakery and pastries] => Array
+        (
+            [salmon] => 5
+            [smoked salmon] => 3
+            [smoked salmon sandwich] => 1
+            [salmon salad] => 1
+            [topless smoked salmon] => 1
+            [roasted salmon salad] => 1
+            [salmon sandwich] => 1
+            [salmon bagel] => 1
+            [poached salmon] => 1
+            [cold poached salmon] => 1
+            [salmon wasabi] => 1
+            [smoked salmon wasabi] => 1
+            [smoked salmon bagel] => 1
+        )
+
+    [bagels] => Array
+        (
+            [salmon] => 3
+            [smoked salmon] => 2
+            [finagle's famous smoked salmon and cream cheese] => 1
+            [smoked salmon spread] => 1
+            [famous smoked salmon and cream cheese] => 1
+            [salmon spread] => 1
+            [salmon and cream cheese] => 1
+            [salmon with egg salad] => 1
+            [smoked salmon with egg salad] => 1
+            [classic smoked salmon with egg salad] => 1
+            [smoked salmon and cream cheese] => 1
+        )
+
+    [diner] => Array
+        (
+            [salmon] => 15
+            [salmon burger] => 3
+            [smoked salmon] => 3
+            [grilled salmon] => 3
+            [2 eggsandcomma; salmon] => 2
+            [eggsandcomma; salmon] => 2
+            [pancakes with smoked salmon] => 1
+            [with smoked salmon] => 1
+            [grilled salmon filet] => 1
+            [salmon filet] => 1
+            [potato pancakes with smoked salmon] => 1
+            [baked salmon] => 1
+            [cold baked salmon] => 1
+            [hb02. salmon burger] => 1
+            [salmon club] => 1
+            [salmon hash] => 1
+            [roasted salmon hash] => 1
+            [poached salmon] => 1
+            [salmon caesar] => 1
+            [salmon kabobs] => 1
+            [salmon and roasted corn] => 1
+            [wild salmon] => 1
+            [fresh wild salmon] => 1
+            [br90. potato pancakes with smoked salmon] => 1
+            [smoked salmon quesadilla] => 1
+        )
+
+    [caribbean] => Array
+        (
+            [salmon] => 2
+            [salmon meal] => 1
+            [salmon cake] => 1
+            [smoke salmon] => 1
+            [spiced salmon] => 1
+        )
+
+    [ribs] => Array
+        (
+            [salmon] => 2
+            [salmon meal] => 1
+            [salmon cake] => 1
+            [smoke salmon] => 1
+            [spiced salmon] => 1
+        )
+
+    [vietnamese] => Array
+        (
+            [salmon] => 21
+            [salmon teriyaki] => 5
+            [bean salmon] => 2
+            [salmon garlic] => 2
+            [black bean salmon] => 2
+            [- salmon] => 2
+            [spicy salmon] => 2
+            [or salmon] => 2
+            [bass or salmon] => 2
+            [messy salmon] => 2
+            [l2. salmon teriyaki] => 2
+            [lemongrass salmon] => 2
+            [salmon curry] => 2
+            [kho to - striped bass or salmon] => 1
+            [to - striped bass or salmon] => 1
+            [- striped bass or salmon] => 1
+            [fish soup (choose catfish or salmon)] => 1
+            [pot kho to - striped bass or salmon] => 1
+            [clay pot kho to - striped bass or salmon] => 1
+            [striped bass or salmon] => 1
+            [stripped bass or salmon] => 1
+            [sour fish soup (choose catfish or salmon)] => 1
+            [pot - salmon cubes] => 1
+            [hot and sour fish soup (choose catfish or salmon)] => 1
+            [- salmon cubes] => 1
+        )
+
+    [healthy] => Array
+        (
+            [grilled salmon caesar salad] => 1
+            [salmon caesar salad] => 1
+            [salmon fillet dinner] => 1
+            [grilled salmon fillet dinner] => 1
+            [salmon] => 1
+            [california grilled salmon club] => 1
+            [grilled salmon club] => 1
+            [smoked salmon sandwich] => 1
+            [40. smoked salmon sandwich] => 1
+            [salmon burger] => 1
+            [salmon club] => 1
+            [salmon sandwich] => 1
+        )
+
+    [desserts] => Array
+        (
+            [salmon] => 15
+            [salmon salad] => 3
+            [grilled salmon] => 3
+            [crusted salmon salad] => 2
+            [smoked salmon] => 2
+            [crusted salmon] => 2
+            [herb crusted salmon salad] => 2
+            [herb crusted salmon] => 2
+            [salmon club] => 2
+            [salmon rolls] => 1
+            [seared faroe island salmon] => 1
+            [pan seared faroe island salmon] => 1
+            [skinnylicious salmon rolls] => 1
+            [skinnylicious grilled salmon] => 1
+            [faroe island salmon] => 1
+            [island salmon] => 1
+            [salmon and eggs] => 1
+            [almond-crusted salmon salad] => 1
+            [salmon caesar] => 1
+            [salmon hash] => 1
+            [roasted salmon hash] => 1
+            [poached salmon] => 1
+            [salmon kabobs] => 1
+            [topless smoked salmon] => 1
+            [salmon bagel] => 1
+        )
+
+    [african] => Array
+        (
+            [17. salmon filet spicy] => 1
+            [salmon filet spicy] => 1
+        )
+
+    [ethiopian] => Array
+        (
+            [17. salmon filet spicy] => 1
+            [salmon filet spicy] => 1
+        )
+
+    [pakistani] => Array
+        (
+            [salmon masala] => 1
+            [salmon tikka] => 1
+            [salmon fish tikka] => 1
+        )
+
+    [japanese] => Array
+        (
+            [salmon] => 203
+            [salmon roll] => 63
+            [salmon maki] => 52
+            [smoked salmon] => 41
+            [salmon teriyaki] => 41
+            [spicy salmon] => 30
+            [salmon roe] => 29
+            [spicy salmon roll] => 25
+            [spicy salmon maki] => 21
+            [salmon skin roll] => 15
+            [salmon skin maki] => 15
+            [salmon don] => 12
+            [salmon avocado roll] => 11
+            [teriyaki salmon] => 10
+            [salmon skin] => 10
+            [salmon salad] => 9
+            [salmon combo] => 8
+            [salmon fillet] => 7
+            [or salmon] => 7
+            [salmon sashimi] => 6
+            [salmon tartar] => 6
+            [miso salmon] => 6
+            [sake salmon] => 6
+            [salmon katsu] => 6
+            [baked salmon maki] => 5
+        )
+
+    [sushi] => Array
+        (
+            [salmon] => 200
+            [salmon roll] => 65
+            [salmon maki] => 57
+            [salmon teriyaki] => 43
+            [smoked salmon] => 42
+            [salmon roe] => 31
+            [spicy salmon] => 30
+            [spicy salmon roll] => 28
+            [spicy salmon maki] => 23
+            [salmon skin maki] => 16
+            [salmon skin roll] => 14
+            [salmon avocado roll] => 12
+            [salmon don] => 12
+            [salmon salad] => 10
+            [salmon combo] => 8
+            [salmon skin] => 8
+            [teriyaki salmon] => 7
+            [or salmon] => 7
+            [salmon fillet] => 7
+            [salmon sashimi] => 7
+            [miso salmon] => 6
+            [sake salmon] => 6
+            [salmon tartar] => 6
+            [salmon katsu] => 6
+            [baked salmon maki] => 5
+        )
+
+    [middle eastern] => Array
+        (
+            [salmon] => 5
+            [wild salmon] => 2
+            [salmon filet meal] => 1
+            [salmon fillet] => 1
+            [grilled wild salmon] => 1
+            [broiled salmon] => 1
+            [grilled salmon] => 1
+        )
+
+    [kosher] => Array
+        (
+            [salmon] => 10
+            [broiled salmon] => 2
+            [almond crusted salmon] => 1
+            [crusted salmon] => 1
+            [teriyaki salmon] => 1
+            [sesame teriyaki salmon] => 1
+            [fire-roasted honey salmon] => 1
+            [honey salmon] => 1
+            [grilled salmon wrap] => 1
+            [sesame salmon] => 1
+            [or salmon] => 1
+            [grilled salmon] => 1
+            [whitefish or salmon] => 1
+            [smoked whitefish or salmon] => 1
+            [poached salmon] => 1
+            [salmon wrap] => 1
+        )
+
+    [californian] => Array
+        (
+            [cedar plank salmon] => 2
+            [plank salmon] => 2
+            [salmon] => 2
+        )
+
+    [greek] => Array
+        (
+            [salmon burger] => 2
+            [salmon dinner] => 1
+            [1. salmon or swordfish steak] => 1
+            [salmon or swordfish steak] => 1
+        )
+
+    [brazilian] => Array
+        (
+            [salmon] => 2
+            [smoked salmon] => 2
+            [cold smoked salmon] => 1
+        )
+
+    [korean] => Array
+        (
+            [salmon] => 28
+            [salmon teriyaki] => 8
+            [salmon maki] => 6
+            [smoked salmon] => 6
+            [salmon roll] => 5
+            [salmon roe] => 4
+            [salmon maki roll] => 4
+            [salmon fillet] => 4
+            [spicy salmon maki] => 3
+            [spicy salmon] => 3
+            [salmon skin maki] => 3
+            [spicy salmon roll] => 2
+            [grilled salmon fillet] => 2
+            [scottish salmon] => 2
+            [salmon maki^] => 2
+            [salmon skin maki roll] => 2
+            [spicy salmon hand roll] => 2
+            [tuna or salmon] => 2
+            [salmon hand roll] => 2
+            [teriyaki salmon fillet] => 2
+            [salmon sashimi combo] => 2
+            [or salmon] => 2
+            [and salmon sashimi combo] => 2
+            [tuna and salmon sashimi combo] => 2
+            [salmon or tuna tartar bi bim bab] => 1
+        )
+
+    [mexican] => Array
+        (
+            [salmon] => 4
+            [salmon salad] => 2
+            [salmon and spinach burrito] => 1
+            [salmon burrito] => 1
+            [and salmon burrito] => 1
+            [viva fresh salmon salad] => 1
+            [fresh salmon salad] => 1
+            [and camarones a la parilla - salmon and grilled shrimp] => 1
+            [salmon and camarones a la parilla - salmon and grilled shrimp] => 1
+            [scallops and salmon burrito] => 1
+            [camarones a la parilla - salmon and grilled shrimp] => 1
+            [extra salmon] => 1
+            [chili bronzed salmon salad] => 1
+            [salmon fillet] => 1
+            [roasted salmon fillet] => 1
+            [salmon puebla style] => 1
+            [bronzed salmon salad] => 1
+            [salmon poblano] => 1
+            [salmonandcomma; scrod or swordfish el paso] => 1
+            [salmon olé] => 1
+            [salmon asado con vegetales] => 1
+            [a la parilla - salmon and grilled shrimp] => 1
+            [la parilla - salmon and grilled shrimp] => 1
+            [salmonandcomma; swordfish or scrod] => 1
+            [bronzed salmonandcomma; swordfish or scrod] => 1
+        )
+
+    [thai] => Array
+        (
+            [salmon] => 61
+            [salmon teriyaki] => 21
+            [salmon choo chee] => 18
+            [chili salmon] => 11
+            [salmon curry] => 5
+            [grilled salmon] => 5
+            [garlic salmon] => 5
+            [salmon spring rolls] => 3
+            [salmon choo-chee] => 3
+            [- salmon] => 3
+            [siam chili salmon] => 3
+            [ocean salmon] => 3
+            [green ocean salmon] => 3
+            [seared chili salmon] => 3
+            [pan seared chili salmon] => 3
+            [c11. salmon teriyaki] => 2
+            [spicy salmon hand roll] => 2
+            [smoked salmon] => 2
+            [curry salmon] => 2
+            [chilli salmon] => 2
+            [lemongrass salmon] => 2
+            [shrimp or salmon] => 2
+            [or salmon] => 2
+            [teriyaki salmon] => 2
+            [salmon cho che] => 2
+        )
+
+    [smoothies and juices] => Array
+        (
+            [salmon qith quinoa] => 1
+            [california grilled salmon club] => 1
+            [grilled salmon club] => 1
+            [salmon club] => 1
+            [salmon burger] => 1
+        )
+
+    [spanish] => Array
+        (
+            [salmon] => 4
+            [salmon a la plancha] => 3
+            [salmon ahumado] => 2
+            [farro island salmon] => 1
+            [island salmon] => 1
+            [salmon ahumado casero y endibias] => 1
+            [smoked salmon benedict] => 1
+            [salmon benedict] => 1
+        )
+
+    [chinese] => Array
+        (
+            [salmon] => 35
+            [salmon roll] => 14
+            [teriyaki salmon] => 9
+            [grilled norwegian salmon] => 8
+            [norwegian salmon] => 8
+            [spicy salmon roll] => 6
+            [norwegian salmon steamed with ginger] => 6
+            [salmon maki] => 6
+            [salmon steamed with ginger] => 6
+            [smoked salmon] => 5
+            [asian grilled norwegian salmon] => 5
+            [salmon bowl] => 4
+            [salmon skin roll] => 4
+            [salmon roe] => 4
+            [salmon combo] => 3
+            [spicy salmon] => 3
+            [salmon don] => 3
+            [lemongrass grilled norwegian salmon] => 3
+            [spicy salmon maki] => 2
+            [salmon jalapeno roll] => 2
+            [(salmon roe)] => 2
+            [(salmon)] => 2
+            [sake (salmon)] => 2
+            [salmon avocado roll] => 2
+            [ikura (salmon roe)] => 2
+        )
+
+    [dim sum] => Array
+        (
+            [salmon] => 2
+            [glazed salmon] => 2
+            [soy glazed salmon] => 2
+            [pan-roasted soy glazed salmon] => 2
+            [stir-fried salmon with garlic sauce] => 1
+            [salmon with garlic sauce] => 1
+            [salmon steak with teriyaki sauce] => 1
+            [grilled salmon steak with teriyaki sauce] => 1
+            [salmon with black bean sauce] => 1
+            [steamed salmon with black bean sauce] => 1
+            [salmon with vegetable] => 1
+        )
+
+    [asian] => Array
+        (
+            [salmon] => 36
+            [salmon teriyaki] => 5
+            [norwegian salmon] => 5
+            [grilled norwegian salmon] => 5
+            [spicy salmon] => 4
+            [salmon choo chee] => 4
+            [smoked salmon] => 3
+            [asian grilled norwegian salmon] => 3
+            [salmon steamed with ginger] => 3
+            [norwegian salmon steamed with ginger] => 3
+            [salmon roll] => 3
+            [soy glazed salmon] => 2
+            [or salmon] => 2
+            [lemongrass grilled norwegian salmon] => 2
+            [c11. salmon teriyaki] => 2
+            [- salmon] => 2
+            [spicy salmon rice bites] => 2
+            [pan-roasted soy glazed salmon] => 2
+            [glazed salmon] => 2
+            [bass or salmon] => 2
+            [pieces spicy salmon rice bites] => 2
+            [baked salmon] => 2
+            [salmon rice bites] => 2
+            [lemongrass stripped bass or salmon] => 1
+            [salmon fillet panang] => 1
+        )
+
+    [asian fusion] => Array
+        (
+            [salmon] => 35
+            [grilled norwegian salmon] => 5
+            [norwegian salmon] => 5
+            [spicy salmon] => 4
+            [salmon steamed with ginger] => 3
+            [salmon choo chee] => 3
+            [salmon teriyaki] => 3
+            [smoked salmon] => 3
+            [asian grilled norwegian salmon] => 3
+            [norwegian salmon steamed with ginger] => 3
+            [salmon roll] => 3
+            [bass or salmon] => 2
+            [glazed salmon] => 2
+            [lemongrass grilled norwegian salmon] => 2
+            [pan-roasted soy glazed salmon] => 2
+            [- salmon] => 2
+            [salmon rice bites] => 2
+            [spicy salmon rice bites] => 2
+            [pieces spicy salmon rice bites] => 2
+            [or salmon] => 2
+            [soy glazed salmon] => 2
+            [lemongrass stripped bass or salmon] => 1
+            [salmon fillet panang] => 1
+            [salmon in tomato sauce] => 1
+            [grilled salmon in tomato sauce] => 1
+        )
+
+    [chicken] => Array
+        (
+            [salmon] => 8
+            [smoked salmon] => 4
+            [salmon maki] => 2
+            [salmon maki^] => 2
+            [salmon roe] => 1
+            [tuna and salmon ceviche] => 1
+            [spicy salmon] => 1
+            [spicy salmon maki] => 1
+            [and salmon ceviche] => 1
+            [scottish salmon] => 1
+            [crispy salmon maki] => 1
+            [crispy salmon maki^] => 1
+            [yellowtail and salmon tartare] => 1
+            [and salmon tartare] => 1
+            [salmon salad] => 1
+            [crispy salmon salad] => 1
+            [salmon tartare] => 1
+            [spicy salmon maki^] => 1
+            [salmon ceviche] => 1
+        )
+
+    [crepes] => Array
+        (
+            [salmon] => 2
+            [smoked salmon crepe] => 1
+            [smoked salmon] => 1
+            [salmon crepe] => 1
+        )
+
+    [turkish] => Array
+        (
+            [grilled salmon] => 1
+            [salmon] => 1
+        )
+
+    [indian] => Array
+        (
+            [salmon] => 9
+            [salmon tikka] => 6
+            [tandoori salmon tikka] => 3
+            [tandoori salmon] => 3
+            [salmon kebab] => 2
+            [of fundy salmon] => 1
+            [cobb salad with salmon] => 1
+            [bay of fundy salmon] => 1
+            [fundy salmon] => 1
+            [salmon masala] => 1
+            [maharaja salmon] => 1
+            [salmon tikkas] => 1
+            [salad with salmon] => 1
+            [td salmon] => 1
+            [with smoked salmon] => 1
+            [atlantic salmon] => 1
+            [salmon curry] => 1
+            [seafood salmon moilee] => 1
+            [salmon moilee] => 1
+            [smoked atlantic salmon] => 1
+            [salmon benedict] => 1
+            [omelet with smoked salmon] => 1
+            [smoked salmon] => 1
+            [smoked salmon benedict] => 1
+            [with salmon] => 1
+        )
+
+    [noodles] => Array
+        (
+            [salmon] => 18
+            [salmon teriyaki] => 4
+            [salmon curry] => 3
+            [1. salmon curry] => 2
+            [or salmon] => 2
+            [spicy salmon] => 2
+            [salmon garlic] => 2
+            [salmon roe] => 2
+            [lemongrass salmon] => 2
+            [36. salmon] => 1
+            [salmon katsu] => 1
+            [38. spicy salmon] => 1
+            [salmon cucumber roll] => 1
+            [salmon head] => 1
+            [miso salmon] => 1
+            [scallops and salmon combo] => 1
+            [grilled salmon] => 1
+            [atlantic salmon] => 1
+            [salmon combo] => 1
+            [and salmon combo] => 1
+            [salmon red sea] => 1
+            [crispy salmon cucumber roll] => 1
+            [firecracker salmon rolls] => 1
+            [salmon rolls] => 1
+            [golden firecracker salmon rolls] => 1
+        )
+
+    [nuevo latino] => Array
+        (
+            [salmon] => 5
+            [farro island salmon] => 1
+            [island salmon] => 1
+            [salmon puebla style] => 1
+            [panela salmon] => 1
+        )
+
+    [southwestern] => Array
+        (
+            [tequila and cilantro cured salmon] => 1
+            [and cilantro cured salmon] => 1
+            [salmon ceviche] => 1
+            [tropical salmon ceviche] => 1
+            [roasted salmon with chipotle and horseradish crust] => 1
+            [salmon with chipotle and horseradish crust] => 1
+            [cilantro cured salmon] => 1
+            [cured salmon] => 1
+            [or bronzed salmonandcomma; swordfish or scrod] => 1
+            [bronzed salmonandcomma; swordfish or scrod] => 1
+            [blackened or bronzed salmonandcomma; swordfish or scrod] => 1
+            [salmonandcomma; swordfish or scrod el paso] => 1
+            [salmon] => 1
+            [salmonandcomma; scrod or swordfish el paso] => 1
+            [salmonandcomma; swordfish or scrod] => 1
+        )
+
+    [wraps] => Array
+        (
+            [grilled salmon fillet dinner] => 1
+            [salmon fillet dinner] => 1
+            [grilled salmon caesar salad] => 1
+            [salmon caesar salad] => 1
+        )
+
+    [salads] => Array
+        (
+            [salmon and pickled veggies power lunch] => 1
+            [salmon power pot] => 1
+            [grilled salmon fillet dinner] => 1
+            [salmon fillet dinner] => 1
+            [grilled salmon caesar salad] => 1
+            [salmon caesar salad] => 1
+        )
+
+    [pasta] => Array
+        (
+            [grilled salmon fillet dinner] => 1
+            [salmon fillet dinner] => 1
+            [grilled salmon caesar salad] => 1
+            [salmon caesar salad] => 1
+        )
+
+    [subs] => Array
+        (
+            [grilled salmon fillet dinner] => 1
+            [salmon fillet dinner] => 1
+            [grilled salmon caesar salad] => 1
+            [salmon caesar salad] => 1
+        )
+
+    [grill] => Array
+        (
+            [grilled salmon fillet dinner] => 1
+            [salmon fillet dinner] => 1
+            [grilled salmon caesar salad] => 1
+            [salmon caesar salad] => 1
+        )
+
+    [central american] => Array
+        (
+            [a la parilla - salmon and grilled shrimp] => 1
+            [camarones a la parilla - salmon and grilled shrimp] => 1
+            [and camarones a la parilla - salmon and grilled shrimp] => 1
+            [salmon and camarones a la parilla - salmon and grilled shrimp] => 1
+            [la parilla - salmon and grilled shrimp] => 1
+            [parilla - salmon and grilled shrimp] => 1
+            [salmon qith quinoa] => 1
+            [salmon and grilled shrimp] => 1
+            [- salmon and grilled shrimp] => 1
+            [salmon with vegetables] => 1
+        )
+
+    [peruvian] => Array
+        (
+            [salmon qith quinoa] => 1
+        )
+
+    [lunch specials] => Array
+        (
+            [salmon] => 3
+            [ocean salmon] => 1
+            [green ocean salmon] => 1
+            [salmon choo chee] => 1
+            [chili salmon] => 1
+            [taste salmon] => 1
+            [3 taste salmon] => 1
+        )
+
+    [russian] => Array
+        (
+            [wild salmon caviar] => 1
+            [alaskan wild salmon caviar] => 1
+            [salmon] => 1
+            [atlantic salmon] => 1
+            [salmon caviar] => 1
+            [english cucsandcomma; avocado and cured salmon salad] => 1
+            [cured salmon salad] => 1
+            [and cured salmon salad] => 1
+            [avocado and cured salmon salad] => 1
+            [cucsandcomma; avocado and cured salmon salad] => 1
+            [salmon salad] => 1
+        )
+
+    [vegan] => Array
+        (
+            [salmon] => 13
+            [or salmon] => 2
+            [bass or salmon] => 2
+            [- salmon] => 2
+            [spicy salmon] => 2
+            [thai curry clay pot - salmon cubes] => 1
+            [striped bass or salmon] => 1
+            [clay pot - salmon cubes] => 1
+            [salmon cubes] => 1
+            [- salmon cubes] => 1
+            [pot - salmon cubes] => 1
+            [- striped bass or salmon] => 1
+            [curry clay pot - salmon cubes] => 1
+            [to - striped bass or salmon] => 1
+            [salmon fillet panang] => 1
+            [grilled salmon fillet panang] => 1
+            [salmon in tomato sauce] => 1
+            [grilled salmon in tomato sauce] => 1
+            [lemongrass stripped bass or salmon] => 1
+            [stripped bass or salmon] => 1
+            [kho to - striped bass or salmon] => 1
+            [pot kho to - striped bass or salmon] => 1
+            [clay pot kho to - striped bass or salmon] => 1
+            [salmon teriyaki] => 1
+            [baked salmon] => 1
+        )
+
+    [cajun and creole] => Array
+        (
+            [salmon roll] => 2
+            [seared ""atlantic salmon"""] => 1
+            ["pan seared ""atlantic salmon"""] => 1
+            [""atlantic salmon"""] => 1
+            [1. salmon and maki] => 1
+            [salmon and avocado roll] => 1
+            [salmon and maki] => 1
+            [salmon"""] => 1
+        )
+
+    [other] => Array
+        (
+            [salmon teriyaki] => 2
+            [c11. salmon teriyaki] => 2
+            [c8. salmon choo chee] => 1
+            [salmon choo chee] => 1
+            [baked salmon] => 1
+            [salmon] => 1
+        )
+
+    [teahouses] => Array
+        (
+            [baked salmon] => 1
+            [salmon] => 1
+        )
+
+    [soups] => Array
+        (
+            [salmon power pot] => 1
+            [salmon and pickled veggies power lunch] => 1
+        )
+
+)

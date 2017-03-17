@@ -1,0 +1,213 @@
+Array
+(
+    [american] => Array
+        (
+            [burger] => 267
+            [cheeseburger] => 33
+            [hamburger] => 11
+            [burgers] => 6
+            [burger daddy] => 3
+            [chburger] => 3
+            [burger ^] => 2
+            [burger sub] => 2
+            [burger and french fries] => 2
+            [burger sliders] => 2
+            [burger club] => 2
+            [burger salad] => 2
+            [""burger"""] => 2
+            [burger with cheese] => 2
+            [burger 8oz.] => 1
+            [roxburger crossing] => 1
+            [burger basket with french fries] => 1
+            [burger with no bun] => 1
+            [burger ^^] => 1
+            [limburger] => 1
+            [burger melt] => 1
+            [cheeseburgerandcomma; baconandcomma; lettuceandcomma; tomatoandcomma; mayo] => 1
+            [burger dinner] => 1
+            [burger or chicken breast] => 1
+            [burgerandcomma; cheese] => 1
+        )
+
+    [all] => Array
+        (
+            [burger] => 394
+            [cheeseburger] => 48
+            [cheese burger] => 40
+            [veggie burger] => 22
+            [beef burger] => 22
+            [hamburger] => 19
+            [turkey burger] => 18
+            [sirloin burger] => 14
+            [bean burger] => 12
+            [angus burger] => 12
+            [bbq burger] => 12
+            [cheddar burger] => 12
+            [burgers] => 12
+            [chicken burger] => 10
+            [bacon burger] => 10
+            [black bean burger] => 10
+            [swiss burger] => 8
+            [bleu burger] => 8
+            [angus cheeseburger] => 8
+            [grass fed burger] => 8
+            [bacon cheeseburger] => 8
+            [salmon burger] => 8
+            [fed burger] => 8
+            [onion burger] => 8
+            [cheddar cheese burger] => 6
+        )
+
+    [ethnic] => Array
+        (
+            [burger] => 15
+            [burger (8 oz.)] => 2
+            [hamburger (natural)] => 1
+            [burger (1/2lb. natural)] => 1
+            [cheeseburger (natural)] => 1
+            [hamburger with salad in pita] => 1
+            [hamburger (1/2lb. natural)] => 1
+            [hamburger with french fries] => 1
+            [cheeseburger] => 1
+            [cheeseburger (5 oz)] => 1
+            [burger 8 oz.] => 1
+            [hamburger plate (1/4 lb.)] => 1
+            [hamburger rollup] => 1
+            [burger francais] => 1
+            [burgerdog"] => 1
+        )
+
+    [italian] => Array
+        (
+            [burger] => 27
+            [cheeseburger] => 8
+            [hamburger] => 6
+            [burgers] => 5
+            [burger pizza] => 1
+            [burger pita] => 1
+            [cheeseburger club] => 1
+            [burger bomb sub] => 1
+            [burger basket with french fries] => 1
+            [cheeseburger and fries special] => 1
+            [cheeseburger lunch special] => 1
+            [burger wrap] => 1
+            [burger sub] => 1
+            [burger fries] => 1
+            [radeburger pilsnerandcomma; germany] => 1
+            [cheeseburger w/ french fries] => 1
+            [burger sliders] => 1
+            [cheeseburger dinner plate] => 1
+            [cheeseburger plate] => 1
+            [hamburgerandcomma; french friesandcomma; and salad] => 1
+            [cheesburger] => 1
+            [cheeseburger on bun] => 1
+            [hamburger 1/2 lb] => 1
+            [hamburger with cheese] => 1
+            [hamburger with cheddar or blue cheese] => 1
+        )
+
+    [cafe] => Array
+        (
+            [burger] => 54
+            [cheeseburger] => 9
+            [burger sub] => 4
+            [burger w/ fries] => 3
+            [hamburger] => 3
+            [cheeseburger dinner] => 2
+            [cheeseburger club] => 2
+            [cheeseburger w/ fries] => 2
+            [burger pita roll-up] => 2
+            [cheeseburger calzone] => 2
+            [burger on a bun] => 2
+            [cheeseburger grinder] => 1
+            [burger platter] => 1
+            [burger with bacon] => 1
+            [cheeseburger bacon french fries pizza or calzone] => 1
+            [cheeseburger de luxe] => 1
+            [hamburger club] => 1
+            [burger on arugula with spicy almond spread] => 1
+            [hamburger de luxe] => 1
+            [burger hoagie] => 1
+            [burger plate] => 1
+            [burger on a sub roll] => 1
+            [cheeseburger with french fries.] => 1
+            [hamburger sandwich] => 1
+            [cheeseburger sandwich] => 1
+        )
+
+    [deli] => Array
+        (
+            [burger] => 43
+            [cheeseburger] => 7
+            [burger sub] => 4
+            [hamburger] => 3
+            [burger w/ fries] => 3
+            [burger on a bun] => 2
+            [cheeseburger w/ fries] => 2
+            [cheeseburger dinner] => 2
+            [cheeseburger calzone] => 2
+            [burger pita roll-up] => 2
+            [cheeseburger bacon french fries pizza or calzone] => 1
+            [burger (1/2 lb)] => 1
+            [burger hoagie] => 1
+            [burger with bacon] => 1
+            [cheeseburger basket] => 1
+            [cheeseburger bacon pizza] => 1
+            [cheeseburger grinder] => 1
+            [burger plate] => 1
+            [cheeseburger special] => 1
+            [cheseburger] => 1
+            [cheeseburger with french fries.] => 1
+            [burger on a sub roll] => 1
+            [cheeseburger hot sub or wrap] => 1
+            [burger roll-up] => 1
+            [cheeseburger on sub roll] => 1
+        )
+
+    [bar] => Array
+        (
+            [burger] => 26
+            [burger $8.99] => 1
+            [burgern blues] => 1
+            [hamburger cooked to order] => 1
+            [cheeseburgers"] => 1
+        )
+
+    [grill] => Array
+        (
+            [burger] => 15
+            [burgers] => 1
+            [burger"] => 1
+            [burger (vegetarian)] => 1
+            [swissburger] => 1
+            [wurzburger julius echter hefe-weiss] => 1
+            [burger salad] => 1
+        )
+
+    [mexican or latin] => Array
+        (
+            [burger] => 2
+            [beerburger] => 1
+        )
+
+    [healthy] => Array
+        (
+            [burger on arugula with spicy almond spread] => 1
+            [burger] => 1
+        )
+
+    [asian] => Array
+        (
+            [burger with french fries] => 2
+            [burger] => 2
+            [burgers] => 1
+            [burger roll] => 1
+            [hamburger] => 1
+        )
+
+    [southern] => Array
+        (
+            [burger with monterey jack] => 1
+        )
+
+)

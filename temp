@@ -1,0 +1,380 @@
+Array
+(
+    [american] => Array
+        (
+            [burger] => 912
+            [sandwich] => 773
+            [fries] => 594
+            [chicken] => 546
+            [salmon] => 315
+            [pizza] => 269
+            [ale] => 268
+            [toast] => 267
+            [cake] => 260
+            [shrimp] => 255
+            [chips] => 248
+            [eggs] => 246
+            [wings] => 242
+            [soup] => 238
+            [wrap] => 233
+            [caesar salad] => 218
+            [steak] => 216
+            [bacon] => 200
+            [chowder] => 188
+            [plate] => 184
+            [calamari] => 182
+            [coffee] => 176
+            [sub] => 167
+            [roll] => 164
+            [potatoes] => 164
+        )
+
+    [all] => Array
+        (
+            [chicken] => 3091
+            [fried rice] => 2402
+            [rice] => 2267
+            [sandwich] => 2138
+            [roll] => 2079
+            [soup] => 1924
+            [pizza] => 1533
+            [burger] => 1456
+            [maki] => 1453
+            [sub] => 1445
+            [sauce] => 1431
+            [fries] => 1310
+            [shrimp] => 1268
+            [tea] => 1222
+            [wrap] => 1216
+            [beef] => 1161
+            [plate] => 887
+            [noodle soup] => 810
+            [cake] => 783
+            [french fries] => 778
+            [wings] => 757
+            [special] => 744
+            [chicken wings] => 744
+            [salmon] => 708
+            [pork] => 687
+        )
+
+    [ethnic] => Array
+        (
+            [plate] => 147
+            [masala] => 134
+            [curry] => 115
+            [chicken] => 113
+            [soup] => 107
+            [sandwich] => 99
+            [naan] => 94
+            [biryani] => 93
+            [korma] => 83
+            [kebab] => 81
+            [vindaloo] => 70
+            [platter] => 67
+            [saag] => 67
+            [rice] => 63
+            [paratha] => 61
+            [tea] => 58
+            [juice] => 57
+            [paneer] => 57
+            [fries] => 56
+            [wrap] => 53
+            [water] => 51
+            [dosa] => 46
+            [lassi] => 45
+            [nan] => 43
+            [shrimp] => 43
+        )
+
+    [italian] => Array
+        (
+            [pizza] => 585
+            [sub] => 403
+            [wrap] => 341
+            [chicken] => 339
+            [sandwich] => 254
+            [fries] => 204
+            [parmigiana] => 156
+            [calzone] => 156
+            [plate] => 155
+            [ravioli] => 148
+            [shrimp] => 145
+            [caesar salad] => 132
+            [steak] => 131
+            [dinner] => 127
+            [calamari] => 125
+            [burger] => 117
+            [broccoli] => 117
+            [sausage] => 116
+            [sauce] => 115
+            [cake] => 115
+            [salmon] => 108
+            [special] => 105
+            [wings] => 101
+            [pasta] => 100
+            [soup] => 96
+        )
+
+    [mexican or latin] => Array
+        (
+            [burrito] => 111
+            [quesadilla] => 98
+            [taco] => 86
+            [guacamole] => 67
+            [chicken] => 62
+            [nachos] => 54
+            [plate] => 51
+            [tacos] => 47
+            [salsa] => 45
+            [beans] => 44
+            [pollo] => 36
+            [rice] => 36
+            [fajita] => 36
+            [enchilada] => 32
+            [chips] => 31
+            [steak] => 30
+            [cream] => 28
+            [shrimp] => 26
+            [enchiladas] => 25
+            [asada] => 25
+            [(v)] => 24
+            [torta] => 23
+            [water] => 22
+            [soda] => 21
+            [camarones] => 21
+        )
+
+    [cafe] => Array
+        (
+            [sandwich] => 906
+            [sub] => 892
+            [pizza] => 626
+            [wrap] => 555
+            [chicken] => 443
+            [tea] => 398
+            [fries] => 326
+            [calzone] => 320
+            [roll-up] => 278
+            [dinner] => 275
+            [burger] => 274
+            [coffee] => 244
+            [latte] => 234
+            [cake] => 229
+            [plate] => 209
+            [chocolate] => 194
+            [chicken salad] => 192
+            [club] => 185
+            [toast] => 175
+            [beef] => 161
+            [caesar salad] => 157
+            [soda] => 151
+            [special] => 149
+            [turkey] => 144
+            [panini] => 142
+        )
+
+    [deli] => Array
+        (
+            [sub] => 884
+            [sandwich] => 699
+            [pizza] => 617
+            [wrap] => 455
+            [chicken] => 374
+            [calzone] => 320
+            [roll-up] => 278
+            [fries] => 265
+            [dinner] => 260
+            [burger] => 215
+            [tea] => 168
+            [plate] => 162
+            [chicken salad] => 152
+            [caesar salad] => 141
+            [club] => 136
+            [panini] => 131
+            [beef] => 128
+            [wings] => 124
+            [turkey] => 116
+            [fingers] => 114
+            [special] => 109
+            [soda] => 109
+            [melt] => 108
+            [cheeseburger] => 107
+            [parmesan] => 104
+        )
+
+    [bar] => Array
+        (
+            [burger] => 113
+            [sandwich] => 81
+            [fries] => 71
+            [chips] => 48
+            [ale] => 43
+            [pie] => 41
+            [wings] => 39
+            [caesar salad] => 34
+            [chicken] => 32
+            [wrap] => 31
+            [light] => 30
+            [tips] => 27
+            [nachos] => 27
+            [bacon] => 27
+            [soup] => 24
+            [tenders] => 24
+            [breakfast] => 23
+            [ipa] => 21
+            [chowder] => 21
+            [chili] => 19
+            [dip] => 19
+            [plate] => 18
+            [rings] => 17
+            [sliders] => 17
+            [quesadilla] => 17
+        )
+
+    [grill] => Array
+        (
+            [burger] => 113
+            [fries] => 82
+            [sandwich] => 79
+            [chicken] => 47
+            [wings] => 32
+            [eggs] => 26
+            [dog] => 26
+            [pie] => 25
+            [pizza] => 21
+            [cheeseburger] => 21
+            [margarita] => 20
+            [caesar salad] => 20
+            [tea] => 19
+            [beans] => 19
+            [light] => 18
+            [platter] => 18
+            [chips] => 18
+            [pork] => 17
+            [omelette] => 17
+            [water] => 16
+            [chili] => 16
+            [rings] => 15
+            [nachos] => 15
+            [ribs] => 15
+            [combo] => 14
+        )
+
+    [asian] => Array
+        (
+            [rice] => 1941
+            [roll] => 1773
+            [chicken] => 1539
+            [maki] => 1383
+            [soup] => 1298
+            [sauce] => 1067
+            [beef] => 808
+            [shrimp] => 805
+            [pork] => 538
+            [noodles] => 524
+            [tofu] => 494
+            [tea] => 466
+            [mein] => 434
+            [special] => 392
+            [vegetables] => 388
+            [curry] => 372
+            [combo] => 353
+            [teriyaki] => 347
+            [noodle] => 337
+            [broccoli] => 313
+            [tempura] => 258
+            [duck] => 255
+            [thai] => 224
+            [salmon] => 223
+            [delight] => 223
+        )
+
+    [healthy] => Array
+        (
+            [soup] => 64
+            [chicken] => 56
+            [naan] => 51
+            [masala] => 50
+            [curry] => 48
+            [biryani] => 47
+            [sandwich] => 43
+            [tea] => 40
+            [korma] => 37
+            [rice] => 36
+            [box] => 31
+            [juice] => 31
+            [wrap] => 31
+            [vindaloo] => 30
+            [dosa] => 28
+            [paneer] => 27
+            [paratha] => 26
+            [water] => 25
+            [tikka] => 24
+            [bowl] => 24
+            [combo] => 23
+            [alive] => 22
+            [kebab] => 21
+            [tofu] => 21
+            [platter] => 20
+        )
+
+    [southern] => Array
+        (
+            [fries] => 8
+            [chicken] => 5
+            [salsa] => 5
+            [sandwich] => 5
+            [leche] => 4
+            [rice] => 4
+            [toast] => 4
+            [tacos] => 3
+            [sausage] => 3
+            [mac and cheese] => 3
+            [side)] => 3
+            [frita] => 3
+            [caliente] => 3
+            [pollo] => 3
+            [chorizo] => 3
+            [potatoes] => 3
+            [bacon] => 3
+            [greens] => 3
+            [fruit] => 3
+            [caballo] => 2
+            [cerdo] => 2
+            [plancha] => 2
+            [shrimp] => 2
+            [vegetables] => 2
+            [guacamole] => 2
+        )
+
+    [desserts] => Array
+        (
+            [dozen)] => 72
+            [dozen] => 61
+            [cream] => 28
+            [sorbet] => 27
+            [tart] => 27
+            [pie] => 26
+            [cake] => 19
+            [chocolate] => 19
+            [vanilla] => 17
+            [sandwich] => 14
+            [caramel] => 14
+            [chip] => 13
+            [banana] => 12
+            [raspberry] => 12
+            [cheesecake] => 11
+            [fudge] => 11
+            [large] => 11
+            [strawberry] => 10
+            [sundae] => 10
+            [crunch] => 10
+            [medium] => 9
+            [pineapple] => 9
+            [chips] => 9
+            [oz.)] => 9
+            [bean] => 9
+        )
+
+)

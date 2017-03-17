@@ -1,0 +1,1448 @@
+Array
+(
+    [all] => Array
+        (
+            [fries] => 3107
+            [french fries] => 864
+            [home fries] => 285
+            [potato fries] => 269
+            [sweet potato fries] => 266
+            [cheese fries] => 211
+            [and fries] => 158
+            [cut fries] => 91
+            [truffle fries] => 83
+            [spicy fries] => 82
+            [homefries] => 76
+            [curly fries] => 69
+            [with fries] => 66
+            [waffle fries] => 55
+            [hand cut fries] => 46
+            [with french fries] => 44
+            [chili cheese fries] => 40
+            [of fries] => 40
+            [and french fries] => 38
+            [cajun fries] => 37
+            [fingers and fries] => 29
+            [steak fries] => 29
+            [parmesan fries] => 27
+            [curry fries] => 24
+            [w/ fries] => 23
+        )
+
+    [american] => Array
+        (
+            [fries] => 515
+            [french fries] => 118
+            [home fries] => 51
+            [potato fries] => 48
+            [sweet potato fries] => 48
+            [and fries] => 36
+            [cut fries] => 27
+            [cheese fries] => 24
+            [truffle fries] => 23
+            [homefries] => 15
+            [waffle fries] => 15
+            [hand cut fries] => 14
+            [with fries] => 13
+            [and french fries] => 12
+            [fingers and fries] => 8
+            [parmesan fries] => 8
+            [of fries] => 8
+            [steak fries] => 6
+            [parmesan truffle fries] => 6
+            [chili cheese fries] => 6
+            [spicy fries] => 6
+            [house cut fries] => 6
+            [steak and fries] => 6
+            [with french fries] => 6
+            [polenta fries] => 5
+        )
+
+    [seafood] => Array
+        (
+            [fries] => 55
+            [french fries] => 25
+            [potato fries] => 8
+            [sweet potato fries] => 8
+            [home fries] => 4
+            [and fries] => 4
+            [truffle fries] => 2
+            [hand-cut fries] => 2
+            [of french fries] => 2
+            [homefries] => 2
+            [kids burger and fries] => 2
+            [burger and fries] => 2
+            [hand-cut french fries] => 2
+            [onion and fries] => 1
+            [burger basket with french fries] => 1
+            [basket with french fries] => 1
+            [with onion and fries] => 1
+            [side of french fries] => 1
+            [tips with onion and fries] => 1
+            [with french fries] => 1
+            [cheese fries] => 1
+            [rosemary salted fries] => 1
+            [242 fries] => 1
+            [truffle-parmesan fries] => 1
+            [steak tips with onion and fries] => 1
+        )
+
+    [american (new)] => Array
+        (
+            [fries] => 158
+            [french fries] => 29
+            [home fries] => 19
+            [cut fries] => 15
+            [potato fries] => 11
+            [sweet potato fries] => 11
+            [and fries] => 10
+            [truffle fries] => 9
+            [hand cut fries] => 8
+            [homefries] => 5
+            [waffle fries] => 5
+            [polenta fries] => 4
+            [fresh cut fries] => 4
+            [steak fries] => 3
+            [parmesan fries] => 3
+            [vermont burger with fresh cut fries] => 3
+            [fed vermont burger with fresh cut fries] => 3
+            [grass fed vermont burger with fresh cut fries] => 3
+            [kennebec french fries] => 3
+            [burger with fresh cut fries] => 3
+            [with fresh cut fries] => 3
+            [shoestring fries] => 3
+            [house cut fries] => 3
+            [poutine fries] => 3
+            [cut french fries] => 3
+        )
+
+    [cocktails] => Array
+        (
+            [fries] => 90
+            [and fries] => 14
+            [french fries] => 11
+            [home fries] => 8
+            [cut fries] => 8
+            [truffle fries] => 5
+            [fingers and fries] => 4
+            [fresh cut fries] => 4
+            [crispy fries] => 4
+            [sweet potato fries] => 4
+            [potato fries] => 4
+            [cheddar fries] => 3
+            [house cut fries] => 3
+            [cut french fries] => 3
+            [grass fed vermont burger with fresh cut fries] => 3
+            [steak and fries] => 3
+            [homefries] => 3
+            [burger with fresh cut fries] => 3
+            [vermont burger with fresh cut fries] => 3
+            [with fresh cut fries] => 3
+            [chicken fingers and fries] => 3
+            [fed vermont burger with fresh cut fries] => 3
+            [burgers and fries] => 2
+            [mini burgers and fries] => 2
+            [duck fat fries] => 2
+        )
+
+    [french] => Array
+        (
+            [fries] => 7
+            [potato fries] => 1
+            [truffle fries] => 1
+            [burger fries] => 1
+            [beef burger fries] => 1
+            [mistral fries] => 1
+            [wagyu beef burger fries] => 1
+            ["french fries] => 1
+            [rib eye and home fries] => 1
+            [fries au canard with herbs and parmesan] => 1
+            [handcut fries] => 1
+            [french fries au canard with herbs and parmesan] => 1
+            [home fries] => 1
+            [and home fries] => 1
+            [eye and home fries] => 1
+        )
+
+    [bistro] => Array
+        (
+            [fries] => 14
+            [french fries] => 3
+            [kennebec french fries] => 3
+            [home fries] => 3
+            [and fries] => 2
+            [parmesan fries] => 1
+            [and parmesan fries] => 1
+            [garlic pepper fries] => 1
+            [pepper fries] => 1
+            [truffle and parmesan fries] => 1
+            ["french fries] => 1
+            [parmesan rosemary truffle fries] => 1
+            [rosemary truffle fries] => 1
+            [truffle fries] => 1
+            [hot dogandcomma; fries and fruit] => 1
+            [fenway truffle and parmesan fries] => 1
+            [fries and fruit] => 1
+            [fingers and fries] => 1
+            [chicken fingers and fries] => 1
+            [hot dog and fries] => 1
+            [dog and fries] => 1
+            [handcut fries] => 1
+            [of fries] => 1
+            [side of fries] => 1
+            [fingersandcomma; friesandcomma; fruit] => 1
+        )
+
+    [bar food] => Array
+        (
+            [fries] => 261
+            [french fries] => 40
+            [sweet potato fries] => 34
+            [potato fries] => 34
+            [and fries] => 22
+            [home fries] => 21
+            [cheese fries] => 20
+            [of fries] => 13
+            [truffle fries] => 11
+            [cut fries] => 8
+            [hand cut fries] => 7
+            [waffle fries] => 7
+            [homefries] => 6
+            [curry fries] => 6
+            [basket of fries] => 6
+            [chili fries] => 5
+            [and french fries] => 5
+            [house fries] => 4
+            [of sweet potato fries] => 4
+            [cheddar fries] => 4
+            [curry cheese fries] => 4
+            [side of fries] => 3
+            [dippers and fries] => 3
+            [cocktail sausages and fries] => 3
+            [spicy fries] => 3
+        )
+
+    [pizza] => Array
+        (
+            [fries] => 363
+            [french fries] => 126
+            [cheese fries] => 35
+            [curly fries] => 23
+            [sweet potato fries] => 23
+            [potato fries] => 23
+            [spicy fries] => 22
+            [with fries] => 17
+            [and fries] => 14
+            [home fries] => 11
+            [steak fries] => 7
+            [cut fries] => 6
+            [friesandcomma; and salad] => 5
+            [fries with cheese and bacon] => 5
+            [fries with cheese] => 5
+            [french friesandcomma; and salad] => 5
+            [waffle fries] => 5
+            [truffle fries] => 5
+            [fries and toast] => 4
+            [burger and fries] => 4
+            [hand cut fries] => 4
+            [home fries and toast] => 4
+            [chili fries] => 4
+            [cheesy fries] => 4
+            [chicken fingers with fries] => 4
+        )
+
+    [burgers] => Array
+        (
+            [fries] => 131
+            [french fries] => 23
+            [cheese fries] => 21
+            [sweet potato fries] => 16
+            [potato fries] => 16
+            [and fries] => 7
+            [chili cheese fries] => 6
+            [cajun fries] => 6
+            [cut fries] => 4
+            [homefries] => 4
+            [waffle fries] => 3
+            [dippers and fries] => 3
+            [large fries] => 3
+            [o' fries] => 3
+            [joey bag o' donuts basket o' fries] => 3
+            [donuts basket o' fries] => 3
+            [basket o' fries] => 3
+            [o' donuts basket o' fries] => 3
+            [bag o' donuts basket o' fries] => 3
+            [hand cut fries] => 3
+            [home fries] => 3
+            [large cajun fries] => 2
+            [signature hand cut fries] => 2
+            [inferno fries] => 2
+            [pizza fries] => 2
+        )
+
+    [barbecue] => Array
+        (
+            [fries] => 47
+            [french fries] => 13
+            [sweet potato fries] => 9
+            [potato fries] => 9
+            [cheese fries] => 4
+            [fries (v)] => 3
+            [home fries] => 3
+            [of fries] => 3
+            [and french fries] => 2
+            [potato french fries] => 2
+            [belgian-style fries] => 2
+            [of sweet potato fries] => 2
+            [side of fries] => 2
+            [side of sweet potato fries] => 2
+            [sweet potato french fries] => 2
+            [chili cheese fries] => 2
+            [shoestring fries] => 2
+            [cheesefries] => 2
+            [shoestring french fries] => 2
+            [mitch's cheesefries] => 1
+            ["""our original"" sour cream-n-chive fries (v)"] => 1
+            [original"" sour cream-n-chive fries (v)"] => 1
+            [sour cream-n-chive fries (v)"] => 1
+            [cheesey fries (v)] => 1
+            [fries (v)"] => 1
+        )
+
+    [soul food] => Array
+        (
+            [fries] => 25
+            [french fries] => 8
+            [sweet potato fries] => 3
+            [potato fries] => 3
+            [home fries] => 3
+            [cheesefries] => 2
+            [sweet potato french fries] => 2
+            [potato french fries] => 2
+            [shoestring fries] => 2
+            [shoestring french fries] => 2
+            [cheese fries] => 2
+            [mitch's chili cheese fries] => 1
+            [chili cheese fries] => 1
+            [mitch's cheesefries] => 1
+            [chili cheesefries] => 1
+            [mitch's cheese fries] => 1
+            [mitch's chili cheesefries] => 1
+            [sweet fries] => 1
+            [cajun fries] => 1
+            [chicken strips and fries] => 1
+            [strips and fries] => 1
+            [and fries] => 1
+            [parmesan fries] => 1
+            [truffle parmesan fries] => 1
+            [potato home fries] => 1
+        )
+
+    [steak] => Array
+        (
+            [fries] => 24
+            [french fries] => 10
+            [french fries or fresh fruit] => 4
+            [fries or fresh fruit] => 4
+            [with french fries or fresh fruit] => 4
+            [truffle fries] => 4
+            [hand-cut french fries] => 3
+            [potato fries] => 3
+            [sweet potato fries] => 3
+            [parmesan truffle fries] => 3
+            [burger with french fries or fresh fruit] => 2
+            [grille's signature cheeseburger with parmesan truffle fries] => 1
+            [with parmesan truffle fries] => 1
+            [the grille's signature cheeseburger with parmesan truffle fries] => 1
+            [cheeseburger with parmesan truffle fries] => 1
+            [signature cheeseburger with parmesan truffle fries] => 1
+            [parmesan fries] => 1
+            [breakfast fries] => 1
+            [cut french fries] => 1
+            [hand cut french fries] => 1
+            [met truffle fries] => 1
+            [met truffle french fries] => 1
+            [truffled parmesan fries] => 1
+            [truffle french fries] => 1
+            [hand cut fries] => 1
+        )
+
+    [irish] => Array
+        (
+            [fries] => 93
+            [french fries] => 13
+            [sweet potato fries] => 13
+            [potato fries] => 13
+            [and fries] => 10
+            [home fries] => 9
+            [curry fries] => 6
+            [cheese fries] => 5
+            [and french fries] => 5
+            [curry cheese fries] => 4
+            [house fries] => 3
+            [of fries] => 3
+            [sausages and fries] => 3
+            [waffle fries] => 3
+            [cheddar fries] => 3
+            [cocktail sausages and fries] => 3
+            [truffle fries] => 2
+            [chicken fingers and fries] => 2
+            [mini burgers and fries] => 2
+            [pub fries] => 2
+            [fingers and fries] => 2
+            [spicy fries] => 2
+            [homefries] => 2
+            [burgers and fries] => 2
+            [basket of fries] => 2
+        )
+
+    [sandwiches] => Array
+        (
+            [fries] => 303
+            [french fries] => 98
+            [cheese fries] => 31
+            [home fries] => 26
+            [sweet potato fries] => 23
+            [potato fries] => 23
+            [curly fries] => 17
+            [spicy fries] => 16
+            [with fries] => 9
+            [w/ fries] => 9
+            [fries and toast] => 7
+            [cajun fries] => 7
+            [with home fries and toast] => 7
+            [home fries and toast] => 7
+            [chili cheese fries] => 6
+            [waffle fries] => 6
+            [and fries] => 5
+            [eggs with home fries and toast] => 5
+            [homefries] => 5
+            [seasoned fries] => 5
+            [burger w/ fries] => 4
+            [spicy curly fries] => 3
+            [bag o' donuts basket o' fries] => 3
+            [cheesy fries] => 3
+            [with home friesandcomma; toast and meat] => 3
+        )
+
+    [deli food] => Array
+        (
+            [fries] => 70
+            [french fries] => 19
+            [home fries] => 10
+            [cheese fries] => 8
+            [with fries] => 7
+            [cheeseburger with fries] => 3
+            [spicy fries] => 3
+            [cajun fries] => 3
+            [homefries] => 2
+            [eggs and home fries] => 2
+            [and home fries] => 2
+            [sweet potato fries] => 2
+            [cheesy fries] => 2
+            [scrambled eggs and home fries] => 2
+            [ranch fries] => 2
+            [loaded fries] => 2
+            [potato fries] => 2
+            [chili cheese fries] => 2
+            [n' ranch fries] => 2
+            [waffle fries] => 2
+            [fries pizza or calzone] => 1
+            [french fries pizza or calzone] => 1
+            [crispy home fries] => 1
+            [served with fries] => 1
+            [bacon french fries pizza or calzone] => 1
+        )
+
+    [hot dogs] => Array
+        (
+            [fries] => 36
+            [cheese fries] => 12
+            [french fries] => 7
+            [sweet potato fries] => 4
+            [potato fries] => 4
+            [chili cheese fries] => 4
+            [cut french fries] => 2
+            [glazed sweet potato fries] => 1
+            [bacon cheese fries] => 1
+            [jalapeno cheese fries] => 1
+            [honey glazed sweet potato fries] => 1
+            [poodle fries] => 1
+            [and hand cut french fries] => 1
+            [homemade and hand cut french fries] => 1
+            [fries large] => 1
+            [hand cut french fries] => 1
+            [junkyard fries] => 1
+            [seasoned waffle fries] => 1
+            [fresh cut french fries] => 1
+            [waffle fries] => 1
+            [meating of the fries] => 1
+            [cheddarandcomma; and scallion fries] => 1
+            [baconandcomma; cheddarandcomma; and scallion fries] => 1
+            [and scallion fries] => 1
+            [scallion fries] => 1
+        )
+
+    [mexican] => Array
+        (
+            [fries] => 23
+            [french fries] => 10
+            [fries (v)] => 3
+            [with fries] => 2
+            [with french fries] => 2
+            [curly-q-fries (v)"] => 1
+            [45. trout with french fries or green plantain] => 1
+            [winning"" curly-q-fries (v)"] => 1
+            ["""award winning"" curly-q-fries (v)"] => 1
+            [wings with fries] => 1
+            [trout with french fries or green plantain] => 1
+            [with french fries or green plantain] => 1
+            [7. french fries] => 1
+            [3. chicken wings with fries] => 1
+            [cajun fries (v)] => 1
+            [fries or green plantain] => 1
+            [french fries or green plantain] => 1
+            [chicken wings with fries] => 1
+            [cheesey fries (v)] => 1
+            [dusted french fries] => 1
+            [burro home fries] => 1
+            [home fries] => 1
+            [chili dusted french fries] => 1
+            [chipotle fries] => 1
+            [sweet potato fries] => 1
+        )
+
+    [middle eastern] => Array
+        (
+            [fries] => 52
+            [french fries] => 27
+            [home fries] => 4
+            [with french fries] => 4
+            [with fries] => 4
+            [and fries] => 3
+            [spicy fries] => 3
+            [home fries and toast] => 2
+            [fries and toast] => 2
+            [cheese fries] => 2
+            [with home fries and toast] => 2
+            [hot dog with french fries] => 2
+            [2 eggs with home fries and toast] => 2
+            [dog with french fries] => 2
+            [hamburger with french fries] => 2
+            [eggs with home fries and toast] => 2
+            [cheeseburger with fries] => 2
+            [fries cheese] => 1
+            [french fries cheese] => 1
+            [84. french fries cheese] => 1
+            [62. mix fries and onion rings] => 1
+            [fries and onion rings] => 1
+            [potato fries] => 1
+            [sweet potato fries] => 1
+            [56. french fries] => 1
+        )
+
+    [latin american] => Array
+        (
+            [fries] => 13
+            [french fries] => 7
+            [and french fries] => 4
+            [with fries] => 3
+            [burger and french fries] => 1
+            [cheese burger and french fries] => 1
+            [cheese fries] => 1
+            [5. french fries] => 1
+            [6. cheese fries] => 1
+            [onion and fries] => 1
+            [steak tips with onion and fries] => 1
+            [yuca fries] => 1
+            [tips with onion and fries] => 1
+            [with onion and fries] => 1
+            [slice hot dog and french fries] => 1
+            [and fries] => 1
+            [chicken fingers and french fries] => 1
+            [roast beef with fries] => 1
+            [beef with fries] => 1
+            [steak cheese with fries] => 1
+            [cheese with fries] => 1
+            [sandwich with fries] => 1
+            [chicken sandwich with fries] => 1
+            [dog and french fries] => 1
+            [fingers and french fries] => 1
+        )
+
+    [central american] => Array
+        (
+            [fries] => 5
+            [french fries] => 4
+            [with french fries] => 2
+            [5 chicken wings with french fries] => 1
+            [chicken wings with french fries] => 1
+            [yuca fries] => 1
+            [chicken fingers with french fries] => 1
+            [fingers with french fries] => 1
+            [3 chicken fingers with french fries] => 1
+            [wings with french fries] => 1
+        )
+
+    [vegetarian] => Array
+        (
+            [fries] => 37
+            [french fries] => 10
+            [home fries] => 5
+            [kennebec french fries] => 3
+            [sweet potato fries] => 2
+            [spicy fries] => 2
+            [potato fries] => 2
+            [homefries] => 2
+            [basket of sweet potato fries] => 1
+            [of sweet potato fries] => 1
+            [basket of fries] => 1
+            [of fries] => 1
+            [small house salad or fries] => 1
+            [parmesan fries] => 1
+            [home-cut fries] => 1
+            [chick pea fries] => 1
+            [pea fries] => 1
+            [house salad or fries] => 1
+            [oven fries] => 1
+            [or fries] => 1
+            [waffle fries] => 1
+            [additional fries] => 1
+            [regular fries] => 1
+            [shoestring fries] => 1
+            [potato waffle fries] => 1
+        )
+
+    [gastropub] => Array
+        (
+            [fries] => 56
+            [french fries] => 12
+            [cut fries] => 10
+            [home fries] => 6
+            [hand cut fries] => 4
+            [fresh cut fries] => 4
+            [truffle fries] => 4
+            [burger with fresh cut fries] => 3
+            [vermont burger with fresh cut fries] => 3
+            [homefries] => 3
+            [polenta fries] => 3
+            [with fresh cut fries] => 3
+            [potato fries] => 3
+            [sweet potato fries] => 3
+            [grass fed vermont burger with fresh cut fries] => 3
+            [fed vermont burger with fresh cut fries] => 3
+            [steak and fries] => 2
+            [house cut fries] => 2
+            [and fries] => 2
+            [cut french fries] => 2
+            [crispy fries] => 2
+            [truffle parmesan fries] => 2
+            [parmesan fries] => 2
+            [house fries] => 2
+            [fries (v)] => 2
+        )
+
+    [diner] => Array
+        (
+            [fries] => 56
+            [home fries] => 25
+            [french fries] => 16
+            [2 eggsandcomma; home fries] => 6
+            [eggsandcomma; home fries] => 6
+            [cheese fries] => 3
+            [wings with fries] => 2
+            [or french fries] => 2
+            [with fries] => 2
+            [curly fries] => 2
+            [potato fries] => 2
+            [sweet potato fries] => 2
+            [2 eggs home fries] => 2
+            [eggs home fries] => 2
+            [boneless wings with fries] => 2
+            [grasshopper fries] => 2
+            [loaded home fries] => 2
+            [piece boneless wings with fries] => 2
+            [homefries] => 2
+            [ridiculously loaded home fries] => 2
+            [homefries or french fries] => 1
+            [steve's pancake fries] => 1
+            [spicy curly fries] => 1
+            [cajun fries] => 1
+            [small home fries or french fries] => 1
+        )
+
+    [wings] => Array
+        (
+            [fries] => 85
+            [french fries] => 20
+            [cheese fries] => 9
+            [potato fries] => 7
+            [sweet potato fries] => 7
+            [spicy fries] => 5
+            [waffle fries] => 5
+            [and fries] => 4
+            [homefries] => 4
+            [curly fries] => 4
+            [dippers and fries] => 3
+            [cut fries] => 2
+            [fully loaded cheese fries] => 2
+            [cajun fries] => 2
+            [home fries] => 2
+            [fries with cheese] => 2
+            [fries with cheese and bacon] => 2
+            [spicy curly fries] => 2
+            [loaded cheese fries] => 2
+            [bruschetta fries] => 2
+            [pizza fries] => 2
+            [inferno fries] => 2
+            [chili cheese fries] => 2
+            [make it a basket by adding french fries for] => 1
+            [french fries special] => 1
+        )
+
+    [local/organic] => Array
+        (
+            [fries] => 27
+            [french fries] => 11
+            [with french fries] => 4
+            [sweet potato fries] => 3
+            [potato fries] => 3
+            [house cut fries] => 3
+            [cut fries] => 3
+            [vinegar french fries] => 2
+            [steak and fries] => 2
+            [and fries] => 2
+            [salt and vinegar fries] => 2
+            [and vinegar french fries] => 2
+            [salt and vinegar french fries] => 2
+            [vinegar fries] => 2
+            [real fries] => 2
+            [and vinegar fries] => 2
+            [sandwich with french fries] => 1
+            [chicken tenders (3) with french fries] => 1
+            [tenders (3) with french fries] => 1
+            [cheese sandwich with french fries] => 1
+            [grilled cheese sandwich with french fries] => 1
+            [house cut french fries] => 1
+            [cut french fries] => 1
+            [(3) with french fries] => 1
+            [oven fries] => 1
+        )
+
+    [brazilian] => Array
+        (
+            [fries] => 6
+            [french fries] => 3
+            [with onion and fries] => 1
+            [steak tips with onion and fries] => 1
+            [onion and fries] => 1
+            [tips with onion and fries] => 1
+            [home fries] => 1
+            [polenta fries] => 1
+            [parmesan polenta fries] => 1
+            [crispy parmesan polenta fries] => 1
+            [and fries] => 1
+        )
+
+    [italian] => Array
+        (
+            [fries] => 156
+            [french fries] => 44
+            [potato fries] => 13
+            [sweet potato fries] => 12
+            [home fries] => 12
+            [w/ fries] => 12
+            [cheese fries] => 12
+            [and fries] => 9
+            [curly fries] => 6
+            [spicy fries] => 5
+            [truffle fries] => 5
+            [burger w/ fries] => 4
+            [fries or fresh fruit] => 4
+            [with french fries or fresh fruit] => 4
+            [french fries or fresh fruit] => 4
+            [crispy fries] => 4
+            [seasoned fries] => 3
+            [homefries] => 3
+            [italian fries] => 2
+            [hand-cut italian fries] => 2
+            [penguin fries] => 2
+            [cheeseburger and fries] => 2
+            [with fries] => 2
+            [meatball sliders and fries] => 2
+            [sliders and fries] => 2
+        )
+
+    [pasta] => Array
+        (
+            [fries] => 3
+            [french fries] => 2
+            [cajun fries] => 1
+        )
+
+    [subs] => Array
+        (
+            [fries] => 3
+            [french fries] => 2
+            [cajun fries] => 1
+        )
+
+    [grill] => Array
+        (
+            [fries] => 3
+            [french fries] => 2
+            [cajun fries] => 1
+        )
+
+    [hoagies] => Array
+        (
+            [french fries] => 1
+            [fries] => 1
+        )
+
+    [late night] => Array
+        (
+            [french fries] => 1
+            [fries] => 1
+        )
+
+    [pub food] => Array
+        (
+            [fries] => 3
+            [root fries] => 1
+            [chickpea fries] => 1
+            [rosemary-truffle fries] => 1
+        )
+
+    [wraps] => Array
+        (
+            [fries] => 5
+            [french fries] => 3
+            [side of fries] => 1
+            [cajun fries] => 1
+            [sweet potato french fries] => 1
+            [potato french fries] => 1
+            [of fries] => 1
+        )
+
+    [coffee and tea] => Array
+        (
+            [fries] => 47
+            [home fries] => 14
+            [french fries] => 13
+            [sweet potato fries] => 6
+            [potato fries] => 6
+            [fries (5)] => 2
+            [homefries] => 2
+            [grasshopper fries] => 2
+            [and fries (5)] => 2
+            [ridiculously loaded home fries] => 2
+            [loaded home fries] => 2
+            [side french fries] => 2
+            [shoestring fries] => 1
+            [or french fries] => 1
+            [parmesan-garlic fries] => 1
+            [crispy home fries] => 1
+            [wing dings and fries (5)] => 1
+            [dings and fries (5)] => 1
+            [homefries or french fries] => 1
+            [fries or hashbrowns] => 1
+            [home fries or hashbrowns] => 1
+            [of fries] => 1
+            [truffle fries] => 1
+            [french friesandcomma; spicy ketchup] => 1
+            [parmesan truffle fries] => 1
+        )
+
+    [bakery and pastries] => Array
+        (
+            [fries] => 4
+            [or french fries] => 1
+            [fries or french fries] => 1
+            [home fries or french fries] => 1
+            [homefries] => 1
+            [small home fries or french fries] => 1
+            [french fries] => 1
+            [chicken fingers and fries] => 1
+            [oven home fries] => 1
+            [home fries] => 1
+            [wood oven home fries] => 1
+            [and fries] => 1
+            [fingers and fries] => 1
+            [fries on the side] => 1
+        )
+
+    [cuban] => Array
+        (
+            [french fries] => 1
+            [fries] => 1
+        )
+
+    [puerto rican] => Array
+        (
+            [french fries] => 1
+            [fries] => 1
+        )
+
+    [vegan] => Array
+        (
+            [fries] => 7
+            [french fries] => 4
+            [kennebec french fries] => 3
+            [home fries] => 2
+            [homefries] => 1
+        )
+
+    [smoothies and juices] => Array
+        (
+            [fries] => 8
+            [cheese fries] => 4
+            [potato fries] => 2
+            [sweet potato fries] => 2
+            [glazed sweet potato fries] => 1
+            [honey glazed sweet potato fries] => 1
+            [chili cheese fries] => 1
+            [shoestring fries] => 1
+            [french fries] => 1
+            [bacon cheese fries] => 1
+            [jalapeno cheese fries] => 1
+        )
+
+    [southwestern] => Array
+        (
+            [fries] => 13
+            [fries (v)] => 3
+            [home fries] => 3
+            [french fries] => 2
+            [sweet potato fries] => 2
+            [potato fries] => 2
+            [sour cream-n-chive fries (v)"] => 1
+            [fries (v)"] => 1
+            [cheesey fries (v)] => 1
+            [cream-n-chive fries (v)"] => 1
+            [cajun fries (v)] => 1
+            ["""award winning"" curly-q-fries (v)"] => 1
+            [original"" sour cream-n-chive fries (v)"] => 1
+            [fiery cajun fries (v)] => 1
+            [dusted fries] => 1
+            [cheese quesadilla french fries] => 1
+            [jack cheese quesadilla french fries] => 1
+            [monterey jack cheese quesadilla french fries] => 1
+            [quesadilla french fries] => 1
+            [southwest home fries] => 1
+            [sweet fries (v)] => 1
+            [winning"" curly-q-fries (v)"] => 1
+            [chile dusted fries] => 1
+            ["""our original"" sour cream-n-chive fries (v)"] => 1
+            [cheesey fries] => 1
+        )
+
+    [caribbean] => Array
+        (
+            [fries] => 2
+            [home fries] => 1
+            [french fries] => 1
+        )
+
+    [ribs] => Array
+        (
+            [fries] => 2
+            [home fries] => 1
+            [french fries] => 1
+        )
+
+    [greek] => Array
+        (
+            [fries] => 34
+            [french fries] => 10
+            [and fries] => 5
+            [sweet potato fries] => 3
+            [buffalo french fries] => 3
+            [potato fries] => 3
+            [greek fries] => 3
+            [regular fries] => 2
+            [home fries] => 2
+            [cut home fries] => 2
+            [curly fries] => 2
+            [hand- cut home fries] => 2
+            [fresh hand cut fries] => 1
+            [cut fries] => 1
+            [spicy curly fries] => 1
+            [lamb and fries] => 1
+            [hand cut fries] => 1
+            [steve's pancake fries] => 1
+            [pancake fries] => 1
+            [cheese fries] => 1
+            [falafel and fries] => 1
+            [pork and fries] => 1
+            [chicken and fries] => 1
+            [shrimp and fries] => 1
+            [- tray of fries] => 1
+        )
+
+    [cheesesteaks] => Array
+        (
+            [fries] => 17
+            [french fries] => 5
+            [homefries] => 3
+            [eggandcomma; homefries] => 3
+            [cheese fries] => 3
+            [baconandcomma; eggandcomma; homefries] => 2
+            [home fries] => 2
+            [sausageandcomma; baconandcomma; eggandcomma; homefries] => 1
+            [3. sausageandcomma; baconandcomma; eggandcomma; homefries] => 1
+            [hamandcomma; sausageandcomma; eggandcomma; homefries] => 1
+            [2. hamandcomma; baconandcomma; eggandcomma; homefries] => 1
+            [hamandcomma; baconandcomma; eggandcomma; homefries] => 1
+            [1. hamandcomma; sausageandcomma; eggandcomma; homefries] => 1
+            [sausageandcomma; eggandcomma; homefries] => 1
+            [chili cheese fries] => 1
+            [bay fries] => 1
+            [cajun fries] => 1
+            [chive fries] => 1
+            [pizza fries] => 1
+            [seasoned curly fries] => 1
+            [curly fries] => 1
+            [bacon cheese fries] => 1
+        )
+
+    [salads] => Array
+        (
+            [fries] => 10
+            [french fries] => 2
+            [spicy fries] => 2
+            [sweet potato fries] => 1
+            [home fries] => 1
+            [potato fries] => 1
+            [cajun fries] => 1
+            [loaded fries] => 1
+            [truffle fries] => 1
+            [hand-cut fries] => 1
+        )
+
+    [mediterranean] => Array
+        (
+            [fries] => 24
+            [home fries] => 9
+            [french fries] => 7
+            [2 eggsandcomma; home fries] => 6
+            [eggsandcomma; home fries] => 6
+            [eggs home fries] => 2
+            [homefries] => 2
+            [potato fries] => 2
+            [2 eggs home fries] => 2
+            [zoe's fries] => 1
+            [sweet potato fries] => 1
+            [cheeseburger and french fries] => 1
+            [truffle parmesan fries] => 1
+            [parmesan fries] => 1
+            [mistral fries] => 1
+            [fresh fries] => 1
+            [and french fries] => 1
+            [ham 2 eggs home fries] => 1
+            [side french fries] => 1
+            [oven baked fries] => 1
+            [baked fries] => 1
+            [chicken 2 eggsandcomma; home fries] => 1
+            [steak 2 eggsandcomma; home fries] => 1
+            [bacon 2 eggsandcomma; home fries] => 1
+            [sausage 2 eggsandcomma; home fries] => 1
+        )
+
+    [healthy] => Array
+        (
+            [fries] => 8
+            [french fries] => 3
+            [potato fries] => 2
+            [sweet potato fries] => 2
+            [real fries] => 2
+            [cajun fries] => 1
+        )
+
+    [desserts] => Array
+        (
+            [fries] => 16
+            [french fries] => 5
+            [home fries] => 1
+            [parmesan-garlic fries] => 1
+            [potato fries] => 1
+            [waffle fries] => 1
+            [sweet potato fries] => 1
+            [spiced waffle fries] => 1
+            [homefries] => 1
+            [cheese fries] => 1
+            [max's cocoa spiced waffle fries] => 1
+            [cocoa spiced waffle fries] => 1
+            [portabella mushroomandcomma; avocado and zucchini fries] => 1
+            [avocado and zucchini fries] => 1
+            [fingers and fries] => 1
+            [and fries] => 1
+            [spicy fries] => 1
+            [loaded fries] => 1
+            [chicken fingers and fries] => 1
+            [fries on the side] => 1
+            [and zucchini fries] => 1
+            [zucchini fries] => 1
+            [parmesan polenta fries] => 1
+            [polenta fries] => 1
+            [mushroomandcomma; avocado and zucchini fries] => 1
+        )
+
+    [eclectic and international] => Array
+        (
+            [fries] => 19
+            [french fries] => 6
+            [home fries] => 4
+            [sweet potato fries] => 3
+            [potato fries] => 3
+            [spicy fries] => 2
+            [chipotle aïoli french fries] => 1
+            [of fries] => 1
+            [of sweet potato fries] => 1
+            [basket of sweet potato fries] => 1
+            [aïoli french fries] => 1
+            [basket of fries] => 1
+            [steak fries] => 1
+            [fries french] => 1
+            [crispy fries] => 1
+            [battered fries] => 1
+            [potato home fries] => 1
+            [thick cut steak fries] => 1
+            [cut steak fries] => 1
+            [curry french fries] => 1
+        )
+
+    [chicken] => Array
+        (
+            [fries] => 21
+            [french fries] => 6
+            [spicy fries] => 2
+            [cheese fries] => 2
+            [or wrapsandcomma; 1 large french fries and 2 cans of soda] => 1
+            [1. 20 buffalo wings with large french fries special] => 1
+            [subs or wrapsandcomma; 1 large french fries and 2 cans of soda] => 1
+            [large subs or wrapsandcomma; 1 large french fries and 2 cans of soda] => 1
+            [wrapsandcomma; 1 large french fries and 2 cans of soda] => 1
+            [1 large french fries and 2 cans of soda] => 1
+            [french fries and 2 cans of soda] => 1
+            [2 large subs or wrapsandcomma; 1 large french fries and 2 cans of soda] => 1
+            [large french fries and 2 cans of soda] => 1
+            [fries and 2 cans of soda] => 1
+            [curly fries] => 1
+            [fries cheese] => 1
+            [french fries cheese] => 1
+            [84. french fries cheese] => 1
+            [waffle fries] => 1
+            [62. mix fries and onion rings] => 1
+            [mix fries and onion rings] => 1
+            [20 buffalo wings with large french fries special] => 1
+            [56. french fries] => 1
+            [fries and onion rings] => 1
+            [3. 2 large subs or wrapsandcomma; 1 large french fries and 2 cans of soda] => 1
+        )
+
+    [kosher] => Array
+        (
+            [fries] => 14
+            [french fries] => 8
+            [with french fries] => 4
+            [home fries] => 3
+            [hamburger with french fries] => 2
+            [hot dog with french fries] => 2
+            [dog with french fries] => 2
+            [eggs and home fries] => 2
+            [and home fries] => 2
+            [scrambled eggs and home fries] => 2
+            [cheese fries] => 1
+            [cajun fries] => 1
+        )
+
+    [japanese] => Array
+        (
+            [fries] => 21
+            [french fries] => 9
+            [sweet potato fries] => 4
+            [potato fries] => 4
+            [with french fries] => 4
+            [eggandcomma; homefries] => 3
+            [homefries] => 3
+            [home fries] => 3
+            [cheese burger with french fries] => 2
+            [burger with french fries] => 2
+            [baconandcomma; eggandcomma; homefries] => 2
+            [spicy fries] => 2
+            [chicken sandwich with french fries] => 1
+            [sandwich with french fries] => 1
+            [yucca fries] => 1
+            [fd3. chicken sandwich with french fries] => 1
+            [fd2. cheese burger with french fries] => 1
+            [steak with french fries] => 1
+            [km4. kid's cheese burger with french fries] => 1
+            [kid's cheese burger with french fries] => 1
+            [fd4. grilled steak with french fries] => 1
+            [grilled steak with french fries] => 1
+            [itadaki spicy fries] => 1
+            [french fries appetizer] => 1
+            [hamandcomma; sausageandcomma; eggandcomma; homefries] => 1
+        )
+
+    [sushi] => Array
+        (
+            [fries] => 20
+            [french fries] => 9
+            [with french fries] => 4
+            [sweet potato fries] => 3
+            [potato fries] => 3
+            [burger with french fries] => 2
+            [cheese burger with french fries] => 2
+            [spicy fries] => 2
+            [home fries] => 2
+            [chicken sandwich with french fries] => 1
+            [sandwich with french fries] => 1
+            [fd4. grilled steak with french fries] => 1
+            [kid's cheese burger with french fries] => 1
+            [km4. kid's cheese burger with french fries] => 1
+            [fd2. cheese burger with french fries] => 1
+            [grilled steak with french fries] => 1
+            [steak with french fries] => 1
+            [fd3. chicken sandwich with french fries] => 1
+            [fries appetizer] => 1
+            [regular fries] => 1
+            [itadaki spicy fries] => 1
+            [yucca fries] => 1
+            [sansho fries] => 1
+            [curry fries] => 1
+            [1. french fries] => 1
+        )
+
+    [korean] => Array
+        (
+            [fries] => 6
+            [french fries] => 4
+            [sweet potato fries] => 1
+            [potato fries] => 1
+            [home fries] => 1
+        )
+
+    [nuevo latino] => Array
+        (
+            [fries] => 4
+            [tico fries] => 1
+            [sweet potato fries] => 1
+            [chipotle fries] => 1
+            [yuca fries] => 1
+            [potato fries] => 1
+        )
+
+    [crepes] => Array
+        (
+            [home fries] => 1
+            [fries] => 1
+        )
+
+    [chinese] => Array
+        (
+            [fries] => 29
+            [french fries] => 28
+            [with french fries] => 7
+            [fries (5)] => 2
+            [burger with french fries] => 2
+            [cheese burger with french fries] => 2
+            [and fries (5)] => 2
+            [115. french fries] => 1
+            [curry sauce with french fries] => 1
+            [15. french fries] => 1
+            [chicken with french fries] => 1
+            [sauce with french fries] => 1
+            [wing and french fries] => 1
+            [2c. french fries] => 1
+            [w7. hot spicy wings with french fries] => 1
+            [and french fries] => 1
+            [curry chicken with french fries] => 1
+            [chicken wing and french fries] => 1
+            [a10. french fries] => 1
+            [fries appetizer] => 1
+            [steak with french fries] => 1
+            [fd3. chicken sandwich with french fries] => 1
+            [grilled steak with french fries] => 1
+            [fd4. grilled steak with french fries] => 1
+            [km4. kid's cheese burger with french fries] => 1
+        )
+
+    [spanish] => Array
+        (
+            [fries] => 3
+            [tico fries] => 1
+            [home fries] => 1
+            [valdeon fries] => 1
+        )
+
+    [asian] => Array
+        (
+            [fries] => 9
+            [french fries] => 2
+            [curry fries] => 1
+            [coconut curry fries] => 1
+            [truffle fries] => 1
+            [hand-cut fries] => 1
+            [duck fat hand-cut fries] => 1
+            [fat hand-cut fries] => 1
+            [parmesan fries] => 1
+            [14. salt and pepper french fries] => 1
+            [sansho fries] => 1
+            [2c. french fries] => 1
+            [house fries] => 1
+            [pepper french fries] => 1
+            [salt and pepper french fries] => 1
+            [and pepper french fries] => 1
+            [regular fries] => 1
+        )
+
+    [asian fusion] => Array
+        (
+            [fries] => 9
+            [french fries] => 2
+            [curry fries] => 1
+            [coconut curry fries] => 1
+            [truffle fries] => 1
+            [hand-cut fries] => 1
+            [duck fat hand-cut fries] => 1
+            [fat hand-cut fries] => 1
+            [parmesan fries] => 1
+            [14. salt and pepper french fries] => 1
+            [sansho fries] => 1
+            [2c. french fries] => 1
+            [house fries] => 1
+            [pepper french fries] => 1
+            [salt and pepper french fries] => 1
+            [and pepper french fries] => 1
+            [regular fries] => 1
+        )
+
+    [cajun and creole] => Array
+        (
+            [fries] => 10
+            [cheese fries] => 3
+            [french fries] => 3
+            [shoestring french fries] => 1
+            [potato fries] => 1
+            [sweet potato fries] => 1
+            [mitch's cheese fries] => 1
+            [shoestring fries] => 1
+            [mitch's chili cheese fries] => 1
+            [cajun fries] => 1
+            [spicy fries] => 1
+            [chili cheese fries] => 1
+            [potato french fries] => 1
+            [sweet potato french fries] => 1
+        )
+
+    [turkish] => Array
+        (
+            [fries] => 2
+            [french fries] => 2
+            [home fries (small)] => 1
+            [fries (small)] => 1
+            [home fries (large)] => 1
+            [fries (large)] => 1
+        )
+
+    [indian] => Array
+        (
+            [french fries] => 1
+            [fries] => 1
+        )
+
+    [pakistani] => Array
+        (
+            [french fries] => 1
+            [fries] => 1
+        )
+
+    [south american] => Array
+        (
+            [fries] => 7
+            [french fries] => 5
+            [fries or green plantain] => 1
+            [7. french fries] => 1
+            [french fries or green plantain] => 1
+            [with french fries or green plantain] => 1
+            [45. trout with french fries or green plantain] => 1
+            [trout with french fries or green plantain] => 1
+            [3. chicken wings with fries] => 1
+            [wings with fries] => 1
+            [and french fries] => 1
+            [home fries] => 1
+            [burger and french fries] => 1
+            [cheese burger and french fries] => 1
+            [with fries] => 1
+            [chicken wings with fries] => 1
+        )
+
+    [peruvian] => Array
+        (
+            [french fries] => 1
+            [fries] => 1
+        )
+
+    [lunch specials] => Array
+        (
+            [tips with onion and fries] => 1
+            [steak tips with onion and fries] => 1
+            [with onion and fries] => 1
+            [onion and fries] => 1
+            [and fries] => 1
+            [fries] => 1
+        )
+
+    [russian] => Array
+        (
+            [in the nest of julienne cut friesandcomma; fruit sauce] => 1
+            [quails in the nest of julienne cut friesandcomma; fruit sauce] => 1
+            [of quails in the nest of julienne cut friesandcomma; fruit sauce] => 1
+            [duo of quails in the nest of julienne cut friesandcomma; fruit sauce] => 1
+            [the nest of julienne cut friesandcomma; fruit sauce] => 1
+            [nest of julienne cut friesandcomma; fruit sauce] => 1
+            [cut friesandcomma; fruit sauce] => 1
+            [julienne cut friesandcomma; fruit sauce] => 1
+            [of julienne cut friesandcomma; fruit sauce] => 1
+            [friesandcomma; fruit sauce] => 1
+        )
+
+    [thai] => Array
+        (
+            [fries] => 3
+            [french fries] => 1
+            [home fries] => 1
+            [coconut curry fries] => 1
+            [curry fries] => 1
+        )
+
+    [noodles] => Array
+        (
+            [sweet potato fries] => 1
+            [potato fries] => 1
+            [fries] => 1
+        )
+
+    [alcohol] => Array
+        (
+            [fries] => 2
+            [french fries] => 1
+            [truffle fries] => 1
+        )
+
+    [teahouses] => Array
+        (
+            [plum sweet potato fries] => 1
+            [sweet potato fries] => 1
+            [potato fries] => 1
+            [fries] => 1
+        )
+
+    [other] => Array
+        (
+            [fries large] => 1
+        )
+
+)
