@@ -1,0 +1,307 @@
+american
+,cheese,723
+,grilled cheese,127
+,cheeseburger,108
+,cheesecake,90
+,steak,69
+,mac and cheese,66
+,ham,58
+,fries,49
+,sandwich,47
+,macaroni,45
+,goat cheese,44
+,pizza,43
+,burger,41
+,cheese sandwich,39
+,cream cheese,39
+,cheese burger,38
+,cheese pizza,37
+,cheese fries,33
+,egg,31
+,salad,29
+,steak and cheese,25
+,bacon,24
+,with cheese,24
+,cheese plate,23
+,macaroni and cheese,19
+ethnic
+,cheese,47
+,cheesecake,8
+,sandwich,6
+,ham,6
+,naan,6
+,feta cheese,5
+,cheese naan,5
+,cheese sandwich,5
+,cheeses,5
+,pizza,5
+,egg,4
+,cake,4
+,cheese cake,4
+,pie,3
+,cheese pizza,3
+,cheeseburger,3
+,goat cheese,2
+,macaroni,2
+,olives,2
+,burger,2
+,grilled ham,2
+,nan,2
+,mac n cheese,2
+,cheese pie,2
+,bleu cheese,2
+italian
+,cheese,426
+,pizza,79
+,ham,76
+,steak,72
+,cheese pizza,67
+,cheeseburger,59
+,cheesecake,34
+,calzone,29
+,cheese calzone,28
+,grilled cheese,27
+,wrap,26
+,steak and cheese,26
+,macaroni,26
+,ham and cheese,25
+,sandwich,25
+,egg,25
+,cheese sub,25
+,ravioli,22
+,cheese ravioli,20
+,goat cheese,19
+,cheese sandwich,19
+,with cheese,16
+,fries,16
+,extra cheese,16
+,italian cheese,15
+mexican or latin
+,cheese,67
+,quesadilla,9
+,burrito,9
+,cheese quesadilla,8
+,chicken,6
+,cheese burrito,5
+,extra cheese,5
+,bean and cheese,4
+,steak,4
+,cheesecake,4
+,jack cheese,3
+,ham,3
+,beans,3
+,add extra cheese,2
+,nachos,2
+,with cheese,2
+,cheese nachos,2
+,mushrooms,2
+,beef,2
+,egg,2
+,taco,2
+,muffin,2
+,ham and cheese,2
+,chicken and cheese,2
+,enchilada,1
+cafe
+,cheese,761
+,ham,192
+,steak,140
+,egg,129
+,cheeseburger,129
+,sandwich,128
+,grilled cheese,98
+,cheese sandwich,91
+,cheese sub,90
+,cream cheese,67
+,ham and cheese,59
+,calzone,58
+,pizza,56
+,cheese pizza,48
+,cheesecake,48
+,cheese calzone,47
+,steak and cheese,46
+,omelet,45
+,cheese omelet,43
+,fries,42
+,wrap,37
+,bacon cheeseburger,35
+,bacon,35
+,with cream cheese,32
+,with cheese,31
+deli
+,cheese,593
+,ham,157
+,steak,130
+,cheeseburger,109
+,egg,97
+,sandwich,95
+,cheese sub,90
+,cheese sandwich,68
+,grilled cheese,67
+,calzone,58
+,pizza,55
+,cheese pizza,48
+,cheese calzone,47
+,ham and cheese,45
+,steak and cheese,41
+,fries,40
+,cream cheese,36
+,wrap,34
+,cheeseburger sub,30
+,cheesecake,30
+,with cheese,29
+,salami,28
+,bacon cheeseburger,28
+,cheese fries,27
+,tomato,26
+bar
+,cheese,64
+,grilled cheese,18
+,steak,11
+,burger,7
+,fries,7
+,cheeseburger,7
+,cheese burger,6
+,cheese fries,6
+,steak and cheese,5
+,sandwich,4
+,mac and cheese,4
+,nachos,4
+,salad,3
+,cheese nachos,3
+,cheese sandwich,3
+,cheeseburger sliders,3
+,cheese plate,3
+,curry cheese fries,3
+,sliders,3
+,mac n cheese,3
+,ham,3
+,goat cheese,2
+,grilled ham,2
+,baked mac and cheese,2
+,tasso mac and cheese,2
+grill
+,cheese,51
+,cheeseburger,21
+,fries,15
+,cheese fries,15
+,grilled cheese,14
+,with cheese,6
+,mac and cheese,6
+,burger,5
+,chili cheese fries,5
+,cheese burger,5
+,bacon cheeseburger,5
+,pizza,4
+,cheese dog,4
+,cheese pizza,4
+,bacon,3
+,cheese sandwich,3
+,steak,3
+,sandwich,3
+,cheese sub,2
+,cheese steak,2
+,cottage cheese,2
+,three cheese,2
+,egg,2
+,o.g. w/cheese,2
+,bleu cheese,2
+asian
+,cheese cake,10
+,cake,10
+,cheese,9
+,cheesecake,9
+,cream cheese roll,5
+,strawberry cheesecake,3
+,steak,3
+,cream cheese,3
+,fries,2
+,french fries,2
+,strawberry cheese cake,2
+,fried cheese cake,2
+,seafood,2
+,avocado roll,2
+,crab stick,2
+,rolls,2
+,cheese steak,2
+,kimchi cheese,1
+,cheese kimbap,1
+,mozzarella cheese,1
+,a10. seafood and cheese ddok bokghi,1
+,crab stick and cream cheese roll,1
+,a12. cheese labokghi,1
+,double cheese burger,1
+,with cream cheese,1
+healthy
+,cheese,21
+,pie,4
+,chicken,4
+,cheese pie,3
+,goat cheese,3
+,grilled chicken,2
+,dosa,2
+,roasted chicken,2
+,cheese naan,2
+,naan,2
+,macaroni,2
+,spinach,2
+,roasted chicken and goat cheese wrap box,1
+,dyo grilled cheese sandwich,1
+,bleu cheese,1
+,cheese wrap,1
+,roasted chicken and goat cheese wrap,1
+,cheeseburger dosa,1
+,wrap,1
+,true bleu cheese,1
+,cheese sandwich,1
+,sandwich,1
+,grilled cheese sandwich,1
+,butternut squash,1
+,biscuit,1
+southern
+,cheese,8
+,fries,2
+,creamy scrambled eggs with chorizo and mexican farmer's cheese,1
+,mac n' cheese,1
+,cheese fries,1
+,chorizo,1
+,french fries,1
+,chile dusted frites with cotija cheese,1
+,monterey jack cheese quesadilla french fries,1
+,masa style bbq mac and cheese,1
+,cheesecake,1
+,grilled cheese bites,1
+,pimento cheese and bacon grilled cheese bites,1
+,sausage,1
+,andouille sausage mac and cheese,1
+,grilled cheese,1
+,famous seamus sausage and cheese balls,1
+,mac and cheese,1
+,pulled pork grilled cheese,1
+,brown sugar pecan pie cheesecake,1
+desserts
+,cheesecake,11
+,cheese,5
+,cheese cake,3
+,cake,3
+,ny cheesecake,2
+,blueberry cheesecake,2
+,bacon egg cheese,2
+,strawberry cheesecake,2
+,blackberry cheese cake,1
+,sausage egg cheese,1
+,turkey bacon egg cheese,1
+,bagel and cream cheese,1
+,ham egg cheese,1
+,cream cheese,1
+,strawberry cheese cake,1
+,chocolate cheesecake,1
+,crumbs cheese cake,1
+,bagel,1
+,cheese sandwich,1
+,strawberry cheesecake milkshake (20 oz.),1
+,no sugar added cheesecake,1
+,milkshake (20 oz.),1
+,cheesecake fantasty ice cream,1
+,ice cream,1
+,new york cheesecake,1

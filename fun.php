@@ -37,7 +37,7 @@ function get_it_done()
     $linecount += 1;
     if ($linecount % 1000 == 0) echo $linecount."\n";
     $menuItem = $assoc[2];
-    $indices = get_index($menuItem);    
+    $indices = get_index_full($menuItem);    
     $awesomeObj[$indices[0]] = true; 
   }  
   $lineIndex = [];
@@ -69,9 +69,9 @@ function get_it_done()
     
     //check if $food
     if ($food && strpos($menuItem,$food) === false) continue; 
-    //$indices = get_indices($menuItem);
-    //$indices = get_index($menuItem);    
-    $indices = get_indices($menuItem,$wordmin=1);
+    //$indices = get_indices_using_windows($menuItem);
+    //$indices = get_index_full($menuItem);    
+    $indices = get_indices_from_last_word($menuItem,$wordmin=1);
     foreach ($indices as $index) 
     {
       if (!isset($awesomeObj[$index])) continue;
@@ -98,11 +98,43 @@ function get_it_done()
     }
   } 
 }
-function get_index($menuItem) 
+//e.g. chicken and rice => ["chicken and rice"]
+//this generates REAL menu items that can be checked against when using the following methods
+function get_index_full($menuItem) 
 {
   return [implode(' ',array_map('trim',explode(' ',$menuItem)))];
 }
-function get_indices($menuItem,$wordmin) 
+//e.g. chicken and rice => ['chicken','rice','chicken and rice'
+//
+function get_indices_from_last_word($menuItem) 
+{
+  if (!trim($menuItem)) return [];
+  $menuItem= implode(' ',array_values(array_filter(array_map('trim',explode(' ',$menuItem))))); //fix up the menu item
+  $indices = [];
+  //(1) split over and
+  $items = array_map('trim',explode(' and ',$menuItem));
+  if (count($items) > 1) 
+  {
+    //(2) add full menu item if there is an and to split over
+    $indices []= $menuItem;
+  }
+  foreach ($items as $item) 
+  {
+    //process each item
+    $words = explode(' ',$item);
+    $tempIndex = '';
+    while(count($words) > 0) 
+    {
+      $tempIndex = array_pop($words) . ' ' . $tempIndex;
+      if (trim($tempIndex)) $indices []= trim($tempIndex);
+    }
+  } 
+  //file_put_contents('temp.csv',print_r($indices,true),FILE_APPEND);
+  return $indices;
+}
+//e.g. chicken and rice => ['chicken','chicken and','chicken and rice','and','and rice','rice']
+//this creates all possible in order combinations to be checked against REAL menu items
+function get_indices_using_windows($menuItem,$wordmin) 
 {
   if (!isset($wordmin)) $wordmin = 1;
   $words = explode(' ',$menuItem);
