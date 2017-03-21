@@ -1,5 +1,6 @@
 <?php 
 include_once('superCategories.php');
+//allie made this change
 if (isset($argv) && isset($argv[1]))
 {
   $food = $argv[1];
