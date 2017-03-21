@@ -1,0 +1,178 @@
+Array
+(
+    [american] => Array
+        (
+            [caesar salad] => 134
+            [classic caesar salad] => 15
+            [chicken caesar salad] => 12
+            [grilled chicken caesar salad] => 5
+            [side caesar salad] => 5
+            [caesar salad with grilled chicken] => 4
+            [caesar salad with chicken] => 3
+            [charred caesar salad] => 2
+            [small house or caesar salad] => 2
+            [grilled salmon caesar salad] => 2
+            [house or caesar salad] => 2
+            [caesar salad ^`] => 1
+            [caesar salad - whole salad] => 1
+            [kids caesar salad] => 1
+            [romaine and kale caesar salad with chicken - whole salad] => 1
+            [romaine and kale caesar salad with chicken - half salad] => 1
+            [caesar salad with chicken - half salad] => 1
+            [caesar salad wrap] => 1
+            [caesar salad romaine lettuce] => 1
+            [seafood caesar salad] => 1
+            [union caesar salad] => 1
+            [caesar salad with chicken - whole salad] => 1
+            [caesar salad - half salad] => 1
+            [southwestern caesar salad] => 1
+            [hearts of romaine caesar salad] => 1
+        )
+
+    [italian] => Array
+        (
+            [caesar salad] => 83
+            [chicken caesar salad] => 15
+            [grilled chicken caesar salad] => 8
+            [classic caesar salad] => 7
+            [caesar salad wrap] => 3
+            [caesar salad with chicken] => 2
+            [large caesar salad] => 2
+            [small caesar salad] => 2
+            [caesar salad with grilled chicken] => 2
+            [1/2 buffet caesar salad] => 1
+            [side caesar salad] => 1
+            [stone hearth caesar salad] => 1
+            [caesar salad wrap with grilled chicken] => 1
+            [full buffet caesar salad] => 1
+            [kale chicken caesar salad] => 1
+            [caesar salad box] => 1
+            [truffled caesar salad] => 1
+            [umbria's caesar salad] => 1
+            [grilled cjun chicken caesar salad] => 1
+            [entrée caesar salad] => 1
+            [caesar salad with steak] => 1
+            [crabmeat caesar salad] => 1
+            [unlimited soup and caesar salad] => 1
+            [caesar salad with homemade caesar dressing] => 1
+            [caesar salad with grilled shrimp] => 1
+        )
+
+    [mexican or latin] => Array
+        (
+            [caesar salad] => 5
+            [chicken caesar salad] => 2
+            [purple cactus caesar salad] => 1
+            [grilled shrimp caesar salad] => 1
+        )
+
+    [ethnic] => Array
+        (
+            [caesar salad] => 9
+            [traditional caesar salade] => 1
+            [paola's caesar salad] => 1
+            [caesar salad wrap] => 1
+            [tandoori chicken caesar salad] => 1
+            [chicken caesar salad] => 1
+            [steak tip caesar salad] => 1
+        )
+
+    [cafe] => Array
+        (
+            [caesar salad] => 92
+            [chicken caesar salad] => 21
+            [grilled chicken caesar salad] => 13
+            [classic caesar salad] => 6
+            [caesar salad with grilled chicken] => 4
+            [steak tip caesar salad] => 3
+            [caesar salad with chicken] => 3
+            [crispy chicken caesar salad] => 2
+            [chicken caesar salad wrap] => 2
+            [caesar salad wrap] => 2
+            [caesar salad or garden salad] => 1
+            [spike caesar salad] => 1
+            [14. chicken caesar salad] => 1
+            [garden or caesar salad] => 1
+            [marinated chicken caesar salad] => 1
+            [grilled steak caesar salad] => 1
+            [chicken kabob caesar salad] => 1
+            [pesto kale caesar salad] => 1
+            [the classic caesar salad] => 1
+            [caesar salad roll-up] => 1
+            [caesar salad wrap #] => 1
+            [caesar salad wrap with chicken breast] => 1
+            [caesar salad with chicken breast] => 1
+            [side garden or caesar salad] => 1
+            [7. caesar salad] => 1
+        )
+
+    [deli] => Array
+        (
+            [caesar salad] => 82
+            [chicken caesar salad] => 18
+            [grilled chicken caesar salad] => 13
+            [caesar salad with grilled chicken] => 4
+            [classic caesar salad] => 4
+            [steak tip caesar salad] => 3
+            [caesar salad with chicken] => 3
+            [crispy chicken caesar salad] => 2
+            [chicken caesar salad wrap] => 2
+            [14. chicken caesar salad] => 1
+            [the classic caesar salad] => 1
+            [caesar salad or garden salad] => 1
+            [spike caesar salad] => 1
+            [marinated chicken caesar salad] => 1
+            [caesar salad roll-up] => 1
+            [grilled steak caesar salad] => 1
+            [chicken kabob caesar salad] => 1
+            [house salad and caesar salad] => 1
+            [caesar salad wrap with chicken breast] => 1
+            [caesar salad with chicken breast] => 1
+            [caesar salad wrap #] => 1
+            [garden or caesar salad] => 1
+            [side garden or caesar salad] => 1
+            [caesar salad w/ chicken] => 1
+            [7. caesar salad] => 1
+        )
+
+    [grill] => Array
+        (
+            [caesar salad] => 13
+            [mitch's smoked chicken caesar salad] => 2
+            [chicken caesar salad] => 2
+            [organic kale caesar salad with grilled chicken] => 1
+            [colossal caesar salad] => 1
+            [side chicken caesar salad] => 1
+            [classic caesar salad] => 1
+        )
+
+    [healthy] => Array
+        (
+            [caesar salad] => 5
+            [kale chicken caesar salad] => 1
+            [pesto kale caesar salad] => 1
+            [caesar salad box] => 1
+        )
+
+    [southern] => Array
+        (
+            [caesar salad] => 1
+        )
+
+    [bar] => Array
+        (
+            [caesar salad] => 20
+            [chicken caesar salad] => 5
+            [classic caesar salad] => 3
+            [caesar salad with steak tips] => 1
+            [o'leary's caesar salad] => 1
+            [grilled chicken caesar salad] => 1
+            [caesar salad with shrimp or salmon] => 1
+            [feta caesar salad] => 1
+            [side caesar salad] => 1
+            [grilled caesar salad] => 1
+            [cathedral caesar salad] => 1
+            [caesar salad with grilled or blackened chicken] => 1
+        )
+
+)

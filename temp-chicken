@@ -1,2279 +1,343 @@
 Array
 (
-    [all] => Array
-        (
-            [chicken] => 6862
-            [chicken salad] => 1181
-            [chicken wings] => 790
-            [grilled chicken] => 683
-            [chicken fingers] => 651
-            [chicken sandwich] => 644
-            [buffalo chicken] => 428
-            [chicken breast] => 424
-            [chicken pizza] => 302
-            [chicken wrap] => 301
-            [chicken teriyaki] => 296
-            [chicken tenders] => 287
-            [bbq chicken] => 246
-            [chicken parmesan] => 241
-            [fried chicken] => 238
-            [with chicken] => 228
-            [chicken caesar salad] => 226
-            [chicken cutlet] => 220
-            [chicken quesadilla] => 219
-            [sesame chicken] => 198
-            [chicken caesar] => 196
-            [chicken caesar wrap] => 194
-            [grilled chicken sandwich] => 181
-            [crispy chicken] => 167
-            [grilled chicken salad] => 158
-        )
-
     [american] => Array
         (
-            [chicken] => 490
-            [chicken salad] => 129
-            [chicken sandwich] => 125
-            [chicken wings] => 88
-            [grilled chicken] => 72
-            [chicken breast] => 64
-            [chicken fingers] => 63
-            [chicken tenders] => 61
-            [buffalo chicken] => 55
-            [fried chicken] => 45
-            [chicken quesadilla] => 45
-            [chicken wrap] => 38
-            [grilled chicken sandwich] => 34
-            [bbq chicken] => 31
-            [chicken parmesan] => 27
-            [grilled chicken breast] => 20
-            [chicken pot pie] => 19
-            [chicken caesar salad] => 19
-            [chicken pizza] => 18
-            [roasted chicken] => 18
-            [half chicken] => 17
-            [chicken cutlet] => 17
-            [chicken pasta] => 16
-            [chicken and waffles] => 16
-            [chicken club] => 16
+            [chicken] => 2535
+            [salad] => 306
+            [grilled] => 297
+            [grilled chicken] => 254
+            [and] => 251
+            [sandwich] => 217
+            [buffalo] => 180
+            [buffalo chicken] => 176
+            [chicken salad] => 169
+            [chicken and] => 147
+            [chicken sandwich] => 145
+            [fried] => 120
+            [wings] => 110
+            [chicken wings] => 108
+            [bbq] => 106
+            [fried chicken] => 105
+            [breast] => 95
+            [fingers] => 92
+            [wrap] => 92
+            [bbq chicken] => 91
+            [chicken fingers] => 91
+            [chicken breast] => 91
+            [with] => 85
+            [caesar] => 82
+            [tenders] => 74
         )
 
-    [seafood] => Array
+    [ethnic] => Array
         (
-            [chicken] => 152
-            [chicken breast] => 27
-            [chicken wings] => 23
-            [chicken fingers] => 22
-            [chicken sandwich] => 21
-            [grilled chicken] => 17
-            [chicken salad] => 12
-            [chicken fried rice] => 12
-            [gau's chicken] => 10
-            [fried chicken] => 9
-            [sesame chicken] => 9
-            [grilled chicken sandwich] => 9
-            [general gau's chicken] => 9
-            [chicken finger] => 8
-            [chicken with rice] => 7
-            [sour chicken] => 6
-            [grilled chicken breast] => 6
-            [and sour chicken] => 6
-            [sweet and sour chicken] => 6
-            [chicken and rice] => 5
-            ["shredded chicken] => 5
-            [chicken and vegetable with rice] => 5
-            [pao chicken] => 5
-            [kung pao chicken] => 5
-            [flavored chicken] => 5
-        )
-
-    [american (new)] => Array
-        (
-            [chicken] => 169
-            [chicken sandwich] => 43
-            [chicken wings] => 39
-            [chicken breast] => 31
-            [chicken salad] => 30
-            [fried chicken] => 21
-            [half chicken] => 15
-            [chicken tenders] => 13
-            [grilled chicken sandwich] => 12
-            [grilled chicken] => 12
-            [chicken and waffles] => 10
-            [roasted chicken] => 10
-            [chicken quesadilla] => 9
-            [chicken fingers] => 9
-            [buttermilk fried chicken] => 7
-            [roasted half chicken] => 7
-            [chicken club] => 7
-            [chicken tacos] => 7
-            [fried chicken sandwich] => 6
-            [chicken flatbread] => 6
-            [buffalo chicken] => 6
-            [bbq chicken] => 6
-            [1/2 chicken] => 6
-            [roasted chicken breast] => 6
-            [chicken sausage] => 6
-        )
-
-    [cocktails] => Array
-        (
-            [chicken] => 91
-            [chicken wings] => 23
-            [chicken sandwich] => 17
-            [fried chicken] => 15
-            [chicken breast] => 12
-            [chicken tenders] => 10
-            [chicken and waffles] => 10
-            [half chicken] => 10
-            [chicken salad] => 8
-            [roasted chicken] => 7
-            [fried chicken sandwich] => 5
-            [chicken dip] => 5
-            [chicken club] => 5
-            [chicken quesadilla] => 5
-            [chicken curry] => 4
-            [roasted half chicken] => 4
-            [bbq chicken] => 4
-            [buffalo chicken] => 4
-            [buffalo chicken dip] => 3
-            [style chicken wings] => 3
-            [chicken wrap] => 3
-            [chicken fingers and fries] => 3
-            [chicken under a brick] => 3
-            [grilled chicken] => 3
-            [chicken pot pie] => 3
-        )
-
-    [mediterranean] => Array
-        (
-            [chicken] => 21
-            [chicken roll-up] => 18
-            [chicken dinner] => 6
-            [chicken shawarma] => 5
-            [chicken salad] => 5
-            [chicken sandwich] => 4
-            [chicken breast] => 4
-            [chicken shawarma plate] => 3
-            [salad w/ chicken] => 3
-            [w/ chicken] => 3
-            [grilled chicken] => 3
-            [chicken kebab] => 3
-            [armenian chicken roll-up] => 2
-            [chicken shawarma platter] => 2
-            [honey mustard chicken roll-up] => 2
-            [chicken basil roll-up] => 2
-            [spicy buffalo chicken roll-up] => 2
-            [bbq chicken roll-up] => 2
-            [garlic chicken club roll-up] => 2
-            [mustard chicken roll-up] => 2
-            [chicken ranch roll-up] => 2
-            [lebanese chicken roll-up] => 2
-            [chicken club roll-up] => 2
-            [bbq chicken dinner] => 2
-            [chicken plate] => 2
-        )
-
-    [french] => Array
-        (
-            [chicken] => 17
-            [chicken breast] => 5
-            [pan roasted chicken breast] => 3
-            [roasted chicken breast] => 3
-            [half chicken] => 2
-            [provence half chicken] => 2
-            [roasted chicken] => 2
-            [giannone chicken] => 2
-            [rotisserie chicken] => 2
-            [de provence half chicken] => 2
-            [herbes de provence half chicken] => 2
-            [organic roasted herbes de provence half chicken] => 2
-            [chicken panini] => 2
-            [chicken salade] => 2
-            [roasted herbes de provence half chicken] => 2
-            [chicken liver pate] => 1
-            [chicken panzanella salad] => 1
-            [chicken breast and thigh] => 1
-            [roasted chicken breast and thigh] => 1
-            [crusted chicken] => 1
-            [chicken cobb salade] => 1
-            [natural chicken] => 1
-            [chicken salade sandwich] => 1
-            [chicken bacon sandwich] => 1
-            [herb crusted chicken] => 1
-        )
-
-    [bistro] => Array
-        (
-            [chicken] => 17
-            [chicken breast] => 6
-            [chicken sandwich] => 6
-            [chicken wings] => 6
-            [(choice of chicken or pork)] => 4
-            [chicken or pork)] => 4
-            [of chicken or pork)] => 4
-            [roasted chicken breast] => 3
-            [chicken tacos] => 3
-            [chicken set] => 3
-            [half chicken] => 3
-            [chicken gyoza] => 2
-            [chicken fingers] => 2
-            [pon's spicy chicken wings] => 2
-            [roasted chicken] => 2
-            [cutlet set (choice of chicken or pork)] => 2
-            [fried chicken gyoza] => 2
-            [grilled chicken satay] => 2
-            [chicken satay] => 2
-            [chicken eggrolls] => 2
-            [pan fried chicken gyoza] => 2
-            [smoked chicken wings] => 2
-            [chipotle smoked chicken wings] => 2
-            [provence half chicken] => 2
-            [de provence half chicken] => 2
-        )
-
-    [bar food] => Array
-        (
-            [chicken] => 192
-            [chicken sandwich] => 69
-            [chicken salad] => 46
-            [chicken tenders] => 46
-            [chicken wings] => 38
-            [chicken fingers] => 33
-            [chicken quesadilla] => 33
-            [chicken wrap] => 30
-            [buffalo chicken] => 29
-            [grilled chicken] => 28
-            [fried chicken] => 18
-            [chicken caesar wrap] => 16
-            [buffalo chicken wrap] => 16
-            [bbq chicken] => 15
-            [chicken breast] => 14
-            [chicken caesar salad] => 13
-            [chicken pot pie] => 13
-            [fried chicken sandwich] => 12
-            [chicken curry] => 12
-            [grilled chicken sandwich] => 12
-            [chicken club] => 11
-            [chicken breast sandwich] => 10
-            [chicken nachos] => 10
-            [buffalo chicken salad] => 10
-            [chicken pizza] => 9
-        )
-
-    [pizza] => Array
-        (
-            [chicken] => 613
-            [chicken salad] => 170
-            [grilled chicken] => 146
-            [chicken fingers] => 122
-            [buffalo chicken] => 114
-            [chicken pizza] => 109
-            [chicken wings] => 89
-            [bbq chicken] => 69
-            [chicken wrap] => 65
-            [chicken sandwich] => 63
-            [chicken sub] => 60
-            [chicken parmesan] => 56
-            [chicken cutlet] => 56
-            [chicken caesar] => 46
-            [chicken caesar salad] => 44
-            [chicken parm] => 43
-            [buffalo chicken pizza] => 40
-            [chicken caesar wrap] => 40
-            [grilled chicken salad] => 37
-            [chicken calzone] => 37
-            [chicken tenders] => 35
-            [chicken kabob] => 34
-            [with grilled chicken] => 34
-            [chicken breast] => 33
-            [chicken and broccoli] => 33
-        )
-
-    [burgers] => Array
-        (
-            [chicken] => 78
-            [chicken sandwich] => 21
-            [buffalo chicken] => 19
-            [chicken salad] => 14
-            [chicken tenders] => 14
-            [chicken fingers] => 13
-            [chicken wings] => 13
-            [grilled chicken] => 9
-            [bbq chicken] => 8
-            [chicken breast sandwich] => 8
-            [fried chicken] => 7
-            [chicken breast] => 6
-            [chicken caesar] => 6
-            [chicken wrap] => 6
-            [chicken quesadilla] => 6
-            [chicken ranch] => 5
-            [chicken caesar salad] => 5
-            [chicken parmesan] => 5
-            [grilled chicken breast death sandwich] => 4
-            [grilled chicken breast sandwich] => 4
-            [fried buffalo chicken breast sandwich] => 4
-            [smoked grilled chicken breast sandwich] => 4
-            [buffalo chicken breast sandwich] => 4
-            [chicken breast death sandwich] => 4
-            [grilled chicken sandwich] => 4
-        )
-
-    [eclectic and international] => Array
-        (
-            [chicken] => 33
-            [chicken pizza (10"")"] => 8
-            [chicken quesadilla] => 7
-            [chicken salad] => 6
-            [chicken sandwich] => 6
-            [chicken wings] => 5
-            [chicken caesar wrap] => 3
-            [buffalo chicken] => 3
-            [chicken teriyaki] => 3
-            [chicken piccata] => 3
-            [chicken milanese] => 3
-            [garlic chicken pizza (10"")"] => 2
-            [chicken and shrimp teriyaki] => 2
-            ["spicy chipotle chicken pizza (10"")"] => 2
-            [chicken dumplings] => 2
-            [spicy chicken] => 2
-            [giannone farm chicken] => 2
-            ["roasted garlic chicken pizza (10"")"] => 2
-            [chicken tequila fettuccine] => 2
-            [chicken club] => 2
-            [ginger chicken dumplings] => 2
-            [sesame ginger chicken dumplings] => 2
-            ["the original bbq chicken pizza (10"")"] => 2
-            [original bbq chicken pizza (10"")"] => 2
-            [bbq chicken pizza (10"")"] => 2
-        )
-
-    [local/organic] => Array
-        (
-            [chicken] => 19
-            [chicken breast] => 6
-            [chicken salad] => 6
-            [chicken sandwich] => 4
-            [chicken wings] => 4
-            [roasted chicken] => 3
-            [chicken pasta] => 2
-            [chicken thin crust pizza] => 2
-            [roasted chicken pasta] => 2
-            [and roasted chicken pasta] => 2
-            [spinach and roasted chicken pasta] => 2
-            [organic chicken] => 2
-            [vermont all natural chicken breast] => 2
-            [grilled chicken sandwich] => 2
-            [fried chicken] => 2
-            [chicken wings one dozen] => 2
-            [all natural chicken breast] => 2
-            [chicken caesar] => 2
-            [chicken caesar salad] => 2
-            [natural chicken breast] => 2
-            [southwestern chicken salad] => 2
-            [grilled chicken] => 2
-            [chicken pizza] => 2
-            [house smoked chicken cobb salad] => 1
-            [1/2 chicken] => 1
-        )
-
-    [latin american] => Array
-        (
-            [chicken] => 22
-            [grilled chicken] => 5
-            [chicken wings] => 4
-            [grilled chicken breast] => 4
-            [chicken breast] => 4
-            [chicken burrito] => 3
-            [fried chicken] => 3
-            [chicken quesadilla] => 2
-            [and chicken] => 2
-            [chicken sandwich] => 2
-            [bbq chicken] => 2
-            [chicken burrito plate] => 2
-            [beef and chicken] => 2
-            [chicken parmigiana] => 2
-            [chicken and broccoli] => 2
-            [6. chicken scampi] => 1
-            [4. chicken wings] => 1
-            [5. grilled chicken breast] => 1
-            [6. grilled chicken] => 1
-            [9. chicken breast a la lemon] => 1
-            [chicken breast a la lemon] => 1
-            [2. chicken toscanos] => 1
-            [3. chicken sandwich] => 1
-            [chicken and italian sausage with linguini] => 1
-            [2. chicken and broccoli] => 1
-        )
-
-    [south american] => Array
-        (
-            [chicken] => 11
-            [chicken salad] => 6
-            [grilled chicken] => 3
-            [chicken fingers] => 3
-            [taco beefandcomma; chicken or pork] => 2
-            [beefandcomma; chicken or pork] => 2
-            [chicken parmesan] => 2
-            [chicken hearts] => 2
-            [66. taco beefandcomma; chicken or pork] => 2
-            [chicken wings] => 2
-            [chicken or pork] => 2
-            [chicken breast] => 2
-            [(½ chicken)andcomma; pollo frito (½ pollo)] => 1
-            [chicken)andcomma; pollo frito (½ pollo)] => 1
-            [chicken (½ chicken)andcomma; pollo frito (½ pollo)] => 1
-            [25. chicken fajitasandcomma; fajitas de pollo] => 1
-            [fried chicken (½ chicken)andcomma; pollo frito (½ pollo)] => 1
-            [grilled steak or chicken] => 1
-            [29. fried chicken (½ chicken)andcomma; pollo frito (½ pollo)] => 1
-            [chicken fajitasandcomma; fajitas de pollo] => 1
-            [21. grilled chicken or breaded breastandcomma; pechuga de pollo apanado o a la plancha] => 1
-            [enchiladas with grilled steak or chicken] => 1
-            [salvadorian enchiladas with grilled steak or chicken] => 1
-            [1. salvadorian enchiladas with grilled steak or chicken] => 1
-            [3. chicken wings with fries] => 1
-        )
-
-    [barbecue] => Array
-        (
-            [chicken] => 87
-            [pulled chicken] => 15
-            [chicken sandwich] => 13
-            [chicken wings] => 12
-            [chicken breast] => 9
-            [chicken breast sandwich] => 8
-            [bbq chicken] => 8
-            [chicken fingers] => 8
-            [chicken salad] => 8
-            [fried chicken] => 7
-            [bbq pulled chicken] => 6
-            [chicken and noodles] => 5
-            [half chicken] => 5
-            [grilled chicken] => 5
-            [chicken breast death sandwich] => 4
-            [chicken caesar salad] => 4
-            [grilled chicken breast death sandwich] => 4
-            [fried buffalo chicken breast sandwich] => 4
-            [buffalo chicken breast sandwich] => 4
-            [smoked grilled chicken breast sandwich] => 4
-            [grilled chicken breast] => 4
-            [grilled chicken breast sandwich] => 4
-            [chicken teriyaki] => 4
-            [chicken combo] => 4
-            [bonchon chicken] => 4
-        )
-
-    [soul food] => Array
-        (
-            [chicken] => 21
-            [chicken sandwich] => 6
-            [pulled chicken] => 6
-            [chicken wings] => 6
-            [half chicken] => 4
-            [chicken plate] => 3
-            [natural pulled chicken] => 3
-            [fried chicken] => 3
-            [mitch's smoked chicken caesar salad] => 2
-            [voodoo chicken wings] => 2
-            [fried chicken sandwich] => 2
-            [chicken and waffles] => 2
-            [pulled chicken sandwich] => 2
-            [chicken and cheese patty] => 2
-            [smoked chicken caesar salad] => 2
-            [chicken caesar salad] => 2
-            [bread waffle and chicken] => 2
-            [bbq half chicken] => 2
-            [waffle and chicken] => 2
-            [and chicken] => 2
-            [corn bread waffle and chicken] => 2
-            [bbq pulled chicken sandwich] => 2
-            [jerked half chicken] => 2
-            [jamaican jerked half chicken] => 2
-            [bbq pulled chicken] => 2
-        )
-
-    [steak] => Array
-        (
-            [chicken] => 51
-            [chicken salad] => 7
-            [grilled chicken] => 5
-            [chicken #] => 4
-            [chicken tenders] => 4
-            [chicken fettuccini] => 4
-            [sierra chicken] => 4
-            [chicken sandwich] => 4
-            [chicken fingers] => 3
-            [crusted chicken] => 3
-            [fried chicken] => 3
-            [and chicken] => 3
-            [parmesan crusted chicken #] => 3
-            [crusted chicken #] => 3
-            [chicken club] => 3
-            [paneed chicken] => 3
-            [chicken supreme] => 2
-            [barbeque chicken] => 2
-            [fresh chicken tenders] => 2
-            [chicken chop salad] => 2
-            [chicken georgie] => 2
-            [chicken parmigian] => 2
-            [range chicken] => 2
-            [free range chicken] => 2
-            [roasted chicken] => 2
-        )
-
-    [irish] => Array
-        (
-            [chicken] => 47
-            [chicken sandwich] => 27
-            [chicken tenders] => 18
-            [chicken quesadilla] => 12
-            [chicken curry] => 11
-            [chicken pot pie] => 9
-            [chicken wings] => 8
-            [buffalo chicken] => 7
-            [chicken salad] => 7
-            [chicken and chips] => 7
-            [chicken wrap] => 6
-            [grilled chicken sandwich] => 6
-            [chicken fingers] => 6
-            [chicken sandy] => 5
-            [buffalo chicken wrap] => 5
-            [battered chicken tenders] => 5
-            [roasted chicken] => 4
-            [chicken club] => 4
-            [chicken breast] => 4
-            [chicken caesar wrap] => 4
-            [bbq chicken sandwich] => 3
-            [chicken salad sandwich] => 3
-            [or blackened chicken] => 3
-            [grilled or blackened chicken] => 3
-            [harp battered chicken tenders] => 3
-        )
-
-    [sandwiches] => Array
-        (
-            [chicken] => 482
-            [chicken salad] => 197
-            [grilled chicken] => 113
-            [chicken fingers] => 98
-            [buffalo chicken] => 75
-            [chicken pizza] => 70
-            [chicken wings] => 68
-            [chicken cutlet] => 55
-            [chicken sandwich] => 55
-            [chicken wrap] => 55
-            [chicken sub] => 51
-            [chicken roll-up] => 48
-            [chicken parmesan] => 48
-            [chicken caesar wrap] => 46
-            [chicken breast] => 42
-            [chicken caesar] => 42
-            [chicken caesar salad] => 42
-            [grilled chicken salad] => 33
-            [bbq chicken] => 30
-            [chicken parm] => 30
-            [chicken calzone] => 29
-            [buffalo chicken pizza] => 29
-            [chicken kabob] => 27
-            [chicken salad sandwich] => 26
-            [chicken dinner] => 24
-        )
-
-    [deli food] => Array
-        (
-            [chicken] => 104
-            [chicken salad] => 63
-            [grilled chicken] => 24
-            [chicken breast] => 20
-            [buffalo chicken] => 18
-            [chicken sandwich] => 17
-            [chicken caesar salad] => 15
-            [chicken wrap] => 15
-            [chicken cutlet] => 14
-            [chicken fingers] => 13
-            [chicken parmesan] => 12
-            [chicken wings] => 12
-            [grilled chicken breast] => 11
-            [chicken caesar wrap] => 11
-            [chicken caesar] => 10
-            [chicken salad sandwich] => 7
-            [chicken parm] => 7
-            [chicken kabob] => 6
-            [bbq chicken] => 6
-            [buffalo chicken salad] => 6
-            [chicken garden salad] => 5
-            [with grilled chicken] => 5
-            [grilled chicken sandwich] => 5
-            [chicken roll-up] => 5
-            [buffalo chicken wrap] => 5
-        )
-
-    [hot dogs] => Array
-        (
-            [chicken] => 18
-            [chicken salad] => 6
-            [chicken breast] => 6
-            [grilled chicken] => 5
-            [chicken wings] => 4
-            [with chicken breast] => 3
-            [chicken sandwich] => 3
-            [buffalo chicken] => 3
-            [chicken parmesan] => 3
-            [chicken blt wrap] => 2
-            [salad with chicken breast] => 2
-            [crispy chicken filet] => 2
-            [chicken wrap] => 2
-            [chicken filet] => 2
-            [chicken tenders] => 2
-            [chicken bacon club] => 2
-            [chicken caesar] => 2
-            [grilled chicken sandwich] => 2
-            [chicken bites] => 2
-            [chicken cutlet] => 2
-            [bird chicken] => 1
-            [chicken burger] => 1
-            [teriyaki chicken sub] => 1
-            [t- bird chicken] => 1
-            [sinatra chicken] => 1
-        )
-
-    [mexican] => Array
-        (
-            [chicken] => 91
-            [grilled chicken] => 21
-            [chicken quesadilla] => 17
-            [chicken burrito] => 16
-            [chicken salad] => 11
-            [chicken fajita] => 10
-            [chicken taco] => 9
-            [fried chicken] => 8
-            [chicken wings] => 7
-            [chicken plate] => 7
-            [chicken nachos] => 5
-            [chicken chimichanga] => 5
-            [chicken)] => 5
-            [chicken fajitas] => 5
-            [(grilled chicken)] => 4
-            [pollo (grilled chicken)] => 4
-            [extra chicken] => 4
-            [grilled chicken fajita] => 4
-            [grilled chicken salad] => 4
-            [marinated chicken] => 3
-            [blackened chicken] => 3
-            [chicken tacos] => 3
-            [and chicken] => 3
-            [chicken enchilada] => 3
-            [fajita spiced chicken] => 3
-        )
-
-    [middle eastern] => Array
-        (
-            [chicken] => 39
-            [chicken roll-up] => 18
-            [chicken shawarma] => 14
-            [chicken shish kebab] => 14
-            [chicken kabob] => 11
-            [chicken fingers] => 10
-            [grilled chicken] => 8
-            [chicken salad] => 8
-            [chicken breast] => 8
-            [chicken shawarma plate] => 7
-            [chicken pizza] => 7
-            [chicken wings] => 7
-            [chicken dinner] => 6
-            [chicken shawarma roll-up] => 5
-            [chicken shawarma platter] => 4
-            [with chicken] => 4
-            [chicken wrap] => 4
-            [chicken cutlet sub] => 4
-            [chicken schnitzel] => 4
-            [chicken caesar wrap] => 3
-            [salad w/ chicken] => 3
-            [chicken parmesan sub] => 3
-            [grilled chicken breast] => 3
-            [chicken sub] => 3
-            [chicken kabab] => 3
-        )
-
-    [central american] => Array
-        (
-            [chicken] => 7
-            [chicken burrito] => 3
-            [chicken fajitas] => 3
-            [chicken quesadilla] => 2
-            [chicken wings] => 2
-            [grilled chicken] => 2
-            [chicken burrito plate] => 2
-            [steak or chicken with shrimp (5) fajitas] => 1
-            [chicken with shrimp (5) fajitas] => 1
-            [or chicken with shrimp (5) fajitas] => 1
-            [and chicken fajitas] => 1
-            [or chicken fajitas] => 1
-            [steak or chicken fajitas] => 1
-            [chicken and shrimp (5) fajitas] => 1
-            [steak and chicken fajitas] => 1
-            [chicken fingers with french fries] => 1
-            [chicken fingers] => 1
-            [chicken with onions] => 1
-            [chicken or beef salad] => 1
-            [fried chicken] => 1
-            [5 chicken wings with french fries] => 1
-            [grilled chicken salad] => 1
-            [3 chicken fingers with french fries] => 1
-            [chicken wings with french fries] => 1
-            [steakandcomma; chicken and shrimp (5) fajitas] => 1
-        )
-
-    [vegetarian] => Array
-        (
-            [chicken] => 156
-            [chicken salad] => 16
-            [chicken wings] => 11
-            [chicken curry] => 9
-            [with chicken] => 9
-            [chicken sandwich] => 9
-            [chicken tikka masala] => 9
-            [chicken kabob] => 8
-            [crispy chicken] => 8
-            [chicken tikka] => 8
-            [chicken biryani] => 8
-            [chicken korma] => 7
-            [chicken vindaloo] => 7
-            [curry chicken] => 7
-            [tandoori chicken] => 7
-            [chicken noodle soup] => 7
-            [chicken and rice] => 6
-            [chicken soup] => 6
-            [roasted chicken] => 5
-            [lemongrass chicken] => 5
-            [chicken noodle] => 5
-            [chicken teriyaki] => 5
-            [chicken basil] => 5
-            [garlic chicken] => 4
-            [chicken fried rice] => 4
-        )
-
-    [gastropub] => Array
-        (
-            [chicken] => 44
-            [chicken sandwich] => 16
-            [chicken wings] => 10
-            [chicken tenders] => 7
-            [chicken breast] => 7
-            [half chicken] => 7
-            [fried chicken] => 7
-            [chicken salad] => 4
-            [chicken and waffles] => 3
-            [grilled chicken sandwich] => 3
-            [buffalo chicken sandwich] => 3
-            [fried chicken sandwich] => 3
-            [chicken tacos] => 3
-            [chicken wrap] => 3
-            [chicken and waffle] => 3
-            [chicken n' waffles] => 2
-            [statler chicken breast] => 2
-            [simple chicken] => 2
-            [roasted chicken] => 2
-            [chicken quesadilla] => 2
-            [buffalo chicken wrap] => 2
-            [crispy chicken sandwich] => 2
-            [chicken wings one dozen] => 2
-            [bbq chicken] => 2
-            [chicken dumplings] => 2
-        )
-
-    [cajun and creole] => Array
-        (
-            [chicken] => 24
-            [spicy chicken] => 4
-            [chicken teriyaki] => 3
-            [bourbon chicken] => 3
-            [chicken wings] => 3
-            [blackened chicken] => 2
-            [half chicken] => 2
-            [chicken tempura] => 2
-            [chicken teriyaki roll] => 2
-            [chicken and shrimp teriyaki] => 2
-            [kato's chicken] => 1
-            [sands; chicken wings] => 1
-            [chicken fingers (6)] => 1
-            [sweet and sour chicken] => 1
-            [po chicken] => 1
-            [chicken teriyaki bowl] => 1
-            [kung po chicken] => 1
-            [orange chicken] => 1
-            [and sour chicken] => 1
-            [sour chicken] => 1
-            [chicken wings (6)] => 1
-            [chicken caesar salad] => 1
-            [jerked half chicken] => 1
-            [bbq half chicken] => 1
-            [jamaican jerked half chicken] => 1
-        )
-
-    [diner] => Array
-        (
-            [chicken] => 64
-            [chicken salad] => 40
-            [grilled chicken] => 13
-            [chicken cutlet] => 9
-            [chicken sandwich] => 8
-            [chicken fingers] => 8
-            [chicken caesar] => 7
-            [chicken caesar salad] => 7
-            [chicken caesar wrap] => 6
-            [chicken breast] => 6
-            [chicken wings] => 6
-            [chicken wrap] => 5
-            [grilled chicken salad] => 5
-            [chicken parmesan] => 5
-            [roasted chicken] => 4
-            [chicken kabob] => 4
-            [chicken salad sandwich] => 4
-            [buffalo chicken salad] => 4
-            [chicken tenders] => 4
-            [fried chicken] => 4
-            [bbq chicken] => 3
-            [chicken kebab] => 3
-            [chicken cacciatore] => 3
-            [chicken soup] => 3
-            [fresh chicken wings] => 3
-        )
-
-    [wings] => Array
-        (
-            [chicken] => 106
-            [chicken salad] => 31
-            [buffalo chicken] => 21
-            [chicken pizza] => 15
-            [chicken sandwich] => 14
-            [chicken fingers] => 14
-            [pieces of mix chicken] => 11
-            [mix chicken] => 11
-            [grilled chicken] => 11
-            [of mix chicken] => 11
-            [bbq chicken] => 9
-            [chicken quesadilla] => 9
-            [chicken caesar salad] => 8
-            [chicken sub] => 8
-            [chicken cutlet] => 8
-            [chicken parmesan] => 8
-            [pieces of chicken] => 7
-            [buffalo chicken salad] => 7
-            [chicken calzone] => 7
-            [chicken wings] => 7
-            [of chicken] => 7
-            [popcorn chicken] => 6
-            [chicken wrap] => 6
-            [chicken fingers dinner] => 6
-            [grilled chicken salad] => 6
-        )
-
-    [puerto rican] => Array
-        (
-            [chicken breast] => 2
-            [chicken tenders] => 1
-            [shredded chicken in sauce] => 1
-            [breaded chicken tenders] => 1
-            [chicken in sauce] => 1
-            [chicken steak] => 1
-            [grilled chicken breast] => 1
-            [breaded chicken steak] => 1
-            [krispy chicken] => 1
-            [chicken] => 1
-            [or chicken croquettes] => 1
-            [chicken croquettes] => 1
-            [23. chicken or beef sub] => 1
-            [ham or chicken croquettes] => 1
-            [chicken breast sandwich] => 1
-            [chicken wings] => 1
-            [chicken fricassee] => 1
-            [chicken or beef sub] => 1
-        )
-
-    [german] => Array
-        (
-            [crispy chicken fingers] => 3
-            [chicken fingers] => 3
-            [chicken wrap] => 2
-            [buffalo chicken wrap] => 2
-            [fried chicken blt] => 2
-            [crispy chicken wings] => 2
-            [chicken blt] => 2
-            [chicken wings] => 2
-            [cheese and grilled chicken quesadilla] => 1
-            [chicken quesadilla] => 1
-            [grilled chicken quesadilla] => 1
-            [and grilled chicken quesadilla] => 1
-            [chicken] => 1
-            [grilled chicken breast] => 1
-            [chicken breastandcomma; steak tips] => 1
-            [grilled chicken breastandcomma; steak tips] => 1
-            [chicken breast] => 1
-            [drunken chicken] => 1
-        )
-
-    [southwestern] => Array
-        (
-            [chicken] => 32
-            [chicken sandwich] => 5
-            [grilled chicken] => 5
-            [chicken fingers] => 4
-            [chicken quesadilla] => 4
-            [spiced chicken] => 3
-            [fajita spiced chicken] => 3
-            [bbq chicken] => 3
-            [fried chicken] => 3
-            [pulled chicken] => 3
-            [bbq pulled chicken] => 3
-            [grilled chicken fajita] => 2
-            [marinated grilled chicken fajita] => 2
-            [ribs and chicken] => 2
-            [chicken fajita] => 2
-            [and chicken] => 2
-            [or blackened chicken quesadilla] => 2
-            [chicken filet] => 2
-            [blackened chicken quesadilla] => 2
-            [beer-b-q ribs and chicken] => 2
-            [bbq or blackened chicken quesadilla] => 2
-            [fe chicken chimichanga] => 2
-            [chicken melt] => 2
-            [chicken burrito] => 2
-            [ranch fried chicken] => 2
-        )
-
-    [brazilian] => Array
-        (
-            [chicken] => 7
-            [chicken salad] => 5
-            [grilled chicken] => 2
-            [chicken fingers (8)] => 2
-            [chicken hearts] => 2
-            [chicken breast] => 2
-            [chicken parmesan] => 2
-            [fried diced chicken with bone in garlic] => 1
-            [chicken with bone in garlic] => 1
-            [chicken cordon bleu] => 1
-            [chicken and onions] => 1
-            [grilled chicken and onions] => 1
-            [diced chicken with bone in garlic] => 1
-            [diced chicken] => 1
-            [chicken scampi] => 1
-            [chicken broccoli alfredo penne] => 1
-            [chicken wings] => 1
-            [chicken sausage] => 1
-            [chicken with bacon] => 1
-            [chicken caesar salad] => 1
-            [grilled chicken lunch] => 1
-            [chicken pesto] => 1
-            [fried diced chicken] => 1
-            [grilled chicken breast] => 1
-            [chicken lunch] => 1
+            [chicken] => 760
+            [chicken tikka] => 60
+            [tikka] => 60
+            [salad] => 40
+            [grilled] => 39
+            [shawarma] => 37
+            [grilled chicken] => 36
+            [chicken shawarma] => 34
+            [and] => 33
+            [curry] => 32
+            [tandoori] => 30
+            [masala] => 30
+            [kebab] => 29
+            [or] => 27
+            [chicken curry] => 25
+            [plate] => 23
+            [tikka masala] => 23
+            [chicken tikka masala] => 23
+            [saag] => 23
+            [korma] => 22
+            [tandoori chicken] => 21
+            [kabob] => 21
+            [chicken kabob] => 19
+            [vindaloo] => 19
+            [biryani] => 18
         )
 
     [italian] => Array
         (
-            [chicken] => 266
-            [chicken salad] => 72
-            [grilled chicken] => 66
-            [chicken parmigiana] => 45
-            [chicken fingers] => 36
-            [chicken parmesan] => 35
-            [chicken wings] => 33
-            [buffalo chicken] => 32
-            [chicken marsala] => 32
-            [chicken pizza] => 30
-            [with grilled chicken] => 29
-            [chicken cacciatore] => 27
-            [chicken caesar] => 22
-            [chicken piccata] => 22
-            [bbq chicken] => 21
-            [chicken breast] => 20
-            [chicken wrap] => 19
-            [chicken sandwich] => 19
-            [chicken and broccoli] => 19
-            [chicken caesar salad] => 15
-            [chicken sub] => 14
-            [chicken caesar wrap] => 14
-            [chicken cutlet] => 14
-            [with chicken] => 14
-            [grilled chicken breast] => 12
+            [chicken] => 1879
+            [grilled] => 237
+            [grilled chicken] => 210
+            [and] => 188
+            [salad] => 186
+            [buffalo] => 149
+            [buffalo chicken] => 140
+            [chicken salad] => 114
+            [chicken and] => 100
+            [sub] => 96
+            [wrap] => 95
+            [broccoli] => 93
+            [with] => 90
+            [caesar] => 81
+            [bbq] => 77
+            [bbq chicken] => 76
+            [fingers] => 72
+            [chicken caesar] => 72
+            [pizza] => 71
+            [chicken fingers] => 71
+            [cutlet] => 67
+            [chicken cutlet] => 66
+            [sandwich] => 61
+            [wings] => 59
+            [parmigiana] => 58
         )
 
-    [pasta] => Array
+    [mexican or latin] => Array
         (
-            [chicken pizza] => 4
-            [buffalo chicken pizza] => 2
-            [chicken fajita] => 2
-            [chicken calzone] => 2
-            [chicken fajita pizza] => 2
-            [chicken salad sub] => 2
-            [chicken] => 2
-            [chicken quesadilla] => 1
-            [grilled chicken quesadilla] => 1
-            [chicken taco] => 1
-            [chicken pesto pasta] => 1
-            [chicken kebab roll-up and wrap] => 1
-            [chicken blt roll-up and wrap] => 1
-            [chicken caesar roll-up and wrap] => 1
-            [grilled chicken blt roll-up and wrap] => 1
-            [chicken roll-up and wrap] => 1
-            [chicken salad and bacon roll-up and wrap] => 1
-            [buffalo chicken roll-up and wrap] => 1
-            [chicken carbonara] => 1
-            [chicken mini calzone] => 1
-            ["small chicken fajita 14"""] => 1
-            [chicken fajita 14"""] => 1
-            ["large chicken fajita 18"""] => 1
-            [large chicken fajita] => 1
-            [1/2 large chicken fajita] => 1
+            [chicken] => 241
+            [grilled] => 44
+            [grilled chicken] => 31
+            [burrito] => 27
+            [and] => 25
+            [quesadilla] => 17
+            [chicken and] => 16
+            [or] => 15
+            [salad] => 15
+            [chicken burrito] => 14
+            [taco] => 13
+            [fajita] => 12
+            [chicken quesadilla] => 12
+            [plate] => 11
+            [spicy] => 10
+            [chicken fajita] => 9
+            [spicy chicken] => 9
+            [chicken or] => 9
+            [chicken ranchero] => 9
+            [marinated] => 9
+            [ranchero] => 9
+            [beef] => 9
+            [chicken taco] => 9
+            [or beef] => 8
+            [with] => 8
         )
 
-    [subs] => Array
+    [cafe] => Array
         (
-            [chicken calzone] => 2
-            [chicken pizza] => 2
-            [chicken] => 2
-            [chicken salad sub] => 2
-            [buffalo chicken sub] => 1
-            [chicken caesar roll-up and wrap] => 1
-            [chicken salad sandwich] => 1
-            [chicken salad club] => 1
-            [chicken parm sub] => 1
-            [chicken pesto calzone] => 1
-            [chicken ranch pizza] => 1
-            [chicken ranch calzone] => 1
-            [chicken blt roll-up and wrap] => 1
-            [chicken sub] => 1
-            [chicken roll-up and wrap] => 1
-            [grilled chicken quesadilla] => 1
-            [chicken quesadilla] => 1
-            [chicken taco] => 1
-            [chicken burrito] => 1
-            [chicken burrito plate] => 1
-            [chicken pesto pasta] => 1
-            [chicken carbonara] => 1
-            [chicken pesto pizza] => 1
-            [buffalo chicken roll-up and wrap] => 1
-            [chicken kebab roll-up and wrap] => 1
+            [chicken] => 2933
+            [salad] => 436
+            [grilled] => 387
+            [grilled chicken] => 358
+            [chicken salad] => 288
+            [buffalo] => 260
+            [buffalo chicken] => 243
+            [wrap] => 196
+            [sub] => 186
+            [and] => 177
+            [caesar] => 172
+            [sandwich] => 160
+            [chicken caesar] => 149
+            [pizza] => 128
+            [fingers] => 128
+            [chicken fingers] => 123
+            [bbq] => 120
+            [dinner] => 112
+            [with] => 110
+            [cutlet] => 107
+            [bbq chicken] => 106
+            [chicken cutlet] => 103
+            [chicken and] => 102
+            [roll-up] => 99
+            [parmesan] => 96
+        )
+
+    [deli] => Array
+        (
+            [chicken] => 2561
+            [salad] => 367
+            [grilled] => 350
+            [grilled chicken] => 325
+            [buffalo] => 248
+            [buffalo chicken] => 231
+            [chicken salad] => 231
+            [sub] => 178
+            [wrap] => 160
+            [caesar] => 155
+            [and] => 151
+            [sandwich] => 132
+            [chicken caesar] => 132
+            [pizza] => 127
+            [fingers] => 116
+            [bbq] => 112
+            [chicken fingers] => 112
+            [dinner] => 107
+            [with] => 104
+            [bbq chicken] => 99
+            [roll-up] => 99
+            [cutlet] => 94
+            [parmesan] => 92
+            [chicken cutlet] => 90
+            [wings] => 85
+        )
+
+    [bar] => Array
+        (
+            [chicken] => 231
+            [sandwich] => 36
+            [grilled] => 30
+            [salad] => 27
+            [chicken sandwich] => 26
+            [buffalo] => 24
+            [buffalo chicken] => 22
+            [and] => 21
+            [grilled chicken] => 20
+            [tenders] => 20
+            [chicken tenders] => 19
+            [wrap] => 18
+            [chicken salad] => 16
+            [wings] => 15
+            [chicken wrap] => 13
+            [chicken wings] => 13
+            [caesar] => 12
+            [fingers] => 12
+            [chicken fingers] => 12
+            [curry] => 11
+            [chicken caesar] => 10
+            [buffalo chicken wrap] => 9
+            [or] => 9
+            [fried] => 9
+            [chicken curry] => 9
         )
 
     [grill] => Array
         (
-            [chicken calzone] => 2
-            [chicken pizza] => 2
-            [chicken] => 2
-            [chicken salad sub] => 2
-            [buffalo chicken sub] => 1
-            [chicken caesar roll-up and wrap] => 1
-            [chicken salad sandwich] => 1
-            [chicken salad club] => 1
-            [chicken parm sub] => 1
-            [chicken pesto calzone] => 1
-            [chicken ranch pizza] => 1
-            [chicken ranch calzone] => 1
-            [chicken blt roll-up and wrap] => 1
-            [chicken sub] => 1
-            [chicken roll-up and wrap] => 1
-            [grilled chicken quesadilla] => 1
-            [chicken quesadilla] => 1
-            [chicken taco] => 1
-            [chicken burrito] => 1
-            [chicken burrito plate] => 1
-            [chicken pesto pasta] => 1
-            [chicken carbonara] => 1
-            [chicken pesto pizza] => 1
-            [buffalo chicken roll-up and wrap] => 1
-            [chicken kebab roll-up and wrap] => 1
-        )
-
-    [hoagies] => Array
-        (
-            [chicken parmesan sub] => 1
-            [chicken] => 1
-            [chicken salad sub] => 1
-            [chicken fingers] => 1
-        )
-
-    [late night] => Array
-        (
-            [chicken parmesan sub] => 1
-            [chicken] => 1
-            [chicken salad sub] => 1
-            [chicken fingers] => 1
-        )
-
-    [pub food] => Array
-        (
-            [chicken] => 3
-            [chicken roll-up] => 2
-            [grilled chicken] => 2
-            [chicken panini] => 1
-            [chicken salad on a croissant] => 1
-            [asian chicken salad] => 1
-            [chicken salad] => 1
-            [buffalo chicken roll-up] => 1
-            [chicken caesar rollup] => 1
-            [waffle-battered chicken roll-up] => 1
-            [waffle-battered chicken bites] => 1
-            [chicken bites] => 1
-            [chicken quesadillas] => 1
-            [cobb salad with grilled chicken] => 1
-            [salad with grilled chicken] => 1
-            [steamed chicken dumplings] => 1
-            [chicken dumplings] => 1
-            [fried chicken and waffles] => 1
-            [chicken and waffles] => 1
-            [chicken wings] => 1
-            [chicken nachos] => 1
-            [with grilled chicken] => 1
-            [chicken and thyme croquettes] => 1
-            [chicken tenders] => 1
-            [buffalo chicken nachos] => 1
-        )
-
-    [wraps] => Array
-        (
-            [chicken salad] => 9
-            [chicken roll-up] => 5
-            [chicken caesar salad] => 4
-            [chicken] => 3
-            [chicken pizza] => 2
-            [chicken quesadilla] => 2
-            [chicken calzone] => 2
-            [lemon chicken rice soup] => 1
-            [chicken wings dinner] => 1
-            [thai chicken salad] => 1
-            [chicken fingers dinner] => 1
-            [chicken teriyaki dinner] => 1
-            [barbecue chicken pizza] => 1
-            [chicken shish kebab] => 1
-            [chicken rice soup] => 1
-            [chicken fajita dinner] => 1
-            [chicken kebab dinner] => 1
-            [popcorn chicken] => 1
-            [chickenandcomma; steakandcomma; and shrimp fajita combo] => 1
-            [chicken fajitas] => 1
-            [chicken and shrimp fajita combo] => 1
-            [chicken and portabella mushroom fajita] => 1
-            [chicken and steak fajita combo] => 1
-            [extra chicken] => 1
-            [chicken dinner special] => 1
-        )
-
-    [coffee and tea] => Array
-        (
-            [chicken] => 96
-            [chicken salad] => 64
-            [grilled chicken] => 25
-            [chicken caesar wrap] => 13
-            [chicken sandwich] => 13
-            [chicken fingers] => 10
-            [chicken caesar] => 10
-            [chicken caesar salad] => 10
-            [chicken salad sandwich] => 10
-            [chicken breast] => 10
-            [chicken wrap] => 8
-            [curried chicken salad] => 6
-            [grilled chicken breast] => 6
-            [buffalo chicken] => 4
-            [chicken cutlet] => 4
-            [chicken parmesan] => 4
-            [grilled chicken salad] => 4
-            [walnut chicken salad] => 4
-            [meat chicken salad] => 4
-            [white meat chicken salad] => 4
-            [roasted chicken] => 4
-            [cranberry walnut chicken salad] => 4
-            [chicken noodle] => 4
-            [chicken wings] => 4
-            [chicken pesto] => 4
-        )
-
-    [bakery and pastries] => Array
-        (
-            [chicken] => 27
-            [chicken salad] => 16
-            [grilled chicken] => 7
-            [chicken sandwich] => 4
-            [chicken wrap] => 4
-            [chicken caesar wrap] => 4
-            [salad with chicken] => 3
-            [chicken parmesan] => 3
-            [with chicken] => 3
-            [curried chicken salad] => 3
-            [roast chicken] => 2
-            [chicken cordon bleu] => 2
-            [chicken cutlet sandwich] => 2
-            [buffalo chicken salad] => 2
-            [roasted chicken] => 2
-            [chicken pesto] => 2
-            [grilled chicken caesar wrap] => 2
-            [chicken noodle soup] => 2
-            [waldorf salad with chicken] => 2
-            [chicken caesar] => 2
-            [chicken caesar salad] => 2
-            [chicken breast] => 2
-            [roasted 1/2 chicken] => 2
-            [1/2 chicken] => 2
-            [asian chicken salad] => 1
-        )
-
-    [cuban] => Array
-        (
-            [chicken breast] => 3
-            [grilled chicken breast] => 2
-            [chicken] => 2
-            [breaded chicken chunks] => 1
-            [chicken chunks] => 1
-            [chicken sandwich] => 1
-            [chicken cordon bleu] => 1
-            [fried breaded chicken chunks] => 1
-            [chicken bread stuffed with shrimp] => 1
-            [with chicken] => 1
-            [grilled chicken bread stuffed with shrimp] => 1
-            [yellow rice with chicken] => 1
-            [rice with chicken] => 1
-            [chicken steak] => 1
-            [chicken fricassee] => 1
-            [chicken wings] => 1
-            [chicken breast sandwich] => 1
-            [ham or chicken croquettes] => 1
-            [or chicken croquettes] => 1
-            [krispy chicken] => 1
-            [chicken in sauce] => 1
-            [chicken croquettes] => 1
-            [breaded chicken tenders] => 1
-            [chicken tenders] => 1
-            [shredded chicken in sauce] => 1
-        )
-
-    [vegan] => Array
-        (
-            [chicken] => 33
-            [chicken pho] => 3
-            [curry chicken] => 3
-            [chicken sandwich] => 3
-            [chicken cobb wrap] => 2
-            [grilled chicken cobb wrap] => 2
-            [chicken panini] => 2
-            [ginger chicken] => 2
-            [peppercorn chicken] => 2
-            [pesto chicken panini] => 2
-            [lemongrass roasted chicken] => 2
-            [lemongrass chicken] => 2
-            [grilled chicken sandwich] => 2
-            [and chicken] => 2
-            [corn bread waffle and chicken] => 2
-            [roasted chicken] => 2
-            [waffle and chicken] => 2
-            [chicken lettuce wraps] => 2
-            [bread waffle and chicken] => 2
-            [- chicken] => 1
-            [chicken teriyaki] => 1
-            [pot - chicken] => 1
-            [clay pot - chicken] => 1
-            [chicken or shrimps] => 1
-            [chicken pho noodle soup] => 1
-        )
-
-    [alcohol] => Array
-        (
-            [chicken breast] => 3
-            [chicken fingers] => 2
-            [chicken liver mousse] => 2
-            [chicken maki] => 1
-            [crunchy chicken maki] => 1
-            [chicken flatbread] => 1
-            [chicken fondue] => 1
-            [buffalo chicken flatbread] => 1
-            [chicken parmesan] => 1
-            [chicken liver toast] => 1
-            [chicken salad] => 1
-            [grilled chicken sandwich] => 1
-            [chicken sandwich] => 1
-            [buffalo chicken fondue] => 1
-            [smoked chicken tacos] => 1
-            [chicken croquettes] => 1
-            [and chicken croquettes] => 1
-            [chicken saltimbocca] => 1
-            [herb marinated chicken breast] => 1
-            [marinated chicken breast] => 1
-            [jamon and chicken croquettes] => 1
-            [chicken pimientos] => 1
-            [chicken tacos] => 1
-            [buttermilk fried chicken] => 1
-            [fried chicken] => 1
-        )
-
-    [smoothies and juices] => Array
-        (
-            [chicken] => 5
-            [chicken salad] => 2
-            [chicken cutlet] => 1
-            [teriyaki chicken sub] => 1
-            [chicken parmesan sub] => 1
-            [chicken sub] => 1
-            [mango chicken salad] => 1
-            [chicken teriyaki] => 1
-            [soba chicken] => 1
-            [sonoma chicken salad] => 1
-            [grilled chicken burger] => 1
-            [chicken burger] => 1
-            [crispy chicken filet] => 1
-            [grilled chicken sandwich] => 1
-            [chicken fingers 5 pcs] => 1
-            [grilled chicken] => 1
-            [chicken wings 8 pcs] => 1
-            [buffalo chicken] => 1
-            [barbecue chicken] => 1
-            [with grilled chicken] => 1
-            [salad with grilled chicken] => 1
-            [chicken sandwich] => 1
-            [organic kale caesar salad with grilled chicken] => 1
-            [kale caesar salad with grilled chicken] => 1
-            [caesar salad with grilled chicken] => 1
-        )
-
-    [soups] => Array
-        (
-            [chicken] => 17
-            [chicken - half salad] => 9
-            [salad with chicken - half salad] => 9
-            [with chicken - whole salad] => 9
-            [salad with chicken - whole salad] => 9
-            [chicken - whole salad] => 9
-            [with chicken - half salad] => 9
-            [buffalo chicken] => 5
-            [chicken salad] => 5
-            [grilled chicken] => 3
-            [chicken flatbread] => 3
-            [chicken caesar salad] => 3
-            [chicken caesar] => 3
-            ["chicken] => 2
-            [chicken roll-up] => 2
-            [chicken noodle] => 2
-            [pret's chicken noodle] => 2
-            [chicken poblano] => 2
-            [chicken caesar and bacon on artisan baguette] => 2
-            [chicken tarragon club roll-up] => 2
-            [and grilled chicken] => 2
-            [marinated roasted chicken roll-up] => 2
-            [caesar salad with chicken - whole salad] => 2
-            [chicken and avocado] => 2
-            [with chicken] => 2
-        )
-
-    [healthy] => Array
-        (
-            [chicken] => 10
-            [chicken salad] => 6
-            [chicken sandwich] => 4
-            [chicken calzone] => 4
-            [chicken pizza] => 3
-            [chicken roll up] => 3
-            [chicken caesar] => 3
-            [chicken fingers] => 3
-            [southwestern chicken salad] => 2
-            [lemon chicken rice soup] => 2
-            [grilled chicken special roll up] => 2
-            [chicken special roll up] => 2
-            [chicken caesar salad] => 2
-            [buffalo chicken calzone] => 2
-            [chicken rice soup] => 2
-            [buffalo chicken pizza] => 2
-            [chicken salad sandwich] => 2
-            [bbq chicken] => 2
-            [chicken quesadilla] => 2
-            [chicken burrito] => 2
-            [chicken roll-up and wrap] => 1
-            [grilled chicken blt roll-up and wrap] => 1
-            [buffalo chicken roll-up and wrap] => 1
-            [chicken caesar roll-up and wrap] => 1
-            [chicken blt roll-up and wrap] => 1
-        )
-
-    [desserts] => Array
-        (
-            [chicken] => 21
-            [chicken salad] => 19
-            [chicken sandwich] => 10
-            [chicken salad sandwich] => 5
-            [chicken fingers] => 5
-            [chicken pizza] => 3
-            [curried chicken salad] => 3
-            [chicken roll up] => 3
-            [buffalo chicken salad] => 3
-            [chicken pasta] => 3
-            [popcorn chicken] => 3
-            [grilled chicken sandwich] => 3
-            [bbq chicken] => 3
-            [grilled chicken special roll up] => 2
-            [buffalo chicken sandwich] => 2
-            [with chicken and roasted garlic] => 2
-            [chicken and roasted garlic] => 2
-            [farfalle with chicken and roasted garlic] => 2
-            [louisiana chicken pasta] => 2
-            [chicken wings] => 2
-            [roasted chicken] => 2
-            [chicken breast] => 2
-            [chicken special roll up] => 2
-            [chicken chipotle pasta] => 2
-            [chicken caesar salad] => 2
-        )
-
-    [bagels] => Array
-        (
-            [chicken salad] => 9
-            [chicken] => 4
-            [tarragon chicken salad] => 2
-            [chicken breast] => 2
-            [chicken caesar] => 2
-            [chipotle chicken bacon] => 1
-            [fresh chicken salad] => 1
-            [chicken bacon] => 1
-            [bbq chicken salad] => 1
-            [classic chicken] => 1
-            [roasted chicken breast] => 1
-            [chicken out] => 1
-            [brooklyn salad with chicken salad] => 1
-            [with chicken salad] => 1
-            [buffalo chicken flame] => 1
-            [mango chicken salad] => 1
-            [salad with chicken salad] => 1
-            [chicken soup] => 1
-            [chicken almond] => 1
-            [creamy chicken and wild rice] => 1
-            [chicken and wild rice] => 1
-            [chicken spaetzle] => 1
-            [peanut chicken] => 1
-            [thai peanut chicken] => 1
-            [buffalo chicken] => 1
-        )
-
-    [crepes] => Array
-        (
-            [chicken] => 5
-            [chicken pesto] => 1
-            [chicken florentine] => 1
-            [chicken kabob] => 1
-            [chicken kabab] => 1
-            [tuscan chicken] => 1
-            [chicken shawarma] => 1
-            [grilled chicken salad] => 1
-            [greek salad with chicken] => 1
-            [memphis grilled chicken] => 1
-            [grilled chicken] => 1
-            [pesto chicken] => 1
-            [chicken caesar wrap] => 1
-            [salad with chicken] => 1
-            [with chicken] => 1
-            [chicken salad] => 1
-        )
-
-    [caribbean] => Array
-        (
-            [chicken] => 18
-            [tropical chicken] => 3
-            [spicy chicken] => 3
-            [fried chicken] => 3
-            [chicken wings] => 3
-            [fresh chicken wings] => 3
-            [stewed chicken] => 2
-            [chicken meal] => 2
-            [grilled chicken] => 2
-            [chicken drumsticks] => 2
-            [stewed chicken drumsticks] => 2
-            [fried chicken meal] => 1
-            [chicken with waffles] => 1
-            [fried chicken with waffles] => 1
-            [curry chicken] => 1
-            [boston chicken] => 1
-            [stewed chicken breast] => 1
-            [stew chicken] => 1
-            [stir fry chicken] => 1
-            [boneless stewed chicken] => 1
-            [grilled chicken salad] => 1
-            [fry chicken] => 1
-            [chicken salad] => 1
-            [caribbean style stir fry chicken] => 1
-            [style stir fry chicken] => 1
-        )
-
-    [ribs] => Array
-        (
-            [chicken] => 18
-            [tropical chicken] => 3
-            [spicy chicken] => 3
-            [fried chicken] => 3
-            [chicken wings] => 3
-            [fresh chicken wings] => 3
-            [stewed chicken] => 2
-            [chicken meal] => 2
-            [grilled chicken] => 2
-            [chicken drumsticks] => 2
-            [stewed chicken drumsticks] => 2
-            [fried chicken meal] => 1
-            [chicken with waffles] => 1
-            [fried chicken with waffles] => 1
-            [curry chicken] => 1
-            [boston chicken] => 1
-            [stewed chicken breast] => 1
-            [stew chicken] => 1
-            [stir fry chicken] => 1
-            [boneless stewed chicken] => 1
-            [grilled chicken salad] => 1
-            [fry chicken] => 1
-            [chicken salad] => 1
-            [caribbean style stir fry chicken] => 1
-            [style stir fry chicken] => 1
-        )
-
-    [teahouses] => Array
-        (
-            [chicken] => 7
-            [chicken wings] => 2
-            [tea flavored curry chicken] => 1
-            [flavored curry chicken] => 1
-            [curry chicken] => 1
-            [tea flavored spked chicken] => 1
-            [fried chicken wings] => 1
-            [sweet garlic fried chicken wings] => 1
-            [spicy chicken] => 1
-            [fried spicy chicken] => 1
-            [fried spicy chicken wings] => 1
-            [spicy chicken wings] => 1
-            [flavored spked chicken] => 1
-            [garlic fried chicken wings] => 1
-            [spked chicken] => 1
-            [chicken teriyaki] => 1
-            [soba chicken] => 1
-            [chicken in curry sauce] => 1
-            [crispy basil chicken] => 1
-            [basil chicken] => 1
-            [teriyaki chicken] => 1
-            [flavored teriyaki chicken] => 1
-            [tea flavored marinated chicken] => 1
-            [flavored marinated chicken] => 1
-            [marinated chicken] => 1
-        )
-
-    [greek] => Array
-        (
-            [chicken] => 17
-            [chicken salad] => 11
-            [chicken roll-up] => 7
-            [chicken gyro] => 5
-            [chicken kebab] => 5
-            [chicken breast] => 4
-            [buffalo chicken] => 4
-            [chicken pizza] => 4
-            [chicken souvlaki] => 4
-            [chicken tenders] => 3
-            [chicken wings] => 3
-            [chicken cutlet] => 3
-            [chicken roll up] => 3
-            [chicken wrap] => 2
-            [chicken salad wrap] => 2
-            [(chicken and lamb] => 2
-            [combo (chicken and lamb] => 2
-            [chicken kabob] => 2
-            [chicken parmesan] => 2
-            [chicken only] => 2
-            [grilled chicken] => 2
-            [chicken and mustard sauce] => 2
-            [chicken fingers] => 2
-            [chicken schnitzel] => 2
-            [chicken panini sub] => 2
-        )
-
-    [cheesesteaks] => Array
-        (
-            [chicken] => 25
-            [chicken salad] => 11
-            [chicken fingers] => 10
-            [grilled chicken] => 9
-            [chicken breast] => 7
-            [chicken cutlet] => 6
-            [chicken sandwich] => 6
-            [chicken wings] => 5
-            [grilled chicken sandwich] => 4
-            [broiled chicken breast] => 4
-            [buffalo chicken] => 4
-            [bbq chicken] => 3
-            [chicken and broccoli] => 3
-            [chicken pizza] => 3
-            [chicken finger] => 3
-            [chicken kabob] => 3
-            [buffalo chicken fingers] => 3
-            [chicken cutlet sub] => 2
-            [chicken parm] => 2
-            [buffalo chicken pizza] => 2
-            [grilled chicken salad] => 2
-            [chicken finger sub] => 2
-            [chicken finger salad] => 2
-            [chicken cordon bleu] => 2
-            [chicken parmesan] => 2
-        )
-
-    [salads] => Array
-        (
-            [chicken] => 26
-            [chicken salad] => 9
-            [chicken wrap] => 7
-            [chicken panini] => 6
-            [chicken breast] => 5
-            [bbq chicken] => 5
-            [buffalo chicken] => 5
-            [chicken sandwich] => 4
-            [chicken salad sandwich] => 4
-            [chicken salad box] => 3
-            [with chicken breast] => 3
-            [chicken caesar salad] => 3
-            [chicken noodle] => 3
-            [pesto chicken panini] => 3
-            [chicken wrap box] => 3
-            [chicken shish kebab] => 3
-            [chicken sub] => 2
-            [pret's chicken noodle] => 2
-            [chicken fingers dinner] => 2
-            [chicken salad club] => 2
-            [popcorn chicken] => 2
-            [chicken calzone] => 2
-            [chicken club] => 2
-            [chicken bacon club] => 2
-            [chicken melt] => 2
-        )
-
-    [vietnamese] => Array
-        (
-            [chicken] => 64
-            [chicken teriyaki] => 7
-            [chicken wings] => 6
-            [chicken salad] => 6
-            [lemongrass chicken] => 6
-            [crispy chicken basil] => 5
-            [chicken basil] => 5
-            [curry chicken] => 5
-            [or chicken] => 4
-            [chicken cashew nut] => 4
-            [chicken pad thai] => 4
-            [sweet and sour chicken] => 4
-            [chicken satay] => 4
-            [and sour chicken] => 4
-            [sour chicken] => 4
-            [crispy chicken pad thai] => 4
-            [teriyaki chicken] => 3
-            [chicken fried rice] => 3
-            [peppercorn chicken] => 3
-            [beef or chicken] => 3
-            [chicken combination] => 3
-            [crispy chicken fried rice] => 3
-            [chicken pho] => 3
-            [k-town chicken] => 2
-            [cups chicken] => 2
-        )
-
-    [african] => Array
-        (
-            [chicken] => 3
-            [chicken or tuna] => 2
-            [boneless chicken] => 2
-            [spicy chicken wings] => 1
-            [mild chicken] => 1
-            [2. boneless chicken] => 1
-            [1. boneless chicken] => 1
-            [chicken wings] => 1
-            [1. spicy chicken wings] => 1
-        )
-
-    [ethiopian] => Array
-        (
-            [chicken] => 3
-            [boneless chicken] => 2
-            [2. boneless chicken] => 1
-            [mild chicken] => 1
-            [1. boneless chicken] => 1
-            [spicy chicken wings] => 1
-            [chicken wings] => 1
-            [1. spicy chicken wings] => 1
-        )
-
-    [chicken] => Array
-        (
-            [chicken] => 52
-            [pieces of mix chicken] => 11
-            [of mix chicken] => 11
-            [mix chicken] => 11
-            [pieces of chicken] => 7
-            [of chicken] => 7
-            [chicken fingers] => 7
-            [chicken salad] => 6
-            [chicken pizza] => 5
-            [bonchon chicken] => 5
-            [chicken combo] => 4
-            [chicken bites] => 4
-            [chicken nuggets] => 3
-            [chicken wings] => 3
-            [half chicken] => 3
-            [pieces of popcorn chicken] => 2
-            [large chicken combo] => 2
-            [popcorn chicken] => 2
-            [chicken kabob salad] => 2
-            [scallion chicken] => 2
-            [of popcorn chicken] => 2
-            [1. 2 pieces of mix chicken] => 2
-            [5. 15 pieces of mix chicken] => 2
-            [15 pieces of mix chicken] => 2
-            [chicken sandwich] => 2
-        )
-
-    [pakistani] => Array
-        (
-            [chicken] => 7
-            [chicken tikka masala] => 5
-            [chicken curry] => 4
-            [chicken tikka] => 4
-            [chicken korma] => 3
-            [chicken vindaloo] => 3
-            [chicken biryani] => 3
-            [chicken makhni] => 2
-            [chicken naan] => 2
-            [chicken karahi special] => 2
-            [chicken jalfrezi] => 2
-            [tandoori chicken] => 2
-            [chicken karahi] => 2
-            [chicken saag] => 2
-            [chicken dosa] => 1
-            [chicken chapli kabab] => 1
-            [bara chicken tikka] => 1
-            [hara bara chicken tikka] => 1
-            [chicken achari gosht] => 1
-            [chicken kadai] => 1
-            [chicken korma biryani] => 1
-            [chicken do-piaza] => 1
-            [chicken haleem] => 1
-            [bihari chicken] => 1
-            [butter chicken] => 1
+            [chicken] => 182
+            [sandwich] => 32
+            [salad] => 20
+            [chicken sandwich] => 20
+            [buffalo] => 20
+            [buffalo chicken] => 19
+            [bbq] => 18
+            [grilled] => 18
+            [grilled chicken] => 17
+            [and] => 17
+            [fried] => 15
+            [fried chicken] => 11
+            [caesar] => 10
+            [pulled] => 10
+            [chicken salad] => 10
+            [pulled chicken] => 10
+            [with] => 9
+            [chicken and] => 9
+            [chicken caesar] => 9
+            [wings] => 8
+            [chicken fingers] => 8
+            [chicken wings] => 8
+            [bbq chicken] => 8
+            [tenders] => 8
+            [fingers] => 8
         )
 
     [asian] => Array
         (
-            [chicken] => 138
-            [chicken^] => 13
-            [chicken party tray] => 10
-            [chicken salad] => 9
-            [sour chicken] => 9
-            [sweet and sour chicken] => 9
-            [and sour chicken] => 9
-            [lemon chicken] => 8
-            [crispy chicken] => 8
-            [chicken wings] => 7
-            [sesame chicken] => 7
-            [chicken fried rice] => 6
-            [chicken fingers] => 6
-            [chicken lettuce wraps] => 6
-            [honey chicken] => 5
-            [chicken lo mein] => 5
-            [general gau's chicken] => 5
-            [ginger chicken with broccoli] => 5
-            [gau's chicken] => 5
-            [chicken teriyaki] => 5
-            [chicken with broccoli] => 5
-            [chicken lunch] => 5
-            [with chicken] => 4
-            [orange chicken] => 4
-            [chicken satay] => 4
+            [chicken] => 4224
+            [with] => 679
+            [and] => 598
+            [chicken with] => 435
+            [rice] => 406
+            [fried] => 394
+            [or] => 350
+            [pork] => 271
+            [fried rice] => 257
+            [teriyaki] => 247
+            [wings] => 230
+            [chicken wings] => 224
+            [crispy] => 186
+            [beef] => 183
+            [spicy] => 180
+            [curry] => 168
+            [chicken or] => 167
+            [chicken and] => 166
+            [crispy chicken] => 159
+            [soup] => 158
+            [fingers] => 158
+            [chicken teriyaki] => 157
+            [general] => 157
+            [chicken fingers] => 149
+            [sauce] => 142
         )
 
-    [asian fusion] => Array
+    [southern] => Array
         (
-            [chicken] => 137
-            [chicken^] => 13
-            [chicken party tray] => 10
-            [and sour chicken] => 9
-            [sour chicken] => 9
-            [sweet and sour chicken] => 9
-            [lemon chicken] => 8
-            [crispy chicken] => 8
-            [chicken salad] => 8
-            [sesame chicken] => 7
-            [chicken wings] => 7
-            [chicken fingers] => 6
-            [chicken lettuce wraps] => 6
-            [chicken fried rice] => 6
-            [honey chicken] => 5
-            [general gau's chicken] => 5
-            [chicken lo mein] => 5
-            [ginger chicken with broccoli] => 5
-            [chicken lunch] => 5
-            [chicken with broccoli] => 5
-            [gau's chicken] => 5
-            [chicken teriyaki] => 5
-            [chang's chicken lettuce wraps] => 4
-            [fried chicken] => 4
-            [with chicken] => 4
-        )
-
-    [japanese] => Array
-        (
-            [chicken] => 279
-            [chicken teriyaki] => 63
-            [chicken katsu] => 34
-            [sesame chicken] => 19
-            [chicken bowl] => 17
-            [teriyaki chicken] => 17
-            [chicken wings] => 16
-            [chicken fried rice] => 14
-            [spicy chicken] => 13
-            [gau's chicken] => 12
-            [kung pao chicken] => 12
-            [pao chicken] => 12
-            [general gau's chicken] => 12
-            [chicken noodle soup] => 11
-            [chicken udon] => 11
-            [chicken with broccoli] => 10
-            [chicken salad] => 9
-            [chicken fingers] => 9
-            [chicken breast] => 8
-            [curry chicken] => 8
-            [with chicken] => 7
-            [or chicken] => 7
-            [flavored chicken] => 7
-            [orange chicken] => 7
-            [orange flavored chicken] => 6
-        )
-
-    [sushi] => Array
-        (
-            [chicken] => 241
-            [chicken teriyaki] => 62
-            [chicken katsu] => 30
-            [sesame chicken] => 16
-            [teriyaki chicken] => 14
-            [chicken fried rice] => 14
-            [with chicken] => 14
-            [chicken wings] => 13
-            [chicken bowl] => 12
-            [general gau's chicken] => 11
-            [gau's chicken] => 11
-            [pao chicken] => 10
-            [spicy chicken] => 10
-            [kung pao chicken] => 10
-            [chicken udon] => 9
-            [chicken with broccoli] => 9
-            [chicken bulgogi] => 8
-            [chicken noodle soup] => 8
-            [or chicken] => 7
-            [chicken fingers] => 7
-            [mango chicken] => 6
-            [chicken tempura] => 6
-            [chicken don] => 6
-            [chicken breast] => 6
-            [and chicken teriyaki] => 6
-        )
-
-    [californian] => Array
-        (
-            [chicken pizza (10"")"] => 8
-            [chicken salad] => 3
-            [garlic chicken pizza (10"")"] => 2
-            ["spicy chipotle chicken pizza (10"")"] => 2
-            ["roasted garlic chicken pizza (10"")"] => 2
-            ["thai chicken pizza (10"")"] => 2
-            ["the original bbq chicken pizza (10"")"] => 2
-            [chipotle chicken pizza (10"")"] => 2
-            [chicken thin crust pizza (12"")"] => 2
-            [the original bbq chicken pizza (gluten-free)] => 2
-            [chicken tequila fettuccine] => 2
-            [chicken sandwich] => 2
-            [original bbq chicken pizza (gluten-free)] => 2
-            [bbq chicken pizza (gluten-free)] => 2
-            ["jamaican jerk chicken thin crust pizza (12"")"] => 2
-            [chicken pizza (gluten-free)] => 2
-            [original bbq chicken pizza (10"")"] => 2
-            [jerk chicken thin crust pizza (12"")"] => 2
-            [bbq chicken pizza (10"")"] => 2
-            [chicken dumplings] => 2
-            [sesame ginger chicken dumplings] => 2
-            [ginger chicken dumplings] => 2
-            [chicken milanese] => 2
-            [chicken piccata] => 2
-            [chicken breast] => 1
-        )
-
-    [korean] => Array
-        (
-            [chicken] => 57
-            [chicken bulgogi] => 11
-            [chicken teriyaki] => 9
-            [with chicken] => 6
-            [chicken katsu] => 6
-            [chicken combo] => 5
-            [bonchon chicken] => 5
-            [chicken fried rice] => 5
-            [or chicken] => 5
-            [chicken bites] => 4
-            [crazy chicken] => 4
-            [spice and rice chicken] => 4
-            [and rice chicken] => 4
-            [chicken or beef] => 4
-            [bangkok chicken] => 4
-            [rice chicken] => 4
-            [chicken randang curry] => 3
-            [chicken massaman curry] => 3
-            [chicken gui] => 3
-            [beef or chicken] => 3
-            [chicken red curry] => 3
-            [chicken pad thai] => 3
-            [crispy chicken pad thai] => 3
-            [and chicken bulgogi] => 3
-            [teriyaki chicken] => 3
-        )
-
-    [nuevo latino] => Array
-        (
-            [chicken] => 5
+            [chicken] => 17
+            [and] => 5
+            [fried] => 4
+            [chicken and] => 4
             [fried chicken] => 3
-            [chicken blt] => 1
-            [crunchy chicken blt] => 1
-            [grilled chicken tacos] => 1
-            [crispy fried chicken] => 1
-            [chicken paillard] => 1
-            [grilled chicken] => 1
-            [grilled chicken paillard] => 1
-            [mexican fried chicken] => 1
-            [boneless mexican fried chicken] => 1
-            [chicken roulade] => 1
-            [crunchy fried chicken] => 1
-            [perfect grilled chicken paillard] => 1
-            [chicken tacos] => 1
-            [chicken quesadilla] => 1
-            [fried chicken taco] => 1
-            [chile chicken] => 1
-            [chicken taco] => 1
-            [mini chicken quesadillas] => 1
-            [chicken quesadillas] => 1
-            [red chile chicken] => 1
-            [chicken pozole soup] => 1
-            [chicken taquitos] => 1
-            [roasted chicken taquitos] => 1
-        )
-
-    [chinese] => Array
-        (
-            [chicken] => 1326
-            [chicken wings] => 127
-            [sesame chicken] => 106
-            [sour chicken] => 85
-            [and sour chicken] => 83
-            [gau's chicken] => 82
-            [sweet and sour chicken] => 81
-            [chicken fingers] => 80
-            [general gau's chicken] => 79
-            [pao chicken] => 72
-            [kung pao chicken] => 66
-            [chicken with broccoli] => 60
-            [chicken teriyaki] => 56
-            [chicken fried rice] => 55
-            [spicy chicken] => 47
-            [curry chicken] => 45
-            [flavored chicken] => 35
-            [lemon chicken] => 34
-            [chicken lo mein] => 34
-            [chicken with cashew nuts] => 32
-            [chicken noodle soup] => 30
-            [or chicken] => 30
-            [crispy chicken] => 28
-            [flavor chicken] => 27
-            [chicken chow mein] => 27
-        )
-
-    [thai] => Array
-        (
-            [chicken] => 307
-            [crispy chicken] => 61
-            [with chicken] => 45
-            [chicken basil] => 24
-            [chicken wings] => 23
-            [chicken noodle soup] => 22
-            [chicken salad] => 20
-            [chicken satay] => 19
-            [with crispy chicken] => 18
-            [crispy chicken basil] => 17
-            [chicken teriyaki] => 14
-            [chicken or pork] => 13
-            [chicken fried rice] => 13
-            [chicken or beef] => 12
-            [and sour chicken] => 11
-            [sour chicken] => 11
-            [chicken cashew nut] => 11
-            [sweet and sour chicken] => 10
-            [grilled chicken salad] => 9
-            [chicken pad thai] => 9
-            [lemongrass chicken] => 9
-            [curry chicken] => 9
-            [chicken cashew nuts] => 8
-            [grilled chicken] => 8
-            [bangkok chicken] => 8
-        )
-
-    [noodles] => Array
-        (
-            [chicken] => 62
-            [chicken wings] => 8
-            [chicken fried rice] => 6
-            [chicken ramen] => 5
-            [chicken basil] => 5
-            [crispy chicken basil] => 5
-            [crispy chicken] => 5
-            [crispy chicken fried rice] => 4
-            [chicken salad] => 4
-            [chicken udon] => 4
-            [chicken katsu] => 4
-            [chicken satay] => 4
-            [sour chicken] => 3
-            [and sour chicken] => 3
-            [sweet and sour chicken] => 3
-            [chicken katsu curry] => 3
-            [chicken pad thai] => 3
-            [crispy chicken pad thai] => 3
-            [ginger chicken udon] => 3
-            [chicken teriyaki] => 3
-            [chicken cashew nut] => 3
-            [chicken sliced] => 2
-            [gau's chicken] => 2
-            [general gau's chicken] => 2
-            [chicken or beef)] => 2
-        )
-
-    [dim sum] => Array
-        (
-            [chicken] => 104
-            [with chicken] => 9
-            [chicken on rice] => 9
-            [sesame chicken] => 8
-            [with chickenandcomma; pork or beef] => 7
-            [chickenandcomma; pork or beef] => 7
-            [pao chicken] => 6
-            [chicken fingers] => 6
-            [chicken wings] => 6
-            [kung pao chicken] => 6
-            [fried chicken wings] => 4
-            [chicken salad] => 4
-            [crispy chicken] => 4
-            [minced chicken] => 3
-            [flavored chicken] => 3
-            [thai ginger chicken salad] => 3
-            [ginger chicken salad] => 3
-            [and chicken on rice] => 3
-            [sour chicken] => 3
-            [and sour chicken] => 3
-            [sweet and sour chicken] => 3
-            [curry chicken] => 3
-            [shredded chicken] => 3
-            [chicken velvet] => 3
-            [diced chicken] => 3
-        )
-
-    [spanish] => Array
-        (
-            [chicken] => 4
-            [fried chicken] => 4
-            [crunchy fried chicken] => 1
-            [perfect grilled chicken paillard] => 1
-            [grilled chicken paillard] => 1
-            [chicken roulade] => 1
-            [chicken liver toast] => 1
-            [boneless mexican fried chicken] => 1
-            [mexican fried chicken] => 1
-            [chicken paillard] => 1
-            [chicken blt] => 1
-            [jamon and chicken croquettes] => 1
-            [and chicken croquettes] => 1
-            [chicken croquettes] => 1
-            [chicken pimientos] => 1
-            [buttermilk fried chicken] => 1
-            [chicken liver mousse] => 1
-            [crispy fried chicken] => 1
-            [crunchy chicken blt] => 1
-        )
-
-    [other] => Array
-        (
-            [chicken] => 31
-            [chicken lunch special] => 7
-            [crispy chicken] => 3
-            [chicken chunks] => 3
-            [grilled chicken] => 3
-            [dried cooked chicken] => 3
-            [cooked chicken] => 3
-            [chicken wing] => 3
-            [chicken teriyaki] => 3
-            [chicken salad] => 2
-            [chicken #] => 2
-            [taste chicken chunks] => 2
-            [country spicy taste chicken chunks] => 2
-            [bbq grilled chicken] => 2
-            [hot chili chicken] => 2
-            [diced chicken] => 2
-            [spicy taste chicken chunks] => 2
-            [chili chicken] => 2
-            [pineapple crispy chicken] => 2
-            [bbq chicken teriyaki] => 2
-            [26. chicken teriyaki] => 1
-            [chicken cutlet noodle soup] => 1
-            [21. chicken cutlet] => 1
-            [chicken cutlet] => 1
-            [35. chicken cutlet noodle soup] => 1
-        )
-
-    [turkish] => Array
-        (
-            [chicken salad] => 4
-            [chicken] => 3
-            [chicken cutlet] => 2
-            [lamb and chicken (with yogurt)] => 2
-            [and chicken (with yogurt)] => 2
-            [chicken (with yogurt)] => 2
-            [chicken shish kebab] => 2
-            [grilled chicken marinara] => 1
-            [chicken marinara] => 1
-            [ziti or ravioli with chicken or veal or eggplant] => 1
-            [with chicken or veal or eggplant] => 1
-            [ravioli with chicken or veal or eggplant] => 1
-            [or ravioli with chicken or veal or eggplant] => 1
-            [and grilled chicken marinara] => 1
-            [spaghettiandcomma; ziti or ravioli with chicken or veal or eggplant] => 1
-            [zitiandcomma; broccoli and grilled chicken marinara] => 1
-            [chicken chops entree] => 1
-            [chicken adana kebab plate] => 1
-            [chicken mixed grill] => 1
-            [chicken adana wrap] => 1
-            [lemon chicken] => 1
-            [chicken tenders] => 1
-            [spaghettiandcomma; ziti or ravioli with zitiandcomma; broccoli and grilled chicken marinara] => 1
-            [with zitiandcomma; broccoli and grilled chicken marinara] => 1
-            [chicken or veal or eggplant] => 1
-        )
-
-    [indian] => Array
-        (
-            [chicken] => 77
-            [chicken curry] => 33
-            [chicken tikka masala] => 33
-            [chicken tikka] => 27
-            [chicken korma] => 27
-            [chicken vindaloo] => 27
-            [chicken biryani] => 25
-            [tandoori chicken] => 22
-            [chicken saag] => 20
-            [chicken jalfrezi] => 12
-            [chicken pakora] => 11
-            [chicken soup] => 11
-            [chicken tandoori] => 10
-            [chicken tikka saag] => 10
-            [chicken naan] => 9
-            [chicken makhni] => 7
-            [chicken madras] => 7
-            [chicken pakoras] => 7
-            [chicken saagwala] => 7
-            [chicken do-piaza] => 7
-            [chicken mushroom] => 7
-            [chicken chaat] => 6
-            [chicken dosa] => 6
-            [mango chicken] => 6
-            [butter chicken] => 6
-        )
-
-    [kosher] => Array
-        (
-            [chicken] => 29
-            [chicken fingers] => 3
-            [sweet and sour chicken] => 2
-            [and sour chicken] => 2
-            [chicken with fresh mushroom] => 2
-            [kung pao chicken] => 2
-            [sour chicken] => 2
-            [chicken with broccoli] => 2
-            [hunan chicken] => 2
-            [flavor chicken] => 2
-            [chicken breast] => 2
-            [chicken with cashew nuts] => 2
-            [chicken in pita] => 2
-            [pao chicken] => 2
-            [chicken with garlic sauce] => 2
-            [grilled chicken hummus falafel salad plate] => 2
+            [hot chicken] => 2
+            [wings] => 2
+            [hot] => 2
+            [chicken and sausage] => 2
+            [with] => 2
+            [sausage] => 2
+            [and sausage] => 2
             [chicken wings] => 2
-            [chicken shish kebab] => 2
-            [shawarma chicken] => 2
-            [chicken salad] => 2
-            [chicken hummus falafel salad plate] => 2
-            [chicken hummus salad plate] => 2
-            [grilled chicken plate with salad] => 2
-            [grilled chicken hummus salad plate] => 2
-            [chicken plate with salad] => 2
+            [fried chicken and] => 2
+            [chicken taquito with chipotle aioli] => 1
+            [taquito] => 1
+            [taquito with] => 1
+            [chicken taquito with chipotle] => 1
+            [chicken taquito with] => 1
+            [shredded chicken taquito with chipotle aioli] => 1
+            [chicken taquito] => 1
+            [taquito with chipotle] => 1
+            [taquito with chipotle aioli] => 1
+            [chipotle aioli] => 1
+            [aioli] => 1
         )
 
-    [peruvian] => Array
+    [healthy] => Array
         (
-            [chicken] => 3
-            [traditional chicken] => 1
-            [chicken parrillero] => 1
-            [chicken quinua] => 1
-            [chicken misky] => 1
-            [chicken fingers] => 1
-            [chicken wings] => 1
+            [chicken] => 301
+            [salad] => 27
+            [tikka] => 20
+            [chicken tikka] => 20
+            [and] => 20
+            [chicken salad] => 17
+            [wrap] => 16
+            [grilled] => 16
+            [soup] => 14
+            [noodle] => 13
+            [curry] => 12
+            [chicken and] => 12
+            [grilled chicken] => 12
+            [chicken noodle] => 12
+            [tandoori] => 10
+            [box] => 10
+            [chicken curry] => 9
+            [korma] => 9
+            [sandwich] => 8
+            [chicken tikka masala] => 8
+            [tandoori chicken] => 8
+            [masala] => 8
+            [tikka masala] => 8
+            [chicken korma] => 8
+            [biryani] => 8
         )
 
-    [lunch specials] => Array
+    [desserts] => Array
         (
-            [chicken] => 7
-            [chicken noodle soup] => 2
-            [chicken cashew nuts] => 2
-            [satay chicken] => 2
-            [lunch gaprow chicken] => 1
-            [gaprow chicken] => 1
-            [lunch chicken cashew nuts] => 1
-            [diced chicken with bone in garlic] => 1
-            [chicken almonds] => 1
-            [nut chicken] => 1
-            [lemon chicken] => 1
-            [laab chicken] => 1
-            [pine nut chicken] => 1
-            [lunch chicken noodle soup] => 1
-            [fried diced chicken with bone in garlic] => 1
-            [chicken breast] => 1
-            [fried diced chicken] => 1
-            [diced chicken] => 1
-            [grilled chicken breast] => 1
-            [chicken lunch] => 1
-            [lunch satay chicken] => 1
-            [chicken with bone in garlic] => 1
-            [grilled chicken lunch] => 1
-            [chicken and vegetables in broth] => 1
-        )
-
-    [russian] => Array
-        (
-            [chicken kiev] => 1
-        )
-
-    [jamaican] => Array
-        (
-            [chicken] => 3
-            [curry chicken] => 1
-            [jerk chicken] => 1
-            [stew chicken] => 1
-        )
-
-    [ice cream] => Array
-        (
-            [crispy chicken bacon ranch sandwich] => 1
+            [chicken] => 2
+            [sandwich] => 2
+            [crispy chicken] => 2
+            [crispy] => 2
+            [bacon] => 1
+            [bacon ranch] => 1
+            [ranch] => 1
+            [ranch sandwich] => 1
             [chicken bacon ranch sandwich] => 1
-            [crispy chicken sandwich] => 1
+            [bacon ranch sandwich] => 1
+            [crispy chicken bacon ranch sandwich] => 1
             [chicken sandwich] => 1
+            [crispy chicken sandwich] => 1
+            [crispy chicken bacon] => 1
+            [crispy chicken bacon ranch] => 1
+            [chicken bacon] => 1
+            [chicken bacon ranch] => 1
         )
 
 )
