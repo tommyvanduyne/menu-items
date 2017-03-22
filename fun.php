@@ -13,8 +13,8 @@ function get_it_done()
 {
   global $food, $superCategories;
   $lines = file("menu-items.csv");
-  if ($food) $file_to_write = "temp-$food.csv";
-  else $file_to_write = 'temp.csv';
+  if ($food) $file_to_write = "CSVs/top_menu_items_$food.csv";
+  else $file_to_write = 'CSVs/top_menu_items.csv';
   unlink($file_to_write);
   $catIndex = [];
   $linecount = 0;
