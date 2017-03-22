@@ -1,0 +1,291 @@
+american
+,chicken,693
+,salad,219
+,sandwich,205
+,chicken sandwich,137
+,chicken salad,128
+,wings,96
+,chicken wings,94
+,wrap,89
+,grilled chicken,84
+,fingers,77
+,chicken fingers,76
+,chicken breast,75
+,tenders,69
+,chicken tenders,67
+,fried chicken,59
+,quesadilla,53
+,buffalo chicken,49
+,chicken quesadilla,44
+,grilled chicken sandwich,40
+,pizza,39
+,chicken wrap,38
+,bbq chicken,37
+,club,27
+,parmesan,25
+,caesar salad,24
+ethnic
+,chicken,125
+,salad,31
+,curry,25
+,tikka masala,23
+,chicken curry,23
+,chicken tikka masala,23
+,korma,21
+,saag,21
+,vindaloo,19
+,chicken vindaloo,18
+,biryani,18
+,kebab,18
+,chicken tikka,18
+,chicken biryani,17
+,chicken korma,17
+,soup,16
+,sandwich,16
+,tandoori chicken,14
+,wrap,14
+,chicken saag,14
+,chicken soup,12
+,chicken shawarma,11
+,shawarma,11
+,shish kebab,10
+,chicken shish kebab,10
+italian
+,chicken,439
+,salad,143
+,wrap,85
+,chicken salad,83
+,grilled chicken,80
+,pizza,63
+,fingers,58
+,chicken fingers,57
+,sandwich,56
+,broccoli,53
+,buffalo chicken,49
+,dinner,46
+,wings,46
+,chicken wings,43
+,parmigiana,41
+,chicken pizza,40
+,chicken parmigiana,32
+,calzone,31
+,alfredo,30
+,chicken sandwich,30
+,marsala,29
+,bbq chicken,29
+,cacciatore,27
+,pasta,27
+,chicken breast,27
+mexican or latin
+,chicken,78
+,burrito,21
+,quesadilla,17
+,salad,14
+,taco,12
+,chicken quesadilla,12
+,grilled chicken,12
+,chicken burrito,11
+,fajita,9
+,chicken fajita,8
+,chicken taco,8
+,chicken salad,8
+,chicken plate,7
+,soup,6
+,fried chicken,6
+,nachos,6
+,chicken nachos,5
+,enchilada,5
+,wings,4
+,extra chicken,4
+,chicken wings,4
+,burrito grande,4
+,torta,4
+,chicken chimichanga,4
+,chimichanga,4
+cafe
+,chicken,545
+,salad,296
+,chicken salad,192
+,wrap,191
+,sandwich,154
+,pizza,115
+,grilled chicken,112
+,dinner,101
+,fingers,92
+,chicken fingers,91
+,calzone,67
+,chicken pizza,65
+,wings,62
+,chicken wrap,61
+,chicken wings,61
+,buffalo chicken,54
+,chicken sandwich,52
+,parmesan,51
+,chicken caesar wrap,49
+,caesar wrap,49
+,cutlet,49
+,chicken cutlet,48
+,caesar,47
+,chicken sub,46
+,chicken breast,46
+deli
+,chicken,458
+,salad,248
+,wrap,155
+,chicken salad,152
+,sandwich,126
+,pizza,115
+,grilled chicken,99
+,dinner,96
+,fingers,83
+,chicken fingers,83
+,calzone,67
+,chicken pizza,65
+,wings,56
+,chicken wings,55
+,buffalo chicken,53
+,chicken wrap,52
+,parmesan,48
+,cutlet,45
+,chicken sub,45
+,chicken cutlet,44
+,chicken sandwich,44
+,caesar wrap,41
+,chicken parmesan,41
+,chicken caesar wrap,41
+,caesar,41
+bar
+,chicken,39
+,sandwich,34
+,chicken sandwich,24
+,salad,21
+,tenders,19
+,chicken tenders,18
+,wrap,17
+,wings,14
+,chicken wrap,13
+,chicken wings,12
+,chicken salad,12
+,fingers,11
+,chicken fingers,11
+,buffalo chicken wrap,9
+,chicken curry,9
+,curry,9
+,chicken quesadilla,7
+,quesadilla,7
+,caesar salad,6
+,chicken caesar salad,6
+,sandy,5
+,chicken breast,5
+,chicken sandy,5
+,fried chicken sandwich,5
+,pie,5
+grill
+,chicken,56
+,sandwich,26
+,chicken sandwich,17
+,salad,15
+,chicken salad,9
+,pulled chicken,8
+,tenders,8
+,fried chicken,7
+,chicken tenders,7
+,fingers,6
+,wings,6
+,chicken fingers,6
+,chicken wings,6
+,noodles,5
+,grilled chicken,5
+,chicken caesar salad,5
+,buffalo chicken,5
+,bbq chicken,5
+,caesar salad,5
+,bbq pulled chicken,5
+,half chicken,4
+,grilled chicken sandwich,3
+,buffalo chicken salad,3
+,chicken pizza,3
+,quesadilla,3
+asian
+,chicken,1705
+,rice,310
+,fried rice,216
+,wings,180
+,chicken wings,177
+,teriyaki,134
+,soup,130
+,sauce,118
+,chicken teriyaki,115
+,fingers,111
+,pork fried rice,108
+,chicken fingers,104
+,sesame chicken,103
+,crispy chicken,84
+,broccoli,78
+,with chicken,77
+,general gau's chicken,71
+,chicken fried rice,67
+,kung pao chicken,67
+,special,66
+,noodle soup,62
+,vegetables,61
+,beef,58
+,chicken with broccoli,54
+,curry chicken,50
+southern
+,chicken,9
+,fried chicken,2
+,wings,2
+,chicken wings,2
+,po boy chicken,1
+,chicken sub,1
+,waffles,1
+,bourbon chicken,1
+,buffalo chicken sub,1
+,chicken and waffles,1
+,salsa,1
+,oven roasted young organic chicken with peach salsa,1
+,shredded chicken taquito with chipotle aioli,1
+,chipotle aioli,1
+,blackened chicken,1
+,cajun bowl (chicken and 1 side),1
+,spicy chicken,1
+,fried chicken and baconnaise sandwich,1
+,pork chop,1
+,chicken fried pork chop,1
+,hot chicken bites,1
+,chicken bites,1
+,honey habanero spiced chicken wings,1
+,chicken and sausage gumbo,1
+,gumbo,1
+healthy
+,chicken,68
+,salad,17
+,wrap,11
+,chicken salad,10
+,soup,10
+,chicken tikka,8
+,curry,8
+,noodle,8
+,chicken noodle,8
+,chicken curry,8
+,biryani,8
+,korma,8
+,chicken vindaloo,7
+,vindaloo,7
+,chicken korma,7
+,tandoori chicken,7
+,chicken tikka masala,7
+,tikka masala,7
+,chicken biryani,7
+,sandwich,7
+,panini,6
+,chicken panini,6
+,saag,5
+,chicken soup,5
+,kabob,5
+desserts
+,sandwich,2
+,crispy chicken bacon ranch sandwich,1
+,chicken sandwich,1
+,crispy chicken sandwich,1
