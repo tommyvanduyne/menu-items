@@ -1,0 +1,262 @@
+american
+,steak,404
+,steak tips,106
+,eggs,71
+,frites,64
+,steak frites,57
+,salad,55
+,cheese,36
+,sandwich,35
+,steak and eggs,35
+,sirloin steak,27
+,steak and cheese,25
+,steak sandwich,22
+,tartare,22
+,steak tartare,21
+,steak salad,19
+,bomb,17
+,steak bomb,16
+,hanger steak,16
+,skirt steak,16
+,wrap,15
+,marinated steak tips,13
+,fries,13
+,rolls,11
+,flat iron steak,11
+,tuna steak,10
+ethnic
+,steak,31
+,frites,17
+,steak frites,14
+,salad,5
+,steak tips,5
+,eggs,5
+,steak tartare,4
+,steak and eggs,4
+,tartare,4
+,hanger steak,3
+,classic steak frites,3
+,flat iron steak,2
+,sirloin steak,2
+,skirt steak,2
+,sandwich,2
+,rib-eye steak,2
+,hanger steak frites,2
+,kebab,2
+,cheese,2
+,steak and cheese,2
+,steak rollup,1
+,petit skirt steak,1
+,steak tartareandcomma; frites,1
+,steak and houmus rollup,1
+,petit steak frites,1
+italian
+,steak,256
+,cheese,44
+,steak tips,36
+,wrap,33
+,steak and cheese,26
+,bomb,22
+,steak bomb,21
+,sandwich,18
+,sirloin steak,18
+,salad,17
+,egg,15
+,grilled steak,15
+,dinner,13
+,cheese steak,13
+,steak sub,11
+,calzone,11
+,steak tip sub,10
+,pizza,10
+,steak tip,9
+,shrimp,9
+,cheese sub,9
+,eggs,9
+,steak tip salad,8
+,pizzaiola,8
+,onion,8
+mexican or latin
+,steak,40
+,burrito,11
+,fajita,7
+,taco,6
+,quesadilla,6
+,steak fajita,5
+,grilled steak,5
+,steak quesadilla,4
+,salad,4
+,skirt steak,4
+,steak taco,4
+,steak burrito,4
+,steak plate,4
+,steak ranchero,3
+,sirloin steak,3
+,nachos,3
+,steak tips,3
+,ranchero,3
+,natural skirt steak,2
+,steak and eggs,2
+,chicken,2
+,onions,2
+,grilled marinated steak,2
+,tacos,2
+,peppers,2
+cafe
+,steak,325
+,cheese,57
+,steak and cheese,46
+,salad,40
+,dinner,40
+,steak tips,39
+,bomb,35
+,wrap,35
+,steak bomb,33
+,cheese sub,29
+,sandwich,27
+,steak and cheese sub,21
+,steak tip salad,20
+,pizza,19
+,calzone,19
+,egg,18
+,steak tips dinner,18
+,steak tip,18
+,steak tip dinner,17
+,eggs,16
+,onion,15
+,mushroom,15
+,pepper,13
+,steak sub,13
+,steak tips sub,13
+deli
+,steak,288
+,cheese,52
+,steak and cheese,41
+,dinner,36
+,salad,36
+,steak tips,35
+,bomb,32
+,wrap,31
+,steak bomb,31
+,cheese sub,29
+,steak and cheese sub,21
+,sandwich,20
+,calzone,19
+,steak tip salad,19
+,pizza,18
+,steak tip,18
+,egg,17
+,steak tips dinner,17
+,onion,14
+,steak tip dinner,14
+,cheese steak,13
+,steak tips sub,13
+,steak sub,13
+,mushroom,13
+,pepper,12
+bar
+,steak,32
+,steak tips,22
+,salad,9
+,cheese,7
+,eggs,6
+,steak and eggs,6
+,steak and cheese,5
+,marinated steak tips,4
+,sandwich,4
+,steak tip salad,3
+,steak salad,3
+,steak and bleu,2
+,steak tip sub,2
+,wrap,2
+,tacos,2
+,steak sandwich,2
+,steak tacos,2
+,bleu,2
+,fries,2
+,sirloin steak,2
+,pie,2
+,open - faced steak sandwich,1
+,bbq steak tips,1
+,garlic steak,1
+,steak au poivre,1
+grill
+,steak,15
+,eggs,6
+,steak tips,5
+,salad,3
+,steak and eggs,3
+,chicken fried steak,3
+,bomb,2
+,steak bomb,2
+,cheese steak,2
+,steakhouse,2
+,cowboy strip steak,2
+,steak tip sub,2
+,flat iron steak,1
+,hamburger steak,1
+,italian steak sandwich,1
+,chicken fried steak and eggs,1
+,steak sandwich,1
+,bbq bourbon steak tips,1
+,sirloin steak,1
+,n.y. sirloin steak,1
+,bourbon steak tips,1
+,flame-broiled steak,1
+,steakhouse salad,1
+,whiskey's steakhouse salad,1
+,crispy cheesesteak eggroll,1
+asian
+,steak,108
+,pepper steak,38
+,sauce,20
+,rice,13
+,pepper,8
+,black pepper,7
+,black pepper sauce,7
+,pepper sauce,7
+,fried rice,7
+,teriyaki steak,6
+,pork fried rice,6
+,sirloin steak,6
+,oyster sauce,5
+,onion,5
+,combo,5
+,steak with onion,4
+,style,4
+,skirt steak,4
+,broccoli,4
+,salad,4
+,steak salad,4
+,filet,4
+,bowl,3
+,filet steak with black pepper,3
+,vegetable,3
+southern
+,blackened rare ahi tuna steak with yellow mole,1
+,frites,1
+,steak frites,1
+,southwestern steak frites,1
+,mole,1
+,grilled skirt steak with ranchero tomato,1
+,steak biscuits,1
+,steak,1
+,po boy steak,1
+,tomato,1
+,biscuits,1
+healthy
+,steak,6
+,rare steak,4
+,sandwich,2
+,steak sandwich,2
+,tripe,1
+,rare steak and well-done brisket,1
+,brisket,1
+,rare steak and tripe,1
+,rare steak and well-done flank,1
+,tendon,1
+,steakhouse salad,1
+,steakhouse,1
+,"rare steak,1
+,salad,1
+,"rare steak tendon,1
