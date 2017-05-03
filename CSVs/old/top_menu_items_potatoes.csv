@@ -24,11 +24,21 @@ american
 ,potatoes au gratin,2
 ,creamy mashed potatoes,2
 ,au gratin,2
-modern european
-,potatoes,3
-,mashed potatoes,1
-,lyonnaise potatoes,1
-,breakfast potatoes,1
+ethnic
+,potatoes,12
+,breakfast potatoes,2
+,mashed potatoes,2
+,lyonnaise potatoes,2
+,baked chicken and potatoes,1
+,flattened potatoes,1
+,chicken,1
+,baked chicken,1
+,samosa,1
+,potatoes and green peas samosa,1
+,sweet potatoes,1
+,fried sweet potatoes,1
+,spicy potatoes,1
+,roast potatoes,1
 italian
 ,potatoes,88
 ,mashed potatoes,28
@@ -98,12 +108,6 @@ deli
 ,rice,1
 ,roasted red bliss potatoes,1
 ,mashed potatoes or rice,1
-mediterranean
-,potatoes,4
-,flattened potatoes,1
-,lyonnaise potatoes,1
-,mashed potatoes,1
-,roast potatoes,1
 bar
 ,potatoes,16
 ,mashed potatoes,11
@@ -128,10 +132,6 @@ grill
 ,breakfast potatoes,1
 ,homemade mashed potatoes,1
 ,scalloped potatoes,1
-caribbean
-,fried sweet potatoes,1
-,sweet potatoes,1
-,potatoes,1
 southern
 ,potatoes,4
 ,mashed potatoes,2
@@ -166,12 +166,6 @@ asian
 ,shrimp and wok seared potatoes,1
 ,chicken,1
 ,20. carrotandcomma; sweet potatoesandcomma; pineapple,1
-middle eastern
-,potatoes,2
-,baked chicken,1
-,chicken,1
-,baked chicken and potatoes,1
-,spicy potatoes,1
 mexican or latin
 ,potatoes,2
 ,roasted new potatoes,1
@@ -179,14 +173,7 @@ mexican or latin
 ,scrambled eggsandcomma; bacon and roasted new potatoes,1
 ,roasted potatoes,1
 ,bacon,1
-other
-,breakfast potatoes,1
-,potatoes,1
 healthy
 ,lemon-garlic smashed potatoes,1
 ,smashed potatoes,1
 ,potatoes,1
-indian
-,samosa,1
-,potatoes,1
-,potatoes and green peas samosa,1

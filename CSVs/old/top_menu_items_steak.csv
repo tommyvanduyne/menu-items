@@ -24,32 +24,32 @@ american
 ,rolls,11
 ,flat iron steak,11
 ,tuna steak,10
-modern european
-,steak,16
-,frites,15
-,steak frites,12
-,tartare,4
+ethnic
+,steak,31
+,frites,17
+,steak frites,14
+,salad,5
+,steak tips,5
+,eggs,5
 ,steak tartare,4
-,steak and eggs,3
+,steak and eggs,4
+,tartare,4
+,hanger steak,3
 ,classic steak frites,3
-,eggs,3
-,rib-eye steak,2
-,steak tips,2
+,flat iron steak,2
+,sirloin steak,2
 ,skirt steak,2
-,salad,2
-,hanger steak,2
-,bbq steak tips,1
-,dublin steak tips,1
-,sandwich,1
-,steak tip sandwich,1
-,caesar salad,1
-,pomme frites,1
-,steak tip caesar salad,1
+,sandwich,2
+,rib-eye steak,2
+,hanger steak frites,2
+,kebab,2
+,cheese,2
+,steak and cheese,2
+,steak rollup,1
 ,petit skirt steak,1
-,seaweed salad,1
-,grilled tuna steak on a top of japanese seaweed salad,1
-,sirloin steak,1
-,grilled skirt steak,1
+,steak tartareandcomma; frites,1
+,steak and houmus rollup,1
+,petit steak frites,1
 italian
 ,steak,256
 ,cheese,44
@@ -154,58 +154,32 @@ deli
 ,steak sub,13
 ,mushroom,13
 ,pepper,12
-mediterranean
-,steak,3
-,steak frites,2
-,salad,2
-,frites,2
-,cheese,2
-,steak tips,2
-,steak and cheese,2
-,sandwich,1
-,steak gozi flat bread sandwich,1
-,steak salad,1
-,steak kebab,1
-,kebab,1
-,steak kebab salad,1
-,hanger steak frites,1
-,steak mezze rice plate,1
-,hangar steak frites,1
-,steak combo,1
-,combo,1
-,new york steak,1
-,mushrooms,1
-,steak with choice of onionsandcomma; peppers or mushrooms,1
-,steak burger,1
-,burger,1
-,grilled steak tips,1
-,yellow fin tuna steak burger,1
 bar
-,steak,34
-,steak tips,24
-,salad,10
+,steak,32
+,steak tips,22
+,salad,9
 ,cheese,7
-,steak and eggs,6
 ,eggs,6
+,steak and eggs,6
 ,steak and cheese,5
-,sandwich,5
 ,marinated steak tips,4
+,sandwich,4
 ,steak tip salad,3
-,sirloin steak,3
 ,steak salad,3
-,pie,2
-,tacos,2
-,wrap,2
-,steak sandwich,2
+,steak and bleu,2
 ,steak tip sub,2
+,wrap,2
+,tacos,2
+,steak sandwich,2
 ,steak tacos,2
 ,bleu,2
-,steak tip sandwich,2
-,bbq steak tips,2
-,steak and bleu,2
 ,fries,2
-,marinated tenderloin steak tips,1
-,steak and cheese sandwich,1
+,sirloin steak,2
+,pie,2
+,open - faced steak sandwich,1
+,bbq steak tips,1
+,garlic steak,1
+,steak au poivre,1
 grill
 ,steak,15
 ,eggs,6
@@ -233,41 +207,31 @@ grill
 ,whiskey's steakhouse salad,1
 ,crispy cheesesteak eggroll,1
 asian
-,steak,109
+,steak,108
 ,pepper steak,38
 ,sauce,20
 ,rice,13
 ,pepper,8
+,black pepper,7
 ,black pepper sauce,7
 ,pepper sauce,7
-,black pepper,7
 ,fried rice,7
 ,teriyaki steak,6
 ,pork fried rice,6
 ,sirloin steak,6
-,salad,5
-,onion,5
 ,oyster sauce,5
+,onion,5
 ,combo,5
 ,steak with onion,4
 ,style,4
-,filet,4
 ,skirt steak,4
 ,broccoli,4
+,salad,4
 ,steak salad,4
-,onions,3
-,lunch,3
-,chunks of sirloin steak with black pepper,3
-caribbean
-,steak,5
-,stewed steak,1
-,meal,1
-,stewed steak meal,1
-,sirloin steak,1
-,1 eggandcomma; steak,1
-,eggs,1
-,country fried steak,1
-,steak and eggs,1
+,filet,4
+,bowl,3
+,filet steak with black pepper,3
+,vegetable,3
 southern
 ,blackened rare ahi tuna steak with yellow mole,1
 ,frites,1
@@ -280,14 +244,6 @@ southern
 ,po boy steak,1
 ,tomato,1
 ,biscuits,1
-other
-,steak,3
-,flat iron steak,1
-,charred flat iron steak,1
-,eggs,1
-,hanger steak,1
-,n. y. strip steak,1
-,hanger steak and eggs,1
 healthy
 ,steak,6
 ,rare steak,4
@@ -304,15 +260,3 @@ healthy
 ,"rare steak,1
 ,salad,1
 ,"rare steak tendon,1
-middle eastern
-,steak,3
-,steak sub,1
-,mediterranean steak sub,1
-,rib steak,1
-,steak (12oz.),1
-,steak tip kebab,1
-,kebab,1
-,steak tips,1
-,steak rollup,1
-,steak and houmus rollup,1
-,steak tips plate,1

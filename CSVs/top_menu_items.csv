@@ -24,32 +24,32 @@ american
 ,coffee,185
 ,fish,183
 ,potatoes,165
-ethnic
-,salad,304
-,chicken,125
-,curry,115
-,soup,107
-,sandwich,100
-,naan,94
-,biryani,93
-,korma,83
-,kebab,81
-,rice,72
-,vindaloo,70
-,saag,67
-,paratha,61
-,tea,59
-,paneer,57
-,juice,57
-,fries,56
-,wrap,53
-,water,52
-,shrimp,48
-,cheese,47
-,dosa,46
-,lassi,45
-,lamb,45
-,falafel,44
+modern european
+,salad,58
+,frites,37
+,sandwich,28
+,toast,24
+,salmon,23
+,burger,20
+,chicken,19
+,steak,16
+,plancha,16
+,cheese,16
+,soup,16
+,tartare,14
+,french toast,14
+,eggs,14
+,omelette,13
+,cream,13
+,fries,13
+,benedict,13
+,ham,12
+,steak frites,12
+,spinach,12
+,smoked salmon,10
+,creme brulee,10
+,mushrooms,10
+,pizza,10
 italian
 ,salad,888
 ,pizza,595
@@ -121,11 +121,11 @@ cafe
 ,latte,236
 ,cake,230
 ,beef,202
-,turkey,201
 ,chocolate,201
+,turkey,201
 ,chicken salad,192
-,club,185
 ,bacon,185
+,club,185
 ,toast,178
 ,sausage,161
 deli
@@ -154,32 +154,136 @@ deli
 ,sausage,122
 ,fingers,114
 ,soda,111
+asian
+,rice,1976
+,chicken,1730
+,maki,1389
+,soup,1317
+,fried rice,1164
+,sauce,1099
+,shrimp,955
+,beef,948
+,salad,724
+,pork,646
+,tofu,574
+,noodles,533
+,tea,476
+,vegetables,407
+,special,393
+,curry,378
+,teriyaki,367
+,noodle soup,358
+,broccoli,355
+,combo,353
+,noodle,343
+,lo mein,317
+,duck,267
+,tempura,258
+,vegetable,255
+african
+,salad,8
+,juice,4
+,combination,3
+,chicken,3
+,spicy,3
+,gored gored,2
+,coke,2
+,yekik alicha,2
+,gomen wot,2
+,kitfo,2
+,light,2
+,dabo,2
+,wet,2
+,doro wot,2
+,tomato salad,2
+,merguez d'alger,1
+,karentika,1
+,hasouat,1
+,jbinet with berber karmous,1
+,m'chermlat el sanaria,1
+,h'rissa,1
+,m'chermla du jour,1
+,couscous brochette,1
+,melfouf la kasbah,1
+,m'katef,1
+middle eastern
+,salad,107
+,sandwich,42
+,kebab,34
+,falafel,30
+,grape leaves,27
+,soup,24
+,water,23
+,shawarma,23
+,wrap,22
+,pita,21
+,baklava,20
+,juice,20
+,salad plate,20
+,fries,19
+,shish kebab,19
+,kabob,18
+,lamb,18
+,chicken,18
+,rice,18
+,french fries,17
+,combo,17
+,pie,17
+,soda,17
+,hummus,16
+,tea,15
+mediterranean
+,salad,78
+,wrap,27
+,sandwich,25
+,kebab,25
+,fries,20
+,cheese,19
+,pancakes,15
+,falafel,14
+,lamb,14
+,gyro,13
+,pizza,13
+,pie,12
+,souvlaki,12
+,tea,12
+,coffee,10
+,chicken,9
+,hummus,9
+,greek salad,9
+,spinach pie,9
+,garden salad,8
+,water,8
+,soup,8
+,kofte,7
+,rice,7
+,pita,7
 bar
-,salad,156
-,burger,113
-,sandwich,81
-,fries,71
-,cheese,64
-,chips,57
-,pie,41
-,wings,40
-,chicken,39
-,caesar salad,34
-,steak,32
-,wrap,31
+,salad,170
+,burger,117
+,sandwich,95
+,fries,78
+,cheese,65
+,chips,61
+,pie,44
+,chicken,42
+,wings,42
+,caesar salad,37
+,steak,34
+,wrap,32
+,bacon,31
 ,light,30
-,bacon,30
-,nachos,28
-,fish,27
-,soup,25
-,tenders,24
-,chicken sandwich,24
-,breakfast,23
-,steak tips,22
+,fish,30
+,nachos,29
+,soup,28
+,breakfast,26
+,chicken sandwich,26
+,tenders,25
+,chowder,24
+,steak tips,24
 ,ipa,21
-,chowder,21
 ,chili,20
-,grilled cheese,18
+,toast,20
 grill
 ,burger,113
 ,salad,110
@@ -206,32 +310,6 @@ grill
 ,nachos,15
 ,ribs,15
 ,cheese fries,15
-asian
-,rice,1965
-,chicken,1705
-,maki,1389
-,soup,1300
-,fried rice,1157
-,sauce,1097
-,shrimp,940
-,beef,937
-,salad,715
-,pork,641
-,tofu,559
-,noodles,528
-,tea,469
-,vegetables,407
-,special,392
-,curry,376
-,teriyaki,365
-,combo,353
-,noodle soup,349
-,noodle,342
-,broccoli,337
-,lo mein,316
-,duck,266
-,tempura,258
-,vegetable,253
 healthy
 ,salad,114
 ,chicken,68
@@ -258,6 +336,32 @@ healthy
 ,kebab,21
 ,cheese,21
 ,shrimp,20
+caribbean
+,meal,8
+,chicken,7
+,steak,5
+,cake,5
+,fish,3
+,saltfish,3
+,cabbage,3
+,rice,3
+,grits,3
+,sausage,3
+,eggs,3
+,curry chicken,2
+,stew chicken,2
+,steamed cabbage,2
+,turkey bacon,2
+,beef,2
+,waffles,2
+,goat,2
+,curried goat,2
+,bacon,2
+,chicken meal,2
+,liver,2
+,white rice,1
+,yellow rice,1
+,red bean,1
 southern
 ,chicken,9
 ,cheese,8
@@ -284,6 +388,32 @@ southern
 ,home fries,2
 ,empanada,2
 ,beans,2
+other
+,salad,9
+,ham,5
+,toast,4
+,pizza,4
+,french toast,3
+,eggs,3
+,salmon,3
+,benedict,3
+,burger,3
+,steak,3
+,fish,2
+,scallops,2
+,chicken,2
+,hash,2
+,grass fed burger,2
+,cake,2
+,shrimp,2
+,juices,2
+,cobb salad,2
+,bacon,2
+,fries,2
+,calamari,2
+,country ham,2
+,cheese,2
+,strauss grass fed burger,2
 desserts
 ,cream,28
 ,sorbet,27
@@ -310,3 +440,29 @@ desserts
 ,coconut,8
 ,coffee,8
 ,chocolate chip,8
+indian
+,curry,108
+,biryani,90
+,naan,87
+,korma,82
+,vindaloo,70
+,saag,66
+,paratha,59
+,paneer,55
+,dosa,46
+,nan,43
+,chicken,42
+,lassi,42
+,soup,41
+,tikka masala,38
+,poori,35
+,salad,34
+,chutney,31
+,rice,31
+,roti,26
+,cream,22
+,chicken tikka masala,22
+,raita,22
+,ice cream,22
+,kebab,22
+,samosa,21

@@ -1,0 +1,354 @@
+american
+,fish,183
+,chips,152
+,fish and chips,92
+,tacos,60
+,fish tacos,57
+,sandwich,49
+,swordfish,49
+,fish sandwich,42
+,catfish,15
+,grilled swordfish,14
+,beer battered fish and chips,14
+,fried fish,10
+,monkfish,10
+,taco,8
+,ipa,8
+,fisherman's platter,8
+,bluefish,8
+,shellfish platter,8
+,fish n chips,7
+,stew,6
+,steak,6
+,chowder,6
+,fried fish sandwich,6
+,fish taco,6
+,fisherman's brew,5
+italian
+,fish,65
+,chips,43
+,swordfish,36
+,sandwich,28
+,fish and chips,24
+,fish sandwich,22
+,tacos,12
+,fish tacos,11
+,grilled swordfish,11
+,fish sub,8
+,fish plate,8
+,steak,6
+,swordfish steak,6
+,wrap,5
+,shellfish platter,5
+,fisherman's platter,5
+,chowder,5
+,stew,5
+,fish chowder,4
+,bluefish,4
+,fish n chips,4
+,ipa,4
+,fried fish sandwich,4
+,dinner,4
+,shellfish tower,4
+modern european
+,fish,5
+,chips,4
+,fish and chips,2
+,fish stick,2
+,frites,1
+,fish stick and frites,1
+,fish platter,1
+,dog fish head 60 minute ipa (de),1
+,assorted smoked fish platter,1
+,druid fish and chips,1
+,sandwich,1
+,fish sandwich,1
+,fish chowder,1
+,chowder,1
+,crispy fish,1
+,fish of the day,1
+,cork fish and chips,1
+,cakes,1
+,roasted swordfish,1
+,soup,1
+,swordfish,1
+,blue fish pate,1
+,pate,1
+,fish soup,1
+,traditionnal fish soup,1
+cafe
+,fish,73
+,chips,38
+,fish and chips,27
+,sandwich,21
+,fish sandwich,15
+,fish sub,13
+,salad,12
+,tuna fish,11
+,dinner,10
+,fisherman's platter,7
+,fish and chips dinner,6
+,whitefish salad,6
+,fish fillet,6
+,cakes,4
+,fish cakes,4
+,tuna fish sub,4
+,fish salad,4
+,whitefish,3
+,filet,3
+,smoked whitefish salad,3
+,fresh fish sub,3
+,fish filet sandwich,2
+,fried fish,2
+,swordfish,2
+,fish burger,2
+deli
+,fish,63
+,chips,30
+,fish and chips,21
+,sandwich,19
+,fish sandwich,14
+,fish sub,13
+,tuna fish,10
+,dinner,10
+,salad,7
+,fish and chips dinner,6
+,fisherman's platter,5
+,whitefish salad,5
+,tuna fish sub,4
+,fresh fish sub,3
+,fish fillet,3
+,filet,3
+,fried fish,2
+,fish burger,2
+,tuna fish roll,2
+,fish n' chips plate,2
+,smoked whitefish salad,2
+,fish filet,2
+,special,2
+,burger,2
+,sandwich plate,2
+asian
+,fish,240
+,sauce,68
+,fish fillet,42
+,rice,35
+,flying fish roe,33
+,soup,26
+,fish filet,21
+,filet,21
+,fried rice,20
+,whole fish,18
+,salted fish,17
+,ginger fish,14
+,chicken fried rice,13
+,chili fish,13
+,jelly fish,13
+,fish maw,12
+,black bean sauce,12
+,ginger,11
+,fish ball,10
+,vegetables,10
+,tofu,10
+,cabbage,10
+,pot,9
+,fish cake,8
+,white fish,8
+middle eastern
+,fish kabob plate,2
+,cakes,1
+,sword fish kebab,1
+,fish cakes,1
+,fish kabob roll up,1
+,fish kabob skewer,1
+,kebab,1
+,salmon fish tikka,1
+,curry,1
+,tandoori fish,1
+,fish curry,1
+,fish fry,1
+,fish tikka,1
+,fish,1
+mediterranean
+,fish,3
+,chips,2
+,fish and chips,2
+,25. swordfish a algarvia,1
+,dogfish head,1
+,taco,1
+,tacos,1
+,fish tacos,1
+,swordfish scallopini,1
+,fish taco,1
+,salmon,1
+,kebab,1
+,grilled fish,1
+,swordfish kebab,1
+,smoked bluefish and salmon,1
+,bluefish,1
+,monkfish,1
+grill
+,fish,8
+,chips,7
+,fish and chips,5
+,cajun catfish strips,2
+,strips,2
+,fried channel catfish platter,2
+,sandwich,2
+,catfish special,1
+,fried catfish platter,1
+,special,1
+,fish n chips,1
+,catfish fillet,1
+,fried catfish sandwich,1
+,southern fried catfish,1
+,fish tacos,1
+,catfish sandwich,1
+,tacos,1
+,tuna fish sub,1
+,crab,1
+,fishcakes,1
+,crab and smoked haddock fishcakes,1
+,fish n' chips,1
+,fried fish,1
+,fish sandwich,1
+,blackened fish,1
+mexican or latin
+,fish tacos,7
+,tacos,7
+,taco,6
+,fish taco,6
+,fish,5
+,swordfish,4
+,burrito,3
+,fish burrito,2
+,fish nachos,2
+,fish fajita,2
+,quesadilla,2
+,fish quesadilla,2
+,pescado (fish),2
+,salad,2
+,nachos,2
+,fajita,2
+,fish plate,2
+,fried fish,2
+,el paso,1
+,cancun fish taco,1
+,swordfish salguero,1
+,salmonandcomma; scrod or swordfish el paso,1
+,dogfish head nameste,1
+,marinated swordfish skewers,1
+,marinated swordfish sticks,1
+caribbean
+,saltfish,3
+,fish,3
+,fishcake,1
+,fried fish,1
+,escovitch king fish,1
+,cabbage,1
+,ackee and saltfish,1
+,grits,1
+,fish and grits,1
+,saltfish and cabbage,1
+southern
+,catfish,2
+,fish,2
+,blackened fish,2
+,po boy blackened fish,1
+,crawfish,1
+,cajun bowl (fish and 1 side),1
+,baja fish tacos with pico de gallo,1
+,pico de gallo,1
+,blackened catfish,1
+,crispy fried catfish sliders,1
+,fish fry,1
+,southern fish fry,1
+,cornmeal crusted catfish,1
+,sliders,1
+other
+,fish,2
+,block island swordfish,1
+,local block island swordfish,1
+,swordfish,1
+,white fish,1
+,monk fish,1
+,seasonal white fish and chips,1
+,chips,1
+bar
+,fish,30
+,chips,28
+,fish and chips,18
+,sandwich,7
+,fish sandwich,5
+,fish tacos,3
+,tacos,3
+,cakes,3
+,fisherman's platter,2
+,fish cakes,2
+,ale battered fish and chips,2
+,"dogfish head ""raison d'etre"" andcomma; de (12oz)",1
+,dublin fish and chips,1
+,native bluefish cakes,1
+,smoked fish cakes,1
+,druid fish and chips,1
+,fish chowder,1
+,fish supper,1
+,style,1
+,white fish,1
+,harp battered fish and chips,1
+,flaky white fish,1
+,curry,1
+,fried fish,1
+,fisherman's,1
+healthy
+,curry,6
+,fish curry,6
+,fish tikka masala,3
+,tikka masala,3
+,fish tikka,3
+,fish vindaloo,3
+,vindaloo,3
+,fish,3
+,meatballs,2
+,fish pakora,2
+,white fish,1
+,madrashi fish,1
+,keral fish curry,1
+,lahori fish fry,1
+,cuttlefish meatballs,1
+,fish paste,1
+,fish tofu,1
+,fish fry,1
+,tofu,1
+,fish cake,1
+,cake,1
+,fish meatballs,1
+,kingfisher,1
+,soup,1
+,fish ball soup,1
+indian
+,curry,15
+,fish curry,13
+,fish masala,9
+,vindaloo,6
+,fish vindaloo,6
+,goan fish curry,4
+,fish pakora,4
+,kerala fish curry,3
+,fish pakora (5),2
+,swordfish masala,2
+,tandoori swordfish masala,2
+,fish tandoori,1
+,33. fish vindaloo,1
+,tikka masala,1
+,34. fish masala,1
+,64. fish shrimp / beef / lamb,1
+,swordfish tikka masala,1
+,lamb,1
+,60. fish cutlets,1
+,86. fish lampreys,1
+,fish saag,1
+,shrimp biryani,1
+,fish or shrimp biryani,1
+,fish pakoras,1
+,amritsari fish pakora,1

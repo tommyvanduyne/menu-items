@@ -24,32 +24,32 @@ american
 ,with cheese,24
 ,cheese plate,23
 ,macaroni and cheese,19
-modern european
-,cheese,16
+ethnic
+,cheese,47
+,cheesecake,8
+,sandwich,6
+,ham,6
+,naan,6
+,feta cheese,5
+,cheese naan,5
+,cheese sandwich,5
 ,cheeses,5
-,ham,4
-,sandwich,3
-,pizza,3
-,cheese sandwich,2
-,cheesecake,2
+,pizza,5
+,egg,4
+,cake,4
+,cheese cake,4
+,pie,3
+,cheese pizza,3
+,cheeseburger,3
 ,goat cheese,2
-,cheese pizza,2
+,macaroni,2
+,olives,2
+,burger,2
+,grilled ham,2
+,nan,2
+,mac n cheese,2
+,cheese pie,2
 ,bleu cheese,2
-,six cheeses,1
-,three cheeses,1
-,ham and cheese crepe,1
-,pasta with butter and cheese,1
-,butter,1
-,trio of cheese,1
-,vanilla bean cheesecake,1
-,swiss cheese,1
-,crepe,1
-,hot pastrami,1
-,cut of cheese,1
-,trio of cheeses,1
-,daily trio of cheeses,1
-,with butter,1
-,pasta with butter,1
 italian
 ,cheese,426
 ,pizza,79
@@ -106,8 +106,8 @@ cafe
 ,cheese,761
 ,ham,192
 ,steak,140
-,cheeseburger,129
 ,egg,129
+,cheeseburger,129
 ,sandwich,128
 ,grilled cheese,98
 ,cheese sandwich,91
@@ -116,16 +116,16 @@ cafe
 ,ham and cheese,59
 ,calzone,58
 ,pizza,56
-,cheesecake,48
 ,cheese pizza,48
+,cheesecake,48
 ,cheese calzone,47
 ,steak and cheese,46
 ,omelet,45
 ,cheese omelet,43
 ,fries,42
 ,wrap,37
-,bacon,35
 ,bacon cheeseburger,35
+,bacon,35
 ,with cream cheese,32
 ,with cheese,31
 deli
@@ -154,84 +154,32 @@ deli
 ,bacon cheeseburger,28
 ,cheese fries,27
 ,tomato,26
-middle eastern
-,cheese,7
-,cheese cake,3
-,cake,3
-,pie,2
-,cheese burger,2
-,feta cheese,2
-,burger,2
-,½lb. cheeseburger (natural),1
-,k3. kids mozzarella cheese sticks,1
-,cheese sticks,1
-,mozzarella cheese sticks,1
-,cheese burger (1/2lb. natural),1
-,18. haloumi white cheese 100% natural,1
-,moroccan cheese burger,1
-,with cheese,1
-,lamb burger with cheese,1
-,45. cheese pie,1
-,cheese pie,1
-,feta cheese spinach pie,1
-,sticks,1
-,spinach pie,1
-,cheesecake,1
-,smoked turkey and goat cheese sandwich,1
-,turkey,1
-,1/4 lb. cheeseburger,1
-mediterranean
-,cheese,19
-,egg,4
-,feta cheese,3
-,cheeseburger,2
-,sandwich,2
-,cheese sandwich,2
-,steak,2
-,grilled cheese,2
-,steak and cheese,2
-,olives,2
-,meat,1
-,with cheese,1
-,egg sandwich with meat and cheese,1
-,egg sandwich with cheese,1
-,cheesecake,1
-,cheese pastry roll,1
-,pizza,1
-,cheese pide pizza,1
-,pie,1
-,artisanal cheese assiette,1
-,bacon egg and cheese sandwich,1
-,egg and cheese rollup,1
-,sausage egg and cheese rollup,1
-,macaroni,1
-,truffled macaroni and cheese,1
 bar
-,cheese,65
+,cheese,64
 ,grilled cheese,18
 ,steak,11
-,fries,7
 ,burger,7
+,fries,7
 ,cheeseburger,7
-,cheese fries,6
 ,cheese burger,6
-,sandwich,6
-,cheese sandwich,5
-,mac and cheese,5
+,cheese fries,6
 ,steak and cheese,5
+,sandwich,4
+,mac and cheese,4
 ,nachos,4
 ,salad,3
-,mac n cheese,3
-,cheese plate,3
-,cheeseburger sliders,3
-,ham,3
-,sliders,3
-,curry cheese fries,3
 ,cheese nachos,3
-,pizza,3
-,cheese pizza,2
-,tasso mac and cheese,2
+,cheese sandwich,3
+,cheeseburger sliders,3
+,cheese plate,3
+,curry cheese fries,3
+,sliders,3
+,mac n cheese,3
+,ham,3
 ,goat cheese,2
+,grilled ham,2
+,baked mac and cheese,2
+,tasso mac and cheese,2
 grill
 ,cheese,51
 ,cheeseburger,21
@@ -259,10 +207,10 @@ grill
 ,o.g. w/cheese,2
 ,bleu cheese,2
 asian
-,cake,10
 ,cheese cake,10
-,cheesecake,10
+,cake,10
 ,cheese,9
+,cheesecake,9
 ,cream cheese roll,5
 ,strawberry cheesecake,3
 ,steak,3
@@ -310,12 +258,6 @@ healthy
 ,grilled cheese sandwich,1
 ,butternut squash,1
 ,biscuit,1
-caribbean
-,cheese cake,1
-,cake,1
-,cheese,1
-,macaroni,1
-,macaroni and cheese,1
 southern
 ,cheese,8
 ,fries,2
@@ -337,30 +279,6 @@ southern
 ,mac and cheese,1
 ,pulled pork grilled cheese,1
 ,brown sugar pecan pie cheesecake,1
-other
-,cheese,2
-,ham,1
-,herbert's grilled ham and cheese,1
-,frittata,1
-,zucchini,1
-,grilled ham,1
-,cheese plate,1
-,three cheese eggplant parmesan,1
-,eggplant parmesan,1
-,parmesan,1
-,three cheese agnolotti,1
-,zucchini and cheese frittata,1
-,goat cheese sacchetto,1
-,seasonal vegetable and goat cheese quiche,1
-,mascarpone cheesecake,1
-,cheesecake,1
-,lithuanian cheese dumplings,1
-,vegetable,1
-,seasonal vegetable,1
-,charcuterie,1
-,charcuterie and cheese,1
-,quiche,1
-,dumplings,1
 desserts
 ,cheesecake,11
 ,cheese,5
@@ -387,24 +305,3 @@ desserts
 ,cheesecake fantasty ice cream,1
 ,ice cream,1
 ,new york cheesecake,1
-indian
-,naan,5
-,cheese naan,4
-,nan,2
-,cheese,2
-,cheesecake,2
-,cheese nan,2
-,cilantro,1
-,mozzarella,1
-,green chili and cheese,1
-,chili,1
-,mango cheesecake,1
-,chilli naan,1
-,low-fat mozzarella and pepper jack cheesesandcomma; cilantro and spices,1
-,cheese pakora,1
-,cheese chilli naan,1
-,cheese pizza,1
-,cheese pakora (4),1
-,dosa,1
-,5. cheese cone dosa,1
-,pizza,1

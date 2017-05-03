@@ -24,32 +24,32 @@ american
 ,miso soup,5
 ,soups,5
 ,soup or salad,4
-modern european
-,soup,16
+ethnic
+,soup,107
+,lentil soup,16
+,chicken soup,12
+,noodle soup,10
+,soup of the day,9
+,coconut soup,8
+,mulligatawny soup,6
+,soup du jour,5
+,tomato soup,5
 ,onion soup,4
-,soup du jour,4
-,soup of the day,3
+,vegetable soup,3
 ,french onion soup,3
-,croutons,2
-,onion soup gratinee,2
 ,onion soupe gratinee,2
-,white bean,2
+,croutons,2
+,wonton soup,2
 ,soupe du jour,2
-,spring pea soup,1
-,sandwiches,1
-,our soup du jour and one of the above sandwiches,1
-,soupe du jour et croutons,1
-,pear,1
-,potato and coffee soup,1
-,potato,1
-,vegan soupe du jour,1
-,lamb and rice soup,1
-,vegetable soup,1
-,chicken vegetable soup,1
-,potato leek soup,1
-,oxtail soup,1
-,rice soup,1
-,lamb,1
+,red lentil soup,2
+,chicken noodle soup,2
+,white bean,2
+,onion soup gratinee,2
+,watercress soup,2
+,daily soup,2
+,soup hoanh thanh,1
+,pho noodle soup,1
+,soupe a loignon,1
 italian
 ,soup,101
 ,soup of the day,21
@@ -77,7 +77,7 @@ italian
 ,cup of soup,2
 ,tomato basil soup,2
 cafe
-,soup,124
+,soup,123
 ,soup of the day,36
 ,noodle soup,18
 ,soups,18
@@ -90,10 +90,10 @@ cafe
 ,chicken rice soup,6
 ,onion soup,6
 ,wontons,6
-,italian wedding soup,6
-,chicken noodle soup,6
 ,dumplings,6
+,chicken noodle soup,6
 ,lemon chicken rice soup,5
+,italian wedding soup,5
 ,vegetable soup,5
 ,tomato soup,4
 ,1/2 sandwich,4
@@ -128,44 +128,6 @@ deli
 ,half sandwich,3
 ,veggie soup,3
 ,chicken veggie soup,3
-asian
-,soup,1317
-,noodle soup,358
-,hot,109
-,miso soup,108
-,wonton soup,104
-,egg drop soup,63
-,hot and sour soup,50
-,chicken noodle soup,48
-,vegetable soup,45
-,seafood soup,42
-,tofu soup,34
-,pork,31
-,rice soup,30
-,wonton noodle soup,30
-,beef noodle soup,28
-,tom yum noodle soup,27
-,udon soup,24
-,duck noodle soup,21
-,dumpling soup,19
-,seafood noodle soup,18
-,pork noodle soup,17
-,tom yum soup,16
-,beef soup,16
-,noodles,15
-,chicken,15
-mediterranean
-,soup,8
-,soup of the day,3
-,lentil soup,2
-,chilled corn soup,1
-,tomato soup,1
-,cream of tomato soup,1
-,daily soup,1
-,red lentil soup,1
-,avgolemono soup,1
-,chicken soup,1
-,greek lemon soup,1
 grill
 ,soup,14
 ,noodles,2
@@ -192,6 +154,32 @@ grill
 ,guinness onion soup bowl,1
 ,guinness onion soup,1
 ,french onion soup,1
+asian
+,soup,1300
+,noodle soup,349
+,hot,109
+,miso soup,108
+,wonton soup,102
+,egg drop soup,63
+,hot and sour soup,50
+,chicken noodle soup,47
+,vegetable soup,45
+,seafood soup,42
+,tofu soup,34
+,pork,31
+,rice soup,30
+,wonton noodle soup,30
+,tom yum noodle soup,27
+,beef noodle soup,27
+,udon soup,24
+,duck noodle soup,21
+,dumpling soup,19
+,pork noodle soup,17
+,seafood noodle soup,17
+,beef soup,16
+,tom yum soup,16
+,chicken,15
+,noodles,15
 mexican or latin
 ,soup,21
 ,tortilla soup,6
@@ -243,85 +231,32 @@ healthy
 ,hot and sour shrimp soup,1
 ,vegetable noodle soup (chicken base),1
 ,beef noodle soup (large bowl),1
-caribbean
-,soup of the day,1
-other
-,squash soup,1
-,soup,1
 bar
-,soup,28
+,soup,25
 ,onion soup,10
 ,soup of the day,9
 ,tomato soup,4
-,vegetable soup,3
 ,guinness onion soup,3
-,irish stout onion soup,2
 ,salad,2
 ,grilled cheese,2
-,french onion soup,2
-,cheese,2
+,vegetable soup,2
+,irish stout onion soup,2
 ,grilled cheese and tomato soup,2
-,chef's soup of the day,1
+,cheese,2
+,french onion soup,2
+,delicious soup of the day,1
+,the soup,1
 ,guiness stout onion soup,1
-,hearty chicken and vegetable soup,1
-,roasted tomato soup,1
-,oxtail,1
 ,chicken,1
+,hearty chicken and vegetable soup,1
+,the other soup,1
+,chef's soup of the day,1
 ,onion and ale soup,1
-,clam chowder soup,1
-,chili soup,1
 ,firehouse chili soup,1
 ,soup de jour,1
-,chowder soup,1
+,chili soup,1
+,clam chowder soup,1
 ,onion,1
-indian
-,soup,41
-,coconut soup,8
-,chicken soup,8
-,mulligatawny soup,6
-,tomato soup,4
-,lentil soup,3
-,vegetable soup,2
-,mullighatawny soup,1
-,corn cila soup,1
-,tomato,1
-,tomato and coconut soup,1
-,chicken noodle soup,1
-,noodle soup,1
-,bomb curry soup,1
-,mulligatawny (vegetable) soup,1
-,days soup,1
-,mulligataway soup,1
-,fresh tomato soup,1
-,sambhar soup,1
-,sweet and sour soup,1
-,18. attukal soup,1
-middle eastern
-,soup,24
-,lentil soup,11
-,chicken soup,2
-,soup of the day,2
-,split red lentil soup,1
-,tomato basil soup,1
-,red lentil soup,1
-,76. lentil soup,1
-,yellow lentil soup,1
-,75. chicken soup,1
-,potato soup,1
-,crimson lentil soup,1
-,split peas soup,1
-,74. beef soup,1
-,maash soup,1
-,brown lentil soup,1
-,lamb soup,1
-,style,1
-,lentil soup egyptian style,1
-,barely soup,1
-,bowl of soup,1
-,daily soup,1
-,home made soup,1
-,chicken vegetable or lentil soup,1
-,73. lamb soup,1
 desserts
 ,soup,3
 ,cup soup,1

@@ -50,32 +50,32 @@ italian
 ,gulf shrimp,5
 ,alfredo,4
 ,ziti,4
-modern european
-,shrimp,5
-,shrimp cocktail,4
-,shrimp salad,2
-,toast,2
-,salad,2
-,shrimp po' boy,1
-,shrimp thermidor,1
-,chilled shrimp salad,1
-,fried shrimp po' boy,1
-,shrimp toast,1
-,shrimp and avocado toast,1
-,avocado toast,1
-,spicy shrimp,1
-,shrimp a la plancha,1
-,crispy shrimp toast,1
-,plancha,1
-,french kiss shrimps on a top of tender asparagus,1
-,paupiette of dover sole and shrimp,1
-,grilled shrimp,1
-,house salad with grilled shrimp,1
-,jumbo shrimp cocktail - cocktail sauce,1
-,sauce,1
-,jumbo shrimp cocktail,1
-,chefs house salad with grilled shrimp,1
-,paradise shrimp cocktail,1
+ethnic
+,shrimp,48
+,curry,15
+,shrimp curry,15
+,shrimp biryani,14
+,biryani,14
+,shrimp masala,14
+,shrimp vindaloo,13
+,vindaloo,13
+,shrimp saag,11
+,tandoori shrimp,11
+,saag,11
+,shrimp korma,10
+,korma,10
+,vermicelli,6
+,shrimp cocktail,5
+,salad,5
+,mushroom,4
+,toast,4
+,fried shrimp,4
+,tandoori shrimp masala,4
+,grilled shrimp,4
+,shrimp mushroom,3
+,lemongrass shrimp,3
+,shrimp saagwala,3
+,shrimp salad,3
 mexican or latin
 ,shrimp,33
 ,burrito,6
@@ -103,7 +103,7 @@ mexican or latin
 ,steak,1
 ,shrimp and scallops burrito,1
 cafe
-,shrimp,54
+,shrimp,53
 ,salad,16
 ,shrimp scampi,14
 ,scampi,14
@@ -114,20 +114,20 @@ cafe
 ,fried shrimp,7
 ,chicken,6
 ,alfredo,5
-,jumbo shrimp,5
 ,grilled shrimp salad,5
-,shrimp alfredo,4
+,jumbo shrimp,5
 ,grilled shrimp,4
 ,sauce,4
+,shrimp alfredo,4
 ,shrimp cocktail,4
 ,pasta,3
 ,rice,3
 ,skewers,3
-,caesar,2
 ,buffalo shrimp,2
 ,shrimp caesar,2
-,shrimp roll,2
-,coconut shrimp,2
+,fried shrimp plate,2
+,fried shrimp dinner,2
+,broccoli,2
 deli
 ,shrimp,42
 ,salad,15
@@ -154,10 +154,36 @@ deli
 ,rice,2
 ,fried shrimp plate,2
 ,broccoli,2
+bar
+,shrimp,12
+,shrimp cocktail,3
+,salad,2
+,salmon,2
+,popcorn shrimp,2
+,shrimp curry,2
+,curry,2
+,sweet and spicy shrimp,1
+,shrimp and kale salad,1
+,spicy shrimp,1
+,kale salad,1
+,shrimp summer salad,1
+,shrimp carbonara,1
+,chicken or shrimp carbonara,1
+,spicy shrimp curry,1
+,carbonara,1
+,fried shrimp basket,1
+,sausageandcomma; shrimp or chicken cacciatore,1
+,jumbo shrimp cocktail,1
+,chilled jumbo shrimp cocktail,1
+,summer salad,1
+,peel and eat shrimp,1
+,fried oysterandcomma; shrimp and calamari plate,1
+,calamari plate,1
+,buffalo shrimp,1
 asian
-,shrimp,955
+,shrimp,940
 ,sauce,136
-,rice,127
+,rice,126
 ,fried rice,97
 ,jumbo shrimp,87
 ,tempura,81
@@ -167,83 +193,19 @@ asian
 ,shrimps,49
 ,lobster sauce,47
 ,with shrimp,47
-,broccoli,37
 ,kung pao shrimp,36
+,broccoli,35
 ,salt,34
 ,shrimp with lobster sauce,34
-,fried shrimp,33
 ,lo mein,32
+,fried shrimp,32
 ,soup,31
 ,shrimp lo mein,30
 ,chicken,29
 ,garlic sauce,29
-,baby shrimp,27
 ,teriyaki,27
 ,nuts,27
-african
-,16. jumbo shrimp spicy,1
-,spicy,1
-middle eastern
-,shrimp,4
-,shrimp kabab,1
-,sumac rock shrimp,1
-,meal,1
-,shrimp kabob meal,1
-,tlc shrimp,1
-,shrimp salad,1
-,shrimp tikka masala,1
-,tikka masala,1
-,seafood and shrimp salad,1
-,seafood,1
-,salad,1
-,shrimp biriyani,1
-mediterranean
-,shrimp,3
-,tomato,1
-,fries,1
-,yellow tomato and shrimp risotto,1
-,risotto,1
-,atlantic shrimp cocktail,1
-,shrimp cocktail,1
-,shrimp risotto,1
-,shrimp and fries,1
-,grilled shrimp,1
-,shrimp desfina,1
-,shrimp grand marnier,1
-,kebab,1
-,shrimp kebab,1
-,broiled butterfly shrimp,1
-,butterfly shrimp,1
-,grand marnier,1
-bar
-,shrimp,12
-,salad,3
-,shrimp cocktail,3
-,popcorn shrimp,2
-,salmon,2
-,shrimp scampi,2
-,scampi,2
-,curry,2
-,shrimp curry,2
-,sweet and spicy shrimp,1
-,sausageandcomma; shrimp or chicken cacciatore,1
-,kale salad,1
-,shrimp and kale salad,1
-,spicy shrimp,1
-,chilled jumbo shrimp cocktail,1
-,shrimp carbonara,1
-,chicken or shrimp carbonara,1
-,spicy shrimp curry,1
-,carbonara,1
-,fried shrimp basket,1
-,shrimp summer salad,1
-,jumbo shrimp cocktail,1
-,chicken cacciatore,1
-,summer salad,1
-,stuffed shrimp,1
-caribbean
-,curried shrimp,1
-,shrimp,1
+,baby shrimp,27
 southern
 ,shrimp,3
 ,smoked tomato gazpacho (shrimp salsa),1
@@ -280,32 +242,6 @@ healthy
 ,tikka masala,2
 ,shrimp saagwala,2
 ,spicy shrimp salad,1
-indian
-,shrimp,18
-,curry,15
-,shrimp curry,15
-,shrimp masala,14
-,shrimp biryani,14
-,biryani,14
-,vindaloo,13
-,shrimp vindaloo,13
-,saag,11
-,shrimp saag,11
-,tandoori shrimp,11
-,korma,10
-,shrimp korma,10
-,tandoori shrimp masala,4
-,mushroom,4
-,shrimp jalfrezi,3
-,shrimp mushroom,3
-,fried shrimp,3
-,shrimp saagwala,3
-,xacuti,2
-,shrimp jalfrazi,2
-,lamb,2
-,shrimp balchow,2
-,goan shrimp curry,2
-,shrimp xacuti,2
 grill
 ,shrimp,8
 ,shrimp platter,2
@@ -322,12 +258,3 @@ grill
 ,grilled shrimp,1
 ,buffalo shrimp,1
 ,fried buffalo shrimp,1
-other
-,shrimp,2
-,seared shrimp,1
-,scallops,1
-,seared shrimp and scallops,1
-,salad,1
-,poached shrimp,1
-,poached shrimp and arugula salad,1
-,arugula salad,1

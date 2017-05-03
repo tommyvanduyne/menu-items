@@ -24,32 +24,32 @@ american
 ,club,27
 ,parmesan,25
 ,caesar salad,24
-modern european
-,chicken,19
-,salad,5
-,sandwich,5
-,fried chicken,4
-,chicken breast,3
-,fingers,3
-,chicken fingers,3
-,roasted chicken,3
-,chicken blt,2
-,chicken salade,2
-,blt,2
-,chicken sandwich,2
-,chicken paillard,2
-,grilled chicken paillard,2
-,chicken broccoli and ziti,1
-,broccoli,1
-,marsala,1
-,chicken salad over garden salad,1
-,chicken broccoli,1
-,chicken marsala,1
-,ziti,1
-,chicken salad roll up,1
-,chicken parmesan,1
-,parmesan,1
-,garden salad,1
+ethnic
+,chicken,125
+,salad,31
+,curry,25
+,tikka masala,23
+,chicken curry,23
+,chicken tikka masala,23
+,korma,21
+,saag,21
+,vindaloo,19
+,chicken vindaloo,18
+,biryani,18
+,kebab,18
+,chicken tikka,18
+,chicken biryani,17
+,chicken korma,17
+,soup,16
+,sandwich,16
+,tandoori chicken,14
+,wrap,14
+,chicken saag,14
+,chicken soup,12
+,chicken shawarma,11
+,shawarma,11
+,shish kebab,10
+,chicken shish kebab,10
 italian
 ,chicken,439
 ,salad,143
@@ -122,12 +122,12 @@ cafe
 ,chicken sandwich,52
 ,parmesan,51
 ,chicken caesar wrap,49
-,cutlet,49
 ,caesar wrap,49
+,cutlet,49
 ,chicken cutlet,48
 ,caesar,47
-,chicken breast,46
 ,chicken sub,46
+,chicken breast,46
 deli
 ,chicken,458
 ,salad,248
@@ -154,121 +154,32 @@ deli
 ,chicken parmesan,41
 ,chicken caesar wrap,41
 ,caesar,41
-asian
-,chicken,1730
-,rice,310
-,fried rice,216
-,wings,180
-,chicken wings,177
-,teriyaki,136
-,soup,132
-,sauce,118
-,chicken teriyaki,116
-,fingers,111
-,pork fried rice,108
-,chicken fingers,104
-,sesame chicken,103
-,crispy chicken,84
-,broccoli,80
-,with chicken,77
-,general gau's chicken,71
-,kung pao chicken,67
-,chicken fried rice,67
-,special,66
-,noodle soup,63
-,vegetables,61
-,beef,59
-,chicken with broccoli,55
-,curry chicken,53
-african
-,chicken,3
-,tuna,1
-,chicken or tuna,1
-,mild chicken,1
-,2. boneless chicken,1
-,1. boneless chicken,1
-,spicy chicken wings,1
-,1. spicy chicken wings,1
-,wings,1
-,chicken wings,1
-middle eastern
-,chicken,18
-,kebab,10
-,salad,9
-,chicken shawarma,9
-,shawarma,9
-,shish kebab,8
-,chicken shish kebab,8
-,wrap,7
-,sandwich,6
-,chicken shawarma plate,5
-,kabob,5
-,chicken kabob,4
-,lamb,4
-,salad plate,4
-,grilled chicken,4
-,chicken breast,3
-,fingers,3
-,chicken wrap,3
-,soup,3
-,chicken fingers,3
-,chicken kabob plate,3
-,plate with salad,2
-,grilled chicken plate with salad,2
-,pita,2
-,chicken soltani,2
-mediterranean
-,salad,9
-,chicken,9
-,kebab,6
-,wrap,6
-,chicken gyro,5
-,gyro,5
-,chicken salad,5
-,sandwich,5
-,souvlaki,4
-,chicken souvlaki,4
-,chicken kebab,3
-,lamb,3
-,tenders,2
-,cutlet,2
-,chicken caprese sandwich,2
-,chicken tenders,2
-,chicken kebab salad,2
-,shawarma,2
-,caprese sandwich,2
-,shish kebab,2
-,chicken shawarma,2
-,chicken cutlet,2
-,falafel,2
-,chicken shawarma plate,2
-,chicken shawarma rollup,2
 bar
-,chicken,42
-,sandwich,38
-,chicken sandwich,26
-,salad,25
+,chicken,39
+,sandwich,34
+,chicken sandwich,24
+,salad,21
 ,tenders,19
 ,chicken tenders,18
 ,wrap,17
 ,wings,14
-,chicken salad,13
-,fingers,13
 ,chicken wrap,13
-,chicken fingers,13
 ,chicken wings,12
-,curry,10
-,chicken curry,10
+,chicken salad,12
+,fingers,11
+,chicken fingers,11
 ,buffalo chicken wrap,9
-,quesadilla,8
-,chicken quesadilla,8
-,caesar salad,7
-,chicken caesar salad,7
-,pie,6
-,broccoli,5
-,fried chicken sandwich,5
-,chicken pot pie,5
+,chicken curry,9
+,curry,9
+,chicken quesadilla,7
+,quesadilla,7
+,caesar salad,6
+,chicken caesar salad,6
+,sandy,5
+,chicken breast,5
 ,chicken sandy,5
+,fried chicken sandwich,5
+,pie,5
 grill
 ,chicken,56
 ,sandwich,26
@@ -295,18 +206,32 @@ grill
 ,buffalo chicken salad,3
 ,chicken pizza,3
 ,quesadilla,3
-caribbean
-,chicken,7
-,chicken meal,2
-,curry chicken,2
-,stew chicken,2
-,meal,2
-,jerk chicken,1
-,fried chicken meal,1
-,grilled chicken,1
-,fried chicken with waffles,1
-,waffles,1
-,boston chicken,1
+asian
+,chicken,1705
+,rice,310
+,fried rice,216
+,wings,180
+,chicken wings,177
+,teriyaki,134
+,soup,130
+,sauce,118
+,chicken teriyaki,115
+,fingers,111
+,pork fried rice,108
+,chicken fingers,104
+,sesame chicken,103
+,crispy chicken,84
+,broccoli,78
+,with chicken,77
+,general gau's chicken,71
+,chicken fried rice,67
+,kung pao chicken,67
+,special,66
+,noodle soup,62
+,vegetables,61
+,beef,58
+,chicken with broccoli,54
+,curry chicken,50
 southern
 ,chicken,9
 ,fried chicken,2
@@ -359,49 +284,6 @@ healthy
 ,saag,5
 ,chicken soup,5
 ,kabob,5
-other
-,chicken,2
-,wings,1
-,zephyr chicken club,1
-,chicken wings,1
-,chicken scallopini,1
-,roasted half chicken,1
-,half chicken,1
-,chicken club,1
-,grilled chicken quesadilla,1
-,peruvian rotisserie chicken,1
-,rotisserie chicken,1
-,momo,1
-,aphil's himalayan chicken momo,1
-,chicken quesadilla,1
-,quesadilla,1
-,club,1
-indian
-,chicken,42
-,tikka masala,22
-,curry,22
-,chicken tikka masala,22
-,korma,21
-,saag,21
-,chicken curry,20
-,vindaloo,19
-,biryani,18
-,chicken vindaloo,18
-,chicken tikka,17
-,chicken korma,17
-,chicken biryani,17
-,chicken saag,14
-,tandoori chicken,14
-,chicken pakora,9
-,chicken tandoori,9
-,soup,9
-,chicken soup,8
-,mushroom,7
-,chicken tikka saag,7
-,dosa,7
-,naan,7
-,chicken jalfrezi,7
-,chicken mushroom,6
 desserts
 ,sandwich,2
 ,crispy chicken bacon ranch sandwich,1

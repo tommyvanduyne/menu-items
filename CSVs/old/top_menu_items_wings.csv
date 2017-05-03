@@ -24,11 +24,24 @@ american
 ,sweet and spicy chicken wings,2
 ,french fries,2
 ,thai wings,2
-modern european
-,wings,3
-,buffalo tenders or wings,1
-,sauteed skate wings,1
+ethnic
+,wings,12
+,chicken wings,6
+,tandoori wings,1
+,lemongrass wings,1
+,roasted wings,1
+,kids chicken wings,1
+,chicken wingsandcomma; lebanese style,1
+,style,1
+,80. chicken wings,1
 ,buffalo wings,1
+,spicy chicken wings,1
+,sauteed skate wings,1
+,1. spicy chicken wings,1
+,meal,1
+,jerked wings meal,1
+,wings meal,1
+,buffalo tenders or wings,1
 italian
 ,wings,106
 ,chicken wings,43
@@ -125,15 +138,6 @@ deli
 ,chicken wings (12 pieces),2
 ,jumbo wings,2
 ,tenders,2
-african
-,1. spicy chicken wings,1
-,spicy chicken wings,1
-,chicken wings,1
-,wings,1
-mediterranean
-,wings,2
-,roasted wings,1
-,chicken wings,1
 grill
 ,wings,32
 ,buffalo wings,7
@@ -161,7 +165,7 @@ grill
 ,wings or tenders,1
 ,garlic parm wings,1
 asian
-,wings,228
+,wings,227
 ,chicken wings,177
 ,fried chicken wings,26
 ,rice,25
@@ -180,30 +184,26 @@ asian
 ,boneless spareribs,5
 ,spareribs,5
 ,buffalo wings,5
-,special combo,4
 ,hot,4
 ,garlic chicken wings,4
+,special combo,4
 ,fingers,4
 ,5. chicken wings,4
 ,chicken teriyaki,3
-caribbean
-,jerked wings meal,1
-,wings meal,1
-,meal,1
 southern
 ,wings,2
 ,chicken wings,2
 ,honey habanero spiced chicken wings,1
 bar
-,wings,42
-,buffalo wings,13
+,wings,40
+,buffalo wings,12
 ,chicken wings,12
 ,boneless buffalo wings,4
 ,buffalo chicken wings,3
 ,boneless wings,2
 ,patriot maple glazed wings,1
-,chicken tenders or wings,1
 ,buffalo style chicken wings,1
+,chicken tenders or wings,1
 ,1 lb homemade boneless wings,1
 ,american wings,1
 ,2 lbs homemade boneless wings,1
@@ -213,7 +213,6 @@ bar
 ,guinness bbq wings,1
 ,bbq wings,1
 ,12 pieces wings,1
-,buffalo tenders or wings,1
 ,teriyaki wings,1
 ,tenders,1
 ,hog wings,1
@@ -226,17 +225,3 @@ healthy
 ,chicken wings,1
 ,grilled saffron wings,1
 ,buffalo wings,1
-indian
-,wings,2
-,tandoori wings,1
-,chicken wings,1
-middle eastern
-,wings,2
-,chicken wings,2
-,chicken wingsandcomma; lebanese style,1
-,style,1
-,80. chicken wings,1
-,kids chicken wings,1
-other
-,chicken wings,1
-,wings,1

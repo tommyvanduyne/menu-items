@@ -107,31 +107,24 @@ deli
 ,supreme pizza,6
 ,grilled chicken pizza,5
 bar
-,pizza,19
-,white pizza,2
-,margarita pizza,2
-,breakfast pizza,2
+,pizza,9
 ,margherita pizza,2
-,cheese pizza,2
-,mushroom pizza,1
-,fontina,1
 ,pita pizza,1
-,scallion,1
-,grilled margherita pizza,1
+,mushroom pizza,1
+,pizza of the day,1
+,north end pizza,1
 ,chicken spinach pizza,1
 ,spinach pizza,1
-,north end pizza,1
+,scallion,1
+,grilled margherita pizza,1
 ,steak tip pizzaandcomma; truffled mashandcomma; fontina and scallion,1
-,pizza of the day,1
 ,prosciutto,1
-,hawaiian pizza,1
-,goat cheese pizza,1
-,pepperoni pizza,1
-,pesto pizza,1
-,chicken pesto pizza,1
-,veggie pizza,1
 ,prosciutto and artichoke white pizza,1
-,cheeseburger pizza,1
+,white pizza,1
+,pizza port panzer,1
+,margarita pizza,1
+,breakfast pizza,1
+,fontina,1
 grill
 ,pizza,21
 ,cheese pizza,4
@@ -171,47 +164,29 @@ healthy
 ,paneer kadhai pizza,1
 ,chicken tikka masala pizza,1
 ,paneer saagwala pizza,1
-modern european
-,pizza,10
-,cheese pizza,2
+ethnic
+,pizza,30
+,cheese pizza,3
+,veggie pizza,2
+,white pizza,2
+,pepperoni pizza,2
+,sicilian pizza,1
+,spicy pepperoni pizza,1
+,chicken dopizza,1
+,roast lamb pide pizza,1
+,kabab pizza,1
+,smoked duck pizza,1
+,flat bread pizza,1
+,chicken caesar pizza,1
+,bbq duck pizza,1
+,traditional margherita pizza,1
+,margherita pizza,1
+,"""dolce vita"" grilled pizza",1
+,sausage,1
+,california pizza,1
+,trukish pastrami pide pizza,1
 ,pesto pizza,1
 ,chicken pesto pizza,1
-,cheeseburger pizza,1
-,breakfast pizza,1
 ,hawaiian pizza,1
-,white pizza,1
-,pepperoni pizza,1
-,veggie pizza,1
-,margarita pizza,1
 ,goat cheese pizza,1
-mediterranean
-,pizza,13
-,"""dolce vita"" grilled pizza",1
-,sicilian pizza,1
-,flat bread pizza,1
-,margherita pizza,1
-,bbq duck pizza,1
-,chicken caesar pizza,1
-,traditional margherita pizza,1
-,roast lamb pide pizza,1
-,sausage,1
-,cheese pide pizza,1
-,lahmajun pizza,1
-,beef pide pizza,1
-,turkish sausage pide pizza,1
-,meat chunks pide pizza,1
-,trukish pastrami pide pizza,1
-,turkish sausage and pastrami pide pizza,1
-indian
-,pizza,3
-,chicken dopizza,1
-,veggie pizza,1
-,kabab pizza,1
-,cheese pizza,1
-other
-,pizza,4
-,california pizza,1
-,white pizza,1
-,spicy pepperoni pizza,1
-,pepperoni pizza,1
-,smoked duck pizza,1
+,margarita pizza,1

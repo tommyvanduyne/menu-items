@@ -50,32 +50,32 @@ italian
 ,caprese sandwich,3
 ,turkey sandwich,3
 ,sandwich plate,3
-modern european
-,sandwich,28
+ethnic
+,sandwich,100
+,cheese sandwich,5
 ,ham,3
-,chicken sandwich,2
-,turkey sandwich,2
-,cheese sandwich,2
-,club sandwich,2
+,gyro sandwich,3
+,souvlaki sandwich,3
+,chicken sandwich,3
+,grape leaves sandwich,3
+,fresh mozzarella sandwich,2
+,egg sandwich,2
+,sandwiches,2
+,caprese sandwich,2
+,egg,2
+,chicken caprese sandwich,2
 ,mushroom sandwich,2
-,baked portabella mushroom sandwich,1
-,our soup du jour and one of the above sandwiches,1
-,baguette sandwich,1
-,grilled chicken sandwich,1
-,open faced portabella saute sandwich,1
-,b.b.q. chicken sandwich,1
-,soup du jour,1
-,portabella mushroom sandwich,1
-,ham and hceese parisian sandwichs,1
-,toasted cheese sandwich,1
-,chicken salad sandwich,1
-,fish sandwich,1
-,spanish ham and manchego sandwich,1
-,cubano sandwich,1
-,famouse ham and cheese parisian sandwich,1
-,pork sandwich,1
-,pulled pork sandwich,1
-,sandwiches,1
+,cheese,2
+,turkey sandwich,2
+,club sandwich,2
+,breakfast sandwich,2
+,fried egg sandwich,2
+,34. halloumi sandwich,1
+,40. tabbooli sandwich,1
+,37. cauliflower sandwich,1
+,38. okra sandwich,1
+,39. batata harra sandwich,1
+,36. moujadara sandwich,1
 cafe
 ,sandwich,916
 ,cheese sandwich,91
@@ -128,58 +128,6 @@ deli
 ,steak,9
 ,cheese,8
 ,egg salad sandwich,8
-asian
-,sandwich,21
-,chicken sandwich,3
-,egg sandwich,2
-,fries,1
-,french fries,1
-,fd3. chicken sandwich with french fries,1
-,ham sandwich,1
-,p43. minced beef sandwich cake,1
-,sushi sandwich,1
-,cookie,1
-,cornmeal lime sandwich cookie,1
-,pork sandwich,1
-,bbq pork sandwich,1
-,gra prow sandwich,1
-,bbq chicken sandwich,1
-,bbq beef sandwich,1
-,pretty good chicken sandwich,1
-,regular sandwich,1
-,cake,1
-,steak,1
-,ham and egg sandwich,1
-,ham,1
-,japanese mini pancake sandwich,1
-,h18. seafood sandwich,1
-,the bon me sandwich,1
-mediterranean
-,sandwich,25
-,souvlaki sandwich,3
-,gyro sandwich,3
-,cheese,2
-,cheese sandwich,2
-,egg,2
-,chicken caprese sandwich,2
-,caprese sandwich,2
-,mucver sandwich,1
-,vegetables gozi flat bread sandwich,1
-,egg sandwich with meat and cheese,1
-,lentil kofte sandwich,1
-,hommous sandwich,1
-,falefel sandwich,1
-,grape leaves sandwich,1
-,steak gozi flat bread sandwich,1
-,meat,1
-,falafel gozi flat bread sandwich,1
-,bacon egg and cheese sandwich,1
-,eggplant salad sandwich,1
-,egg sandwich with cheese,1
-,chicken gozi flat bread sandwich,1
-,with cheese,1
-,grilled chicken caprese sandwich,1
-,western sandwich,1
 grill
 ,sandwich,79
 ,chicken sandwich,17
@@ -206,6 +154,32 @@ grill
 ,buffalo chicken sandwich,2
 ,cuban sandwich,2
 ,chicken breast sandwich,2
+asian
+,sandwich,19
+,chicken sandwich,3
+,egg sandwich,2
+,sushi sandwich,1
+,fd3. chicken sandwich with french fries,1
+,french fries,1
+,fries,1
+,cookie,1
+,ham sandwich,1
+,pretty good chicken sandwich,1
+,pork sandwich,1
+,bbq pork sandwich,1
+,gra prow sandwich,1
+,bbq chicken sandwich,1
+,bbq beef sandwich,1
+,p43. minced beef sandwich cake,1
+,regular sandwich,1
+,cornmeal lime sandwich cookie,1
+,cheese sandwich,1
+,ham,1
+,sliced beef sandwich,1
+,ham and egg sandwich,1
+,japanese mini pancake sandwich,1
+,steamed bun sandwich,1
+,h18. seafood sandwich,1
 mexican or latin
 ,sandwich,12
 ,chicken sandwich,2
@@ -265,62 +239,32 @@ southern
 ,fried chicken and baconnaise sandwich,1
 ,fried chicken,1
 ,chicken,1
-other
-,lah breakfast sandwich,1
-,breakfast sandwich,1
-,sandwich,1
 bar
-,sandwich,95
-,chicken sandwich,26
-,breakfast sandwich,7
-,cheese sandwich,5
-,grilled chicken sandwich,5
+,sandwich,81
+,chicken sandwich,24
+,breakfast sandwich,6
 ,fried chicken sandwich,5
-,fish sandwich,5
-,chicken salad sandwich,4
-,turkey sandwich,4
 ,pulled pork sandwich,4
+,fish sandwich,4
+,grilled chicken sandwich,4
 ,pork sandwich,4
+,cheese sandwich,3
+,turkey sandwich,3
+,chicken salad sandwich,3
+,irish breakfast sandwich,2
 ,sandwiches,2
-,bbq chicken sandwich,2
 ,grilled bbq chicken sandwich,2
 ,steak sandwich,2
-,irish breakfast sandwich,2
-,pastrami,2
+,bbq chicken sandwich,2
 ,corned beef sandwich,2
-,reuben sandwich,2
-,steak tip sandwich,2
-,deluxe,1
-,garlic chicken sandwich,1
-,cajun chicken sandwich,1
 ,chicken sandwich deluxe,1
 ,tuna salad sandwich,1
-middle eastern
-,sandwich,42
-,grape leaves sandwich,2
-,fresh mozzarella sandwich,2
-,34. halloumi sandwich,1
-,36. moujadara sandwich,1
-,eggplant sandwich,1
-,fried eggplant sandwich,1
-,33. labneh sandwich,1
-,35. fried eggplant sandwich,1
-,32. vegetarian grape leaves sandwich,1
-,28. hummous sandwich,1
-,29. baba ghanoosh sandwich,1
-,30. fool moudammas sandwich,1
-,31. vegetarian pumpkin kibby sandwich,1
-,37. cauliflower sandwich,1
-,39. batata harra sandwich,1
-,2. cajun chicken sandwich,1
+,barbequed chicken sandwich,1
 ,cajun chicken sandwich,1
-,1. vegetarian kabob sandwich,1
-,2. moti's summer sandwich,1
-,3. hummus sandwich,1
-,hummus sandwich,1
-,chicken sandwich,1
-,2. shish kabob sandwich,1
-,40. tabbooli sandwich,1
+,meatloaf sandwich,1
+,steak and cheese sandwich,1
+,grilled chicken sandwich (with pistachio pesto),1
+,portabella sandwich,1
 desserts
 ,sandwich,14
 ,crispy chicken bacon ranch sandwich,1
@@ -344,7 +288,3 @@ desserts
 ,italian sandwich,1
 ,crispy chicken sandwich,1
 ,tuna salad sandwich,1
-indian
-,sandwich,2
-,03. western omelet sandwich,1
-,01. punjabi omelet sandwich,1

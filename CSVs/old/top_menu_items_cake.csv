@@ -50,32 +50,32 @@ italian
 ,chocolate layer cake,3
 ,sliders,3
 ,flourless chocolate cake,3
-modern european
-,cake,9
-,pancakes,6
-,cheesecake,2
+ethnic
+,cake,35
+,pancakes,23
+,chocolate cake,8
+,cheesecake,8
+,cheese cake,4
+,chocolate mousse cake,3
+,mousse cake,3
+,carrot cake,3
+,toast,3
+,chocolate,3
+,cakes,3
+,molten chocolate cake,3
+,french toast,2
 ,tres leches cake,2
-,potato pancakes,2
-,chocolate cake,2
+,rice,2
+,pancakes and texas french toast with blueberry,2
+,pancakes and texas french toast with chocolate,2
 ,buttermilk pancakes,2
-,salad,1
-,potato pancake club with boursin,1
+,crab cake,2
+,potato pancakes,2
+,with blueberry,2
+,blueberry,2
+,house cake,1
+,cappuccino cake,1
 ,boursin,1
-,crab cakes over garden salad,1
-,rum cake,1
-,garden salad,1
-,apricot lemon rum cake,1
-,three layer home made napoleon cake,1
-,goat milk cheesecake,1
-,sweet potato pancakes,1
-,smoked bluefish cakes,1
-,vanilla bean cheesecake,1
-,pumpkin seed pancakes,1
-,cabernet sauvignon,1
-,fennel,1
-,hot chocolate pudding cake,1
-,fennel and potato pancakes,1
-,toasted coconut layer cake,1
 mexican or latin
 ,cake,6
 ,cheesecake,4
@@ -154,32 +154,6 @@ deli
 ,fudge cake,2
 ,cheesecake brownie,2
 ,red velvet cake,2
-asian
-,cake,145
-,pancake,131
-,scallion pancake,82
-,pancakes,45
-,scallion pancakes,31
-,mousse cake,13
-,cheesecake,10
-,cheese cake,10
-,pork,9
-,cakes,9
-,fish cake,8
-,turnip cake,7
-,seafood scallion pancake,6
-,seafood pancake,6
-,mango mousse cake,5
-,soup,5
-,kimchi pancake,5
-,coconut cake,4
-,fruit cake,4
-,cream cake,4
-,cabbage,4
-,chocolate cake,4
-,crab cake,4
-,mixed fruit cake,3
-,strawberry cheesecake,3
 grill
 ,cake,7
 ,pancakes,6
@@ -206,15 +180,32 @@ grill
 ,three griddlecakes,1
 ,griddlecake supreme,1
 ,caramel apple griddlecakes,1
-caribbean
-,cake,5
-,cheese cake,1
-,red velvet cake,1
-,carrot cake,1
-,fishcake,1
-,salmon cake,1
-,pancakes,1
-,fruit cake,1
+asian
+,cake,143
+,pancake,131
+,scallion pancake,82
+,pancakes,45
+,scallion pancakes,31
+,mousse cake,12
+,cheese cake,10
+,cakes,9
+,pork,9
+,cheesecake,9
+,fish cake,8
+,turnip cake,7
+,seafood scallion pancake,6
+,seafood pancake,6
+,soup,5
+,mango mousse cake,5
+,kimchi pancake,5
+,cream cake,4
+,fruit cake,4
+,cabbage,4
+,chocolate cake,4
+,coconut cake,4
+,crab cake,4
+,vegetables,3
+,strawberry cheesecake,3
 southern
 ,chocolate chip pancakes,1
 ,pancakes,1
@@ -255,40 +246,6 @@ healthy
 ,pound cake,1
 ,carrot cake,1
 ,chocolate cake,1
-other
-,cake,2
-,crab cake,1
-,local jonah crab cake,1
-,pancakes,1
-,coffee cake,1
-,mascarpone cheesecake,1
-,cheesecake,1
-bar
-,cake,11
-,cakes,8
-,pancakes,7
-,chocolate cake,4
-,crab cakes,4
-,pumpkin cake,2
-,fish cakes,2
-,carrot cake,2
-,chocolate 3 layer cake,1
-,layer cake,1
-,strawberry shortcake,1
-,cheesecake,1
-,maryland crab cakes,1
-,mocha ice box cake,1
-,benedict,1
-,crab cake benedict,1
-,apple crumble pancakes,1
-,new england crab cakes,1
-,flourless chocolate cake,1
-,brown butter pumpkin cake,1
-,apple cheesecake,1
-,assorted mini cupcakes,1
-,buttermilk pancakes with cinnamon butter,1
-,cocktail rice cakes,1
-,butter,1
 desserts
 ,cake,20
 ,cheesecake,11
@@ -315,62 +272,29 @@ desserts
 ,strawberry cheese cake,1
 ,crumbs cheese cake,1
 ,wedding cake,1
-mediterranean
-,pancakes,15
-,chocolate,3
-,toast,3
-,blueberry,2
-,with blueberry,2
-,pancakes and texas french toast with blueberry,2
-,pancakes and texas french toast with chocolate,2
-,french toast,2
-,lemon poppyseed pancakes,1
-,chocolate cake,1
-,cheesecake,1
-,chocolate chip pancakes,1
-,kohlrabi pancake,1
-,pancake,1
-,milk chocolate chip pancakes,1
-,cake,1
-,laz pancakes,1
-,pancakes and texas french toast,1
-,cranberry,1
-,texas french toast,1
-,pancakes and texas french toast with cranberry,1
-,pancakes and texas french toast with cranbeery,1
-,pancakes and texas french toast chocolate,1
-,pancakes and texas french toast with strawbeery,1
-indian
-,cake,4
-,cheesecake,2
-,chocolate cake,1
-,molten chocolate cake,1
-,mousse cake,1
-,chocolate mousse cake,1
-,malabar crab cakes,1
-,mango cheesecake,1
-,cakes,1
-,61. bowl-shaped thin pancake made from fermented rice flour batter of ground soaked rice and coconut milk,1
-,cappuccino cake,1
-,rice,1
-,milk,1
-,coconut milk,1
-,crab cakes,1
-middle eastern
+bar
 ,cake,11
-,chocolate cake,3
-,cheese cake,3
+,cakes,8
+,pancakes,7
+,chocolate cake,4
+,crab cakes,4
+,fish cakes,2
+,pumpkin cake,2
 ,carrot cake,2
+,layer cake,1
 ,cheesecake,1
-,homemade namura (honey cake),1
-,house cake,1
-,homemade carrot cake,1
-,mousse cake,1
-,cakes,1
-,fish cakes,1
-,chocolate mousse cake,1
-,nougat cake,1
-african
-,molten chocolate cake,1
-,chocolate cake,1
-,cake,1
+,maryland crab cakes,1
+,chocolate 3 layer cake,1
+,new england crab cakes,1
+,benedict,1
+,crab cake benedict,1
+,apple crumble pancakes,1
+,strawberry shortcake,1
+,mocha ice box cake,1
+,brown butter pumpkin cake,1
+,apple cheesecake,1
+,cupcakes,1
+,cocktail rice cakes,1
+,aussie lamington cake,1
+,buttermilk pancakes with cinnamon butter,1
+,butter,1

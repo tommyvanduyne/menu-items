@@ -24,32 +24,32 @@ american
 ,sliders,9
 ,beef burger,9
 ,texas burger,8
-modern european
-,burger,20
+ethnic
+,burger,41
+,hamburger,4
+,veggie burger,4
+,beef burger,4
+,chicken burger,3
+,cheeseburger,3
+,grass fed burger,2
+,pita,2
+,strauss grass fed burger,2
 ,schlow burger,2
-,"jacky's 9"" burgerdog",1
-,grilled sirloin beef burger,1
-,beef burger,1
-,cheeseburger pizza,1
-,char-grilled lamb burger,1
-,pizza,1
-,sirloin burger,1
-,an tain burger,1
-,grilled french burger,1
-,veggie burger,1
-,druid veggie burger,1
-,druid burger,1
+,hamburger with salad in pita,2
+,lamb burger,2
+,salad in pita,2
+,angus burger,2
+,cheese burger,2
+,sirloin burger,2
+,hamburger with french fries,2
+,french fries,2
+,fries,2
 ,the schlow burger,1
-,lamb burger,1
+,grilled sirloin beef burger,1
+,druid burger,1
+,grilled french burger,1
 ,prb burger,1
-,the gourmand sirloin burger,1
-,the classic burger,1
-,grileld brasserie jo burger,1
-,10oz maine family farm burger,1
-,angus burger,1
-,grand jo chicken burger,1
-,chicken burger,1
-,8 oz. burger,1
+,druid veggie burger,1
 italian
 ,burger,118
 ,cheeseburger,59
@@ -128,52 +128,32 @@ deli
 ,club sandwich,6
 ,cheeseburger with fries,5
 ,mushroom swiss burger,5
-mediterranean
-,burger,7
-,hamburger,2
-,cheeseburger,2
-,prime sirloin burger,1
-,sirloin burger,1
-,beef burger,1
-,kobe beef burger,1
-,chef's burger,1
-,yellow fin tuna steak burger,1
-,steak burger,1
-,veggie burger,1
-,lamb burger,1
-,homemade cheeseburger,1
-,homemade hamburger,1
-,deluxe,1
-,cheeseburger deluxe,1
-,hamburger (5 oz),1
-,cheeseburger (5 oz),1
-,angus burger,1
 bar
-,burger,117
-,veggie burger,14
+,burger,113
+,veggie burger,13
 ,cheeseburger,7
 ,cheese burger,6
 ,turkey burger,5
-,black bean burger,4
 ,bean burger,4
+,black bean burger,4
 ,cheeseburger sliders,3
 ,breakfast burger,3
 ,sliders,3
 ,hamburger,3
+,beef burger,2
 ,mini burgers,2
 ,fries,2
-,beef burger,2
 ,burgers,2
-,mini burgers and fries,2
-,dublin burger,2
 ,mj's burger,2
+,dublin burger,2
 ,angus burger,2
 ,salmon burger,2
 ,lamb burger,2
-,blues,1
-,bacon burger,1
-,willie somers burger,1
-,john joes burgern blues,1
+,mini burgers and fries,2
+,6. veggie burger,1
+,classic cheeseburger,1
+,5. turkey burger,1
+,the ned burger,1
 grill
 ,burger,113
 ,cheeseburger,21
@@ -240,12 +220,6 @@ healthy
 ,chicken burger,1
 ,grilled chicken burger,1
 ,quinoa burger on arugula with spicy almond spread,1
-other
-,burger,3
-,strauss grass fed burger,2
-,grass fed burger,2
-,regional strauss grass fed burger,1
-,l.a.h. griddle burger,1
 asian
 ,burger,5
 ,hamburger,2
@@ -266,34 +240,3 @@ asian
 ,chicken ka-pow burger,1
 ,kimchi burger,1
 ,thai spicy crispy chicken burger,1
-indian
-,burger,3
-,fish burger,1
-,chicken burger,1
-,beef burger,1
-middle eastern
-,burger,8
-,french fries,2
-,veggie burger,2
-,fries,2
-,hamburger with salad in pita,2
-,pita,2
-,salad in pita,2
-,cheese burger,2
-,hamburger with french fries,2
-,hamburger,2
-,kids burger,1
-,½lb. cheeseburger (natural),1
-,lamb burger with cheese,1
-,with cheese,1
-,moroccan cheese burger,1
-,cheese,1
-,½lb. hamburger (natural),1
-,homemade veggie burger,1
-,1/4 lb. cheeseburger,1
-,cheddar burger,1
-,cheeseburger,1
-,hamburger rollup,1
-,1/4 lb. hamburger,1
-,6 oz. cheddar burger,1
-,chicken burger,1

@@ -102,38 +102,32 @@ deli
 ,steak tip wrap,5
 ,beef wrap,5
 ,blt wrap,5
-modern european
-,smoked turkey wrap,1
-,turkey wrap,1
-,wrap,1
-,bacon wrapped rabbit,1
-,rabbit,1
-mediterranean
-,wrap,27
+ethnic
+,wrap,53
+,kabob wrap,7
+,chicken wrap,4
+,chicken caesar wrap,3
+,falafel wrap,3
+,wraps,3
+,caesar wrap,3
+,eggplant wrap,2
+,kafta kabob wrap,2
+,greek salad wrap,2
 ,salad,2
-,falafel wrap,2
-,chicken kabob pita wrap,1
-,baked kibbee pita wrap,1
-,veggie pita wrap,1
-,beef shawarma pita wrap,1
-,grilled kafta kabob wrap,1
-,kafta kabob wrap,1
-,falafel pita wrap,1
-,chicken shawarma pita wrap,1
-,hummus pita wrap,1
-,chicken caesar wrap,1
-,grilled chicken caesar wrap,1
-,cobb salad wrap,1
-,caesar wrap,1
-,yellow fin tuna wrap,1
-,veggie grape leaves pita wrap,1
+,shish kabob wrap,2
+,lettuce wraps,1
+,lobster lettuce wraps,1
 ,tuna pita wrap,1
-,tuna wrap,1
-,kabob wrap,1
-,veggie wrap,1
-,chicken wrap,1
-,grilled chicken wrap,1
-,tuna salad wrap,1
+,buffalo chicken wrap,1
+,caesar salad wrap,1
+,veggie lover wrap,1
+,vegetarian pita wrap,1
+,texas buffalo chicken wrap,1
+,cobb club wrap,1
+,yellow fin tuna wrap,1
+,shawarma wrap,1
+,greek chicken wrap,1
+,chicken mozzarella wrap,1
 grill
 ,wrap,4
 ,caesar wrap,2
@@ -223,68 +217,28 @@ healthy
 ,grilled shrimp wrapped in vine leaves,1
 ,southwestern breakfast hot wrap,1
 bar
-,wrap,32
+,wrap,31
 ,chicken wrap,13
 ,buffalo chicken wrap,9
 ,caesar wrap,6
 ,chicken caesar wrap,3
-,turkey club wrap,2
 ,sandwich,2
+,turkey club wrap,2
+,grilled buffalo chicken wrap,1
+,steak wrap,1
+,grilled veggie wrap,1
+,scallops wrapped in bacon,1
 ,haddock wrap,1
 ,veggie wrap,1
-,honey bbq chicken wrap,1
-,crispy chicken wrap,1
-,grilled buffalo chicken wrap,1
-,bacon,1
-,scallops wrapped in bacon,1
-,grilled veggie wrap,1
-,steak wrap,1
-,california club wrap,1
 ,blt wrap,1
-,bbq chicken wrap,1
-,cali wrap,1
+,honey bbq chicken wrap,1
 ,steak tip caesar wrap,1
-,teriyaki steak wrap,1
+,crispy chicken wrap,1
+,bbq chicken wrap,1
 ,turkey blt wrap,1
-,buffalo wrap,1
-,lettuce wraps,1
-indian
-,wrap,2
-,wraps,1
-,04. omelet wraps,1
-,beef shish kabab wrap,1
-,chicken shish kabob wrap,1
-,kabob wrap,1
-,shish kabob wrap,1
-middle eastern
-,wrap,22
-,kabob wrap,5
-,chicken wrap,3
-,chicken caesar wrap,2
-,caesar wrap,2
-,eggplant wrap,2
-,chicken mozzarella wrap,1
-,shawarma wrap,1
-,greek chicken wrap,1
-,shish kabob wrap,1
-,kafta kabob wrap,1
-,beef wrap,1
-,cauliflower wrap,1
-,orfali kabob wrap,1
-,dejaj kabob wrap,1
-,chicken kabob wrap,1
-,texas buffalo chicken wrap,1
-,buffalo chicken wrap,1
-,veggie lover wrap,1
-,cobb club wrap,1
-,falafel wrap,1
-,greek salad wrap,1
-,philippe's eggplant wrap,1
-,caesar salad wrap,1
-,vegetarian pita wrap,1
-other
-,veggie power wrap,1
-,wrap,1
-,lobster lettuce wraps,1
-,lettuce wraps,1
-,wraps,1
+,california club wrap,1
+,bacon,1
+,teriyaki steak wrap,1
+,tuna wrap,1
+,bacon wrapped meatloaf,1
+,cajun caesar wrap,1

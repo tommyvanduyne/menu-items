@@ -51,31 +51,31 @@ italian
 ,piemonte,2
 ,pecan pie,2
 cafe
-,pie,113
+,pie,107
 ,chicken,21
 ,spinach pie,15
 ,pies,13
 ,apple pie,9
 ,wings,8
-,chicken pot pie,5
-,pumpkin pie,5
 ,fried chicken,5
 ,key lime pie,5
+,pumpkin pie,5
 ,dinner,4
-,cheese pie,4
-,salad,3
-,pie of the day,3
-,boston cream pie,3
-,cakes,3
-,buffalo wings,3
-,chicken fingers,3
-,fingers,3
-,reese's pieces,3
-,whoopie pies,3
-,whoopie pie,3
-,rice krispie treats,3
+,chicken pot pie,4
 ,ricotta pie,3
 ,pecan pie,3
+,pie of the day,3
+,reese's pieces,3
+,boston cream pie,3
+,rice krispie treats,3
+,whoopie pies,3
+,salad,3
+,buffalo wings,3
+,whoopie pie,3
+,fingers,3
+,cakes,3
+,chicken fingers,3
+,chicken wings (8 pieces),2
 deli
 ,pie,47
 ,chicken,21
@@ -102,50 +102,32 @@ deli
 ,buffalo fingers (10 pieces),2
 ,rice,2
 ,buffalo wings (12 pieces),2
-asian
-,pie,28
-,appetizer,7
-,scallion pie,4
-,dumplings,4
-,gyoza,2
-,beef skewers,2
-,sushi,2
-,skewers,2
-,pot stickers,2
-,chicken dumplings,2
-,scallions pie,2
-,pumpkin pie,2
-,crab rangoon,2
-,pierogi dumplings,2
-,shumai,2
-,6 piece gyoza,2
-,key lime pie,2
-,choco pudding pie,2
-,12 pieces,2
-,juice,1
-,vegetarian roll (4 pieces),1
-,pienapple power juice,1
-,veggie or shrimp shumai (7 pieces),1
-,120 pieces,1
-,power juice,1
-mediterranean
-,pie,12
-,spinach pie,9
-,spinach and feta pie,1
-,spinach,1
-,spinach pie plate,1
-,spanakopita-spinach pie,1
-,cheese pie,1
-,spanakopita (spinach pie),1
-,spanakopita spinach pie,1
-,spinach pie and rice,1
-,grape leaves and spinach pie,1
-,mousaka,1
-,grape leaves,1
-,pastichio and spinach pie,1
-,mousaka and spinach pie,1
-,pastichio,1
-,rice,1
+ethnic
+,pie,34
+,spinach pie,18
+,meat pie,4
+,cheese pie,2
+,grape leaves,2
+,sheperds pie en crut,1
+,salade pierrot,1
+,pierre sparrandcomma; cremant roseandcomma; nv,1
+,gewurztraminerandcomma; pierre sparrandcomma; 2009,1
+,"alsatian blendandcomma; pierre sparr ""one"" andcomma; 2009",1
+,57. spinach pie,1
+,one piece of grape leaves,1
+,pies,1
+,paupiette of dover sole and shrimp,1
+,58. zaartar pie,1
+,60. lamajeun pie,1
+,shrimp,1
+,feta cheese spinach pie,1
+,individual piece of baklava,1
+,42. meat pie,1
+,44. spinach pie,1
+,45. cheese pie,1
+,baklava,1
+,shepherd's pie,1
+,one piece of falafel,1
 grill
 ,pie,25
 ,pecan pie,4
@@ -172,6 +154,32 @@ grill
 ,shepherd's pie,1
 ,beef,1
 ,shephard's pie,1
+asian
+,pie,27
+,appetizer,7
+,scallion pie,4
+,dumplings,4
+,shumai,2
+,6 piece gyoza,2
+,gyoza,2
+,beef skewers,2
+,pot stickers,2
+,chicken dumplings,2
+,pumpkin pie,2
+,sushi,2
+,scallions pie,2
+,crab rangoon,2
+,skewers,2
+,pierogi dumplings,2
+,choco pudding pie,2
+,12 pieces,2
+,pienapple power juice,1
+,satay trio (6 pieces),1
+,vegetarian roll (4 pieces),1
+,power juice,1
+,juice,1
+,veggie or shrimp shumai (7 pieces),1
+,crab wonton (8 pieces),1
 southern
 ,apple pie,1
 ,zaks grandmas apple pie,1
@@ -206,49 +214,6 @@ healthy
 ,2 piece gulab jamun,1
 ,ras malai,1
 ,2 piece mustard lamb,1
-modern european
-,pie,4
-,paupiette of dover sole and shrimp,1
-,gewurztraminerandcomma; pierre sparrandcomma; 2009,1
-,dover sole,1
-,shrimp,1
-,shepherd's pie,1
-,home made potato pierogies,1
-,"alsatian blendandcomma; pierre sparr ""one"" andcomma; 2009",1
-,salade pierrot,1
-,pie de limón,1
-,boston cream pie,1
-,shepherds pie,1
-,limerick shepherds pie,1
-,sheperds pie en crut,1
-,chicken pot pie,1
-,pierre sparrandcomma; cremant roseandcomma; nv,1
-bar
-,pie,44
-,shepherd's pie,14
-,shepherds pie,8
-,chicken pot pie,5
-,cottage pie,2
-,vegetarian cottage pie,1
-,vegetable pot pie,1
-,martini,1
-,kelpie,1
-,chocolate whoopie pies,1
-,banana cream pie martini,1
-,vegetarian shepherds pie,1
-,"2010 beaujolaisandcomma; marcell lapierre ""raison gaulois"" andcomma; burgundy: gamay",1
-,traditional shepherd's pie,1
-,lansdowne pie,1
-,traditional shepherds pie,1
-,mocha cream pie,1
-,sheperd's pie,1
-,whoopie pies,1
-,sheppard's pie,1
-,seafood pot pie,1
-,clapshot pie,1
-,steak and mushroom pie,1
-,steak,1
-,fisherman's pie,1
 desserts
 ,pie,26
 ,pumpkin pie,3
@@ -275,33 +240,32 @@ desserts
 ,blackberry pie,1
 ,belgian chocolate pecan pie,1
 ,pie a la mode,1
-indian
-,22. idly vada (idly 2 pieces and vada 1),1
-,vegetable samosa (2 pieces),1
-,egg pakora (5 pieces),1
-,chicken fitter (5 pieces),1
-,vegetable pakora (5 pieces),1
-middle eastern
-,pie,17
-,spinach pie,9
-,meat pie,4
-,individual piece of baklava,1
-,feta cheese spinach pie,1
-,baklava,1
-,44. spinach pie,1
-,45. cheese pie,1
-,cheese pie,1
-,60. lamajeun pie,1
-,42. meat pie,1
-,pies,1
-,falafel,1
-,vegetable pie,1
-,20. spinach pie,1
-,one piece of falafel,1
-,grape leaves,1
-,57. spinach pie,1
-,one piece of grape leaves,1
-,58. zaartar pie,1
+bar
+,pie,41
+,shepherd's pie,13
+,shepherds pie,7
+,chicken pot pie,4
+,cottage pie,2
+,martini,1
+,vegetable pot pie,1
+,vegetarian shepherds pie,1
+,kelpie,1
+,banana cream pie martini,1
+,vegetarian cottage pie,1
+,sheppard's pie,1
+,traditional shepherd's pie,1
+,lansdowne pie,1
+,traditional shepherds pie,1
+,mocha cream pie,1
+,sheperd's pie,1
+,"2010 beaujolaisandcomma; marcell lapierre ""raison gaulois"" andcomma; burgundy: gamay",1
+,chocolate whoopie pies,1
+,seafood pot pie,1
+,highlander steak pie,1
+,steak,1
+,fisherman's pie,1
+,welsh cottager's chicken pie,1
+,steak and mushroom pie,1
 mexican or latin
 ,brut sparklingandcomma; dom pierreandcomma; california,1
 ,california,1

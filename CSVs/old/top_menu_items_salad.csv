@@ -24,32 +24,32 @@ american
 ,chef salad,18
 ,classic caesar salad,17
 ,steak,17
-modern european
-,salad,58
-,caesar salad,6
+ethnic
+,salad,304
+,greek salad,22
+,salad plate,20
+,garden salad,19
+,caesar salad,13
+,fattoush salad,10
+,chicken salad,9
+,falafel salad plate,9
+,green salad,9
+,wrap,9
+,pita,8
+,beet salad,7
+,hummus falafel salad plate,7
+,salad in pita,6
+,hummus salad plate,6
+,mediterranean salad,6
+,tuna salad,5
+,shawarma salad,5
+,eggplant salad,5
+,house salad,5
+,plate with salad,5
+,cucumber salad,5
 ,nicoise,5
-,beet salad,4
 ,ensalada mixta,4
-,salade nicoise,4
-,endive,3
-,kale salad,3
-,green salad,3
-,fruit salad,3
-,radish salad,3
-,garden salad,2
-,sandwich,2
-,salmon salad,2
-,chicken,2
-,belgian endive salade,2
-,apple,2
-,shrimp salad,2
-,niçoise salade,2
-,beet,2
-,chicken salade,2
-,salade verte,1
-,mixed green salad or bibb lettuce,1
-,coeurs de palmiers,1
-,salade d'endives,1
+,kale salad,4
 italian
 ,salad,888
 ,caesar salad,132
@@ -125,9 +125,9 @@ cafe
 ,house salad,23
 ,steak tip salad,20
 ,green salad,19
-,seafood salad,18
 ,tuna salad sandwich,18
-,club,17
+,seafood salad,18
+,grilled chicken,17
 deli
 ,salad,1164
 ,chicken salad,152
@@ -154,97 +154,6 @@ deli
 ,tuna salad sandwich,15
 ,chicken salad sub,15
 ,grilled chicken caesar salad,14
-asian
-,salad,724
-,seaweed salad,104
-,avocado salad,60
-,seafood salad,39
-,house salad,38
-,chicken salad,31
-,green salad,30
-,papaya salad,26
-,tuna salad,21
-,garden salad,19
-,tofu salad,18
-,spicy seafood salad,17
-,sashimi salad,16
-,beef salad,16
-,mango salad,12
-,spicy tuna salad,11
-,salmon salad,10
-,thai salad,10
-,shrimp salad,9
-,kani salad,9
-,squid salad,9
-,grilled chicken salad,8
-,avocado seafood salad,7
-,avocado green salad,7
-,special salad,6
-african
-,salad,8
-,tomato salad,2
-,house salad,1
-,ethiopian salad,1
-,31. house salad,1
-,30. asmara potato salad,1
-,lentil salad,1
-,29. tomato salad,1
-,green salad,1
-,timatim salad,1
-,4. tomato salad,1
-,potato salad,1
-middle eastern
-,salad,107
-,salad plate,20
-,greek salad,12
-,falafel salad plate,9
-,pita,8
-,fattoush salad,7
-,hummus falafel salad plate,7
-,salad in pita,6
-,hummus salad plate,6
-,plate with salad,5
-,shawarma salad,5
-,garden salad,4
-,shawarma,4
-,syrian salad,3
-,cucumber salad,3
-,tabbouli salad,3
-,mediterranean salad,3
-,yogurt cucumber salad,3
-,tabouleh salad,2
-,rice and salad,2
-,artichoke salad,2
-,falafel salad,2
-,rice,2
-,beef shawarma,2
-,wrap,2
-mediterranean
-,salad,78
-,greek salad,9
-,garden salad,8
-,wrap,7
-,chicken salad,5
-,eggplant salad,4
-,tuna salad,4
-,mediterranean salad,3
-,fattoush salad,3
-,caesar salad,3
-,wedge salad,2
-,horiatiki salad,2
-,beet salad,2
-,green salad,2
-,chicken kebab salad,2
-,falafel salad,2
-,shepherd salad,2
-,horiatiki (village salad),2
-,grande,1
-,57. salada a chefe pequena,1
-,56. salada a chefe grande,1
-,paola's caesar salad,1
-,house salad,1
-,classic greek salad,1
-,65. salada de fruta,1
 grill
 ,salad,110
 ,caesar salad,20
@@ -271,6 +180,32 @@ grill
 ,baby spinach salad,2
 ,with chicken,2
 ,taco salad,2
+asian
+,salad,715
+,seaweed salad,104
+,avocado salad,60
+,seafood salad,39
+,house salad,38
+,green salad,30
+,chicken salad,30
+,papaya salad,25
+,tuna salad,21
+,garden salad,19
+,spicy seafood salad,17
+,beef salad,16
+,tofu salad,16
+,sashimi salad,16
+,mango salad,12
+,spicy tuna salad,11
+,thai salad,10
+,squid salad,9
+,kani salad,9
+,salmon salad,9
+,shrimp salad,9
+,grilled chicken salad,8
+,avocado seafood salad,7
+,avocado green salad,7
+,som tum salad,6
 healthy
 ,salad,114
 ,chicken salad,10
@@ -297,9 +232,6 @@ healthy
 ,falafel salad,2
 ,shrimp salad,2
 ,mango salad,2
-caribbean
-,house salad,1
-,salad,1
 southern
 ,salad,6
 ,tender romaine salad and crispy blue corn tortillas,1
@@ -310,75 +242,32 @@ southern
 ,arugula salad,1
 ,caesar salad,1
 ,garden salad,1
-other
-,salad,9
-,cobb salad,2
-,tomato salad,1
-,garden salad,1
-,cucumber tomato salad,1
-,caesar salad,1
-,fall harvest salad,1
-,harvest salad,1
-,build your own salad,1
-,poached shrimp,1
-,traditional cobb salad,1
-,field greens salad,1
-,lobster cobb salad,1
-,poached shrimp and arugula salad,1
-,shrimp,1
-,arugula salad,1
 bar
-,salad,170
-,caesar salad,37
-,chicken salad,13
-,garden salad,12
-,cobb salad,12
+,salad,156
+,caesar salad,34
+,chicken salad,12
+,cobb salad,11
+,garden salad,10
 ,chopped salad,8
-,house salad,8
-,chicken caesar salad,7
-,green salad,5
-,sandwich,5
-,spinach salad,4
-,chicken salad sandwich,4
+,house salad,7
+,chicken caesar salad,6
 ,mixed green salad,4
+,spinach salad,4
 ,tuna salad,4
-,side salad,4
-,potato salad,3
-,arugula salad,3
+,sandwich,4
+,green salad,4
 ,buffalo chicken salad,3
-,steak salad,3
-,classic caesar salad,3
+,side salad,3
 ,greek salad,3
+,classic caesar salad,3
+,chicken salad sandwich,3
+,steak salad,3
+,potato salad,3
 ,steak tip salad,3
-,grilled chicken salad,2
-,field greens salad,2
-,pear,2
-indian
-,salad,34
-,garden salad,4
-,green salad,3
-,chef salad,2
-,chicken salad,2
-,cucumber salad,2
-,organic green salad,2
-,dhaba salad,2
-,56. okra salad,1
-,55. eggplant salad (sweet and sour),1
-,onion salad,1
-,chicken tikke salad,1
-,desi dhaba salad,1
-,indian chef salad,1
-,kdesi salad,1
-,tanjore salad,1
-,kuchumber salad,1
-,indian cucumber salad,1
-,indian salad,1
-,house garden salad,1
-,tandoori chicken salad,1
-,tandoori chicken caesar salad,1
-,fresh salad,1
-,chicken caesar salad,1
-,caesar salad,1
+,egg salad,2
+,arugula salad,2
+,mj chopped salad,2
+,dooleys chopped salad,2
 desserts
 ,mediterranean tuna salad sandwich,1
 ,tuna salad sandwich,1
